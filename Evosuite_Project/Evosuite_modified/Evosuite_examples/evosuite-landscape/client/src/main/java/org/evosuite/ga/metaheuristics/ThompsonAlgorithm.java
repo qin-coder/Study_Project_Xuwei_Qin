@@ -5,7 +5,7 @@ import org.evosuite.utils.LoggingUtils;
 
 import java.io.*;
 
-public class ThompsonAlgorithm {
+public class ChangeParameter {
     //Local Search configuration
     double lscrossover_rate= Properties.CROSSOVER_RATE;
     double lsmutation_rate = Properties.MUTATION_RATE;
