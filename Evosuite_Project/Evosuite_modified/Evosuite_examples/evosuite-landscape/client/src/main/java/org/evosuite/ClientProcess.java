@@ -165,7 +165,7 @@ public class ClientProcess {
         LoggingUtils.getEvoLogger().info("* " + getPrettyPrintIdentifier() + "Connecting to master process on port "
                 + Properties.PROCESS_COMMUNICATION_PORT);
         LoggingUtils.getEvoLogger().info("* loadstarted");
-        new ChangeParameter().execThom();
+        new ChangeParameter().execFunc();
         LoggingUtils.getEvoLogger().info("* loadstopped");
 
         boolean registered = ClientServices.getInstance().registerServices(getIdentifier());
