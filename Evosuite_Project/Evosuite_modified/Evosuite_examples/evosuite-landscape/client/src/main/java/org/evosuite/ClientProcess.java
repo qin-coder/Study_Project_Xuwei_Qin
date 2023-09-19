@@ -21,7 +21,7 @@
 package org.evosuite;
 
 import org.evosuite.classpath.ClassPathHacker;
-import org.evosuite.ga.metaheuristics.ThompsonAlgorithm;
+import org.evosuite.ga.metaheuristics.ChangeParameter;
 import org.evosuite.junit.writer.TestSuiteWriterUtils;
 import org.evosuite.result.TestGenerationResult;
 import org.evosuite.result.TestGenerationResultBuilder;
@@ -165,7 +165,7 @@ public class ClientProcess {
         LoggingUtils.getEvoLogger().info("* " + getPrettyPrintIdentifier() + "Connecting to master process on port "
                 + Properties.PROCESS_COMMUNICATION_PORT);
         LoggingUtils.getEvoLogger().info("* loadstarted");
-        new ThompsonAlgorithm().execThom();
+        new ChangeParameter().execThom();
         LoggingUtils.getEvoLogger().info("* loadstopped");
 
         boolean registered = ClientServices.getInstance().registerServices(getIdentifier());
