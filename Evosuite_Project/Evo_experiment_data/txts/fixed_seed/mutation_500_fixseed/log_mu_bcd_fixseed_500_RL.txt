@@ -1,0 +1,4501 @@
+
+------------------------QLearning------------------------
+Episodes : 1
+Previous coverage:0.8899038461538462
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.018842989366183834
+Present mutation rate:0.3155951838596969
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 2
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.7970487236291689
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 3
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.7768502243825939
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 4
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.766147987640403
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 5
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.7767612713614293
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 6
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.7167304771750733
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 7
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.7319661395136836
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 8
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5239561168640652
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 9
+Previous coverage:0.892156862745098
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.026705198314538915
+Present mutation rate:0.5099637648550946
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 10
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.5128645788842613
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 11
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.8636363636363636
+Reward:-0.013776448028571319
+Present mutation rate:0.5057991266675671
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 12
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.5128058534667893
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 13
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.020021604949304262
+Present mutation rate:0.5230730496805922
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 14
+Previous coverage:0.8909313725490196
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.019862530523066423
+Present mutation rate:0.512683495265518
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 15
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.6955849632610037
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 16
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.6860022731651828
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 17
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.710168023927108
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 18
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.6951991414983868
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 19
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.45052930696332727
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 20
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.4443226133805987
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 21
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.45047771922901275
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 22
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.4442717363420249
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 23
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.5328651331501655
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 24
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.5516363333358627
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 25
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.5139771360247936
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 26
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.5139771360247936
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 27
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.5139771360247936
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 28
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.5320829701486296
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 29
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.4957586449586734
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 30
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.4957586449586734
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 31
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.5132226976605168
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 32
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.5024050179534677
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 33
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.0056753615702479845
+Present mutation rate:0.49955368782187487
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 34
+Previous coverage:0.865307486631016
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02699355391362509
+Present mutation rate:0.5130384172268448
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 35
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.49521678410757686
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 36
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:0.9545454545454546
+Reward:0.03522692519723812
+Present mutation rate:0.5126617487177513
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 37
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.5018558926615705
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 38
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5018558926615705
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 39
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5018558926615705
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 40
+Previous coverage:0.8709893048128342
+Present coverage:0.8963235294117647
+Present branch_coverage:1.0
+Reward:0.025462589186136343
+Present mutation rate:0.5146344430870539
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 41
+Previous coverage:0.8963235294117647
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:-0.0041631944444445405
+Present mutation rate:0.5124919198326741
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 42
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.5016896434203636
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 43
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5016896434203636
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 44
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5016896434203636
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 45
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5016896434203636
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 46
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.49477814212131044
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 47
+Previous coverage:0.857174688057041
+Present coverage:0.8864750445632799
+Present branch_coverage:1.0
+Reward:0.029472058684517393
+Present mutation rate:0.5093602725617262
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 48
+Previous coverage:0.8864750445632799
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.005688274793388369
+Present mutation rate:0.5151715160605008
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 49
+Previous coverage:0.892156862745098
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:-0.00122518983083429
+Present mutation rate:0.514540333157888
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 50
+Previous coverage:0.8909313725490196
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.019862530523066423
+Present mutation rate:0.5043202600851907
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 51
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.5040923742406579
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 52
+Previous coverage:0.892156862745098
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.026705198314538915
+Present mutation rate:0.49063048741771437
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 53
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.4934213284521604
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 54
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.4934213284521604
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 55
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.4934213284521604
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 56
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9090909090909092
+Reward:-0.0056753615702479845
+Present mutation rate:0.4906209840067223
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 57
+Previous coverage:0.865307486631016
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02699355391362509
+Present mutation rate:0.5038645879896635
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 58
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.4932441580019744
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 59
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.4932441580019744
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 60
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.0056753615702479845
+Present mutation rate:0.4904448190629007
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 61
+Previous coverage:0.865307486631016
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.4904448190629007
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 62
+Previous coverage:0.865307486631016
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02699355391362509
+Present mutation rate:0.5036836677279332
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 63
+Previous coverage:0.892156862745098
+Present coverage:0.8510472370766489
+Present branch_coverage:0.9090909090909092
+Reward:-0.04077162540392911
+Present mutation rate:0.48314766590525277
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 64
+Previous coverage:0.8510472370766489
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.006134960111495557
+Present mutation rate:0.48611175756354363
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 65
+Previous coverage:0.857174688057041
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:0.008146027056503946
+Present mutation rate:0.49007163709314094
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 66
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.49285929923337246
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 67
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.49285929923337246
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 68
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.0056753615702479845
+Present mutation rate:0.49006214450696406
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 69
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.49284975265075687
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 70
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.0056753615702479845
+Present mutation rate:0.49005265210465654
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 71
+Previous coverage:0.865307486631016
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02699355391362509
+Present mutation rate:0.5168662552968344
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 72
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.4989116529428411
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 73
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.516486776421089
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 74
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.516486776421089
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 75
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.5056002966420021
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 76
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.516347928622576
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 77
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9090909090909092
+Reward:-0.02107794483050062
+Present mutation rate:0.505464375469726
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 78
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.498500871770773
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 79
+Previous coverage:0.857174688057041
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:0.008146027056503946
+Present mutation rate:0.5025616733599085
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 80
+Previous coverage:0.865307486631016
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5025616733599085
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 81
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.5054203822586048
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 82
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5054203822586048
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 83
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.7272727272727273
+Reward:0.0
+Present mutation rate:0.5054203822586048
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 84
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.4984574846298384
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 85
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.4984574846298384
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 86
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.5160166091548972
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 87
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.5051400395355083
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 88
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5051400395355083
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 89
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5051400395355083
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 90
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5051400395355083
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 91
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.0056753615702479845
+Present mutation rate:0.502273187167535
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 92
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.505130255077495
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 93
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.515867895304139
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 94
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.515867895304139
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 95
+Previous coverage:0.892156862745098
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:-0.00122518983083429
+Present mutation rate:0.5152358592047585
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 96
+Previous coverage:0.8909313725490196
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.03352878174240035
+Present mutation rate:0.49796062853562395
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 97
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.49796062853562395
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 98
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.5048587703017153
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 99
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5048587703017153
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 100
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.5048587703017153
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 101
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.020021604949304262
+Present mutation rate:0.5149668531558879
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 102
+Previous coverage:0.8909313725490196
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.03352878174240035
+Present mutation rate:0.49770064193185337
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 103
+Previous coverage:0.857174688057041
+Present coverage:0.8510472370766489
+Present branch_coverage:0.9090909090909092
+Reward:-0.006119941849288713
+Present mutation rate:0.4946547429448767
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 104
+Previous coverage:0.8510472370766489
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.020021604949304262
+Present mutation rate:0.5045585247944187
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 105
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.020021604949304262
+Present mutation rate:0.5043562651105322
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 106
+Previous coverage:0.8909313725490196
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.001225790561322564
+Present mutation rate:0.5049745002598487
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 107
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.494330675602562
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 108
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.0056753615702479845
+Present mutation rate:0.4915251702832525
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 109
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.4971329347756168
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 110
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.5077005745967899
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 111
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.4865235662818199
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 112
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.47982099965626324
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 113
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.5142216638584056
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 114
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.50338292799695
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 115
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.4896088078127164
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 116
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.4963912535979407
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 117
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.4963912535979407
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 118
+Previous coverage:0.8709893048128342
+Present coverage:0.8783422459893048
+Present branch_coverage:0.9545454545454546
+Reward:0.00736375432525949
+Present mutation rate:0.5000465568386435
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 119
+Previous coverage:0.8783422459893048
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.012620823781222083
+Present mutation rate:0.5063575563149109
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 120
+Previous coverage:0.8909313725490196
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.001225790561322564
+Present mutation rate:0.506978244628096
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 121
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.49629218515756096
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 122
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.49629218515756096
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 123
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.4894550416617517
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 124
+Previous coverage:0.857174688057041
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:0.008146027056503946
+Present mutation rate:0.49344215567407057
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 125
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.49624899025018665
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 126
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.506797839911398
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 127
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.4891929883734578
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 128
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.4959696739011904
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 129
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.48913697346494317
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 130
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.5063677650403962
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 131
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5063677650403962
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 132
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.49569457322493077
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 133
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.49569457322493077
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 134
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.49569457322493077
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 135
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.0056753615702479845
+Present mutation rate:0.49288132729346956
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 136
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.49850456405376187
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 137
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.49850456405376187
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 138
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.4916369418350696
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 139
+Previous coverage:0.857174688057041
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.03398458724155675
+Present mutation rate:0.5083450203760357
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 140
+Previous coverage:0.8909313725490196
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.001225790561322564
+Present mutation rate:0.508968144903908
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 141
+Previous coverage:0.892156862745098
+Present coverage:0.8864750445632799
+Present branch_coverage:1.0
+Reward:-0.0056753615702478735
+Present mutation rate:0.50607956665384
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 142
+Previous coverage:0.8864750445632799
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.02912865432796032
+Present mutation rate:0.4913381498943364
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 143
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.49072843056877535
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 144
+Previous coverage:0.892156862745098
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:-0.00122518983083429
+Present mutation rate:0.4901271950859412
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 145
+Previous coverage:0.8909313725490196
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.03352878174240035
+Present mutation rate:0.4736938273358898
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 146
+Previous coverage:0.857174688057041
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.03398458724155675
+Present mutation rate:0.506437499451444
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 147
+Previous coverage:0.8909313725490196
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.019862530523066423
+Present mutation rate:0.49637836916056427
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 148
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.020021604949304262
+Present mutation rate:0.506316660773277
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 149
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.506316660773277
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 150
+Previous coverage:0.8909313725490196
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.001225790561322564
+Present mutation rate:0.5063159000008494
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 151
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5063159000008494
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 152
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.4887277898140106
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 153
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.4887277898140106
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 154
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.5059441671076003
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 155
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.4952799038659927
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 156
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.488456706010787
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 157
+Previous coverage:0.857174688057041
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:0.008146027056503946
+Present mutation rate:0.4924356875538817
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 158
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.4952367970627593
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 159
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.4952367970627593
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 160
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.48841419306618805
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 161
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.8636363636363636
+Reward:0.0
+Present mutation rate:0.48841419306618805
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 162
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.48841419306618805
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 163
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.49518009010959385
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 164
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.49518009010959385
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 165
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.49518009010959385
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 166
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.49518009010959385
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 167
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.49518009010959385
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 168
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.49518009010959385
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 169
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.49518009010959385
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 170
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.4949563344091756
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 171
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.4611665763177158
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 172
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.4611665763177158
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 173
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:0.9090909090909092
+Reward:0.03522692519723812
+Present mutation rate:0.4605942979917926
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 174
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.4413821683105401
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 175
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.4413821683105401
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 176
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.4413821683105401
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 177
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.4411827221328867
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 178
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.422780280531458
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 179
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.42258923993898906
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 180
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.42258923993898906
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 181
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.42258923993898906
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 182
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.4049623624135655
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 183
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.4049623624135655
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 184
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.3938813345523874
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 185
+Previous coverage:0.857174688057041
+Present coverage:0.8783422459893048
+Present branch_coverage:0.9545454545454546
+Reward:0.02125717103402692
+Present mutation rate:0.4022541374480783
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 186
+Previous coverage:0.8783422459893048
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.007342128027681635
+Present mutation rate:0.39930073607126987
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 187
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.39930073607126987
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 188
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.39930073607126987
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 189
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.39912030511763963
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 190
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.3824723546463166
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 191
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.38229952788830707
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 192
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.35620064265786544
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 193
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9090909090909092
+Reward:0.013852785483015096
+Present mutation rate:0.3561322878736392
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 194
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.3561322878736392
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 195
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.3561322878736392
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 196
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.37143394232439647
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 197
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.3559408346175305
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 198
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.3462011879950134
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 199
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.34613475210279354
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 200
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.34613475210279354
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 201
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.33666343035103036
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 202
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.33666343035103036
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 203
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.33624565249327837
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 204
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.322220305004992
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 205
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.32207470417920064
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 206
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.3086404497589427
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 207
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.3001950885592452
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 208
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.30013748122212436
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 209
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:0.9545454545454546
+Reward:0.020021604949304262
+Present mutation rate:0.30001716671133655
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 210
+Previous coverage:0.8909313725490196
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.03352878174240035
+Present mutation rate:0.2802360195680598
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 211
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.27988826453034155
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 212
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.27988826453034155
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 213
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.2682136744239016
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 214
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.020021604949304262
+Present mutation rate:0.26810615703922336
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 215
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.26810615703922336
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 216
+Previous coverage:0.8909313725490196
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.019862530523066423
+Present mutation rate:0.2575613968569168
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 217
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2575613968569168
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 218
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2575613968569168
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 219
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2575613968569168
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 220
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2575613968569168
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 221
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2575613968569168
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 222
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2575613968569168
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 223
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2575613968569168
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 224
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2575613968569168
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 225
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.25401311565895124
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 226
+Previous coverage:0.857174688057041
+Present coverage:0.8783422459893048
+Present branch_coverage:0.9545454545454546
+Reward:0.02125717103402692
+Present mutation rate:0.25389833543303963
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 227
+Previous coverage:0.8783422459893048
+Present coverage:0.8783422459893048
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.25389833543303963
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 228
+Previous coverage:0.8783422459893048
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.007342128027681635
+Present mutation rate:0.250183714121464
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 229
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.0056753615702479845
+Present mutation rate:0.24876383108483716
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 230
+Previous coverage:0.865307486631016
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.24876383108483716
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 231
+Previous coverage:0.865307486631016
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02699355391362509
+Present mutation rate:0.2554788509709856
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 232
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.24660417375607468
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 233
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.24660417375607468
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 234
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.25002032847433375
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 235
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.25002032847433375
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 236
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.25002032847433375
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 237
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.25002032847433375
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 238
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.25002032847433375
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 239
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.25002032847433375
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 240
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.2499073524584681
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 241
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2499073524584681
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 242
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2499073524584681
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 243
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2499073524584681
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 244
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.24463981907061202
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 245
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.24463981907061202
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 246
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.24463981907061202
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 247
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.24463981907061202
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 248
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.24463981907061202
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 249
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.24126955131746664
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 250
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.2446118066554508
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 251
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2446118066554508
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 252
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.020021604949304262
+Present mutation rate:0.2545049048029007
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 253
+Previous coverage:0.8909313725490196
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.019862530523066423
+Present mutation rate:0.24449508922833815
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 254
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.24449508922833815
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 255
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.24449508922833815
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 256
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:0.8636363636363636
+Reward:0.02125717103402692
+Present mutation rate:0.24969236315704463
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 257
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:0.8636363636363636
+Reward:0.0
+Present mutation rate:0.24969236315704463
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 258
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.2444293613018231
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 259
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2444293613018231
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 260
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2444293613018231
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 261
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2444293613018231
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 262
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2444293613018231
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 263
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2444293613018231
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 264
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2444293613018231
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 265
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.24962523804075396
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 266
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.24962523804075396
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 267
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.24095390026117944
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 268
+Previous coverage:0.857174688057041
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.03398458724155675
+Present mutation rate:0.24914261910579885
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 269
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.24914261910579885
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 270
+Previous coverage:0.8909313725490196
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.019862530523066423
+Present mutation rate:0.24419401622921322
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 271
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.23751210959166383
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 272
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.23751210959166383
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 273
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.2408023138954555
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 274
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.23748491333291502
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 275
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.23748491333291502
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 276
+Previous coverage:0.857174688057041
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.03522692519723812
+Present mutation rate:0.2458507766103662
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 277
+Previous coverage:0.892156862745098
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:-0.00122518983083429
+Present mutation rate:0.24554956273896045
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 278
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.24554956273896045
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 279
+Previous coverage:0.8909313725490196
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.025492569212095802
+Present mutation rate:0.23928987351583764
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 280
+Previous coverage:0.865307486631016
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.025755202623911348
+Present mutation rate:0.24545283269408816
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 281
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.24545283269408816
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 282
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.24545283269408816
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 283
+Previous coverage:0.8909313725490196
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.001225790561322564
+Present mutation rate:0.24575370645965447
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 284
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.24575370645965447
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 285
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.2355029237236609
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 286
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2355029237236609
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 287
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2355029237236609
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 288
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2355029237236609
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 289
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.2322585299344053
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 290
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.2322585299344053
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 291
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.8636363636363636
+Reward:0.0
+Present mutation rate:0.2322585299344053
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 292
+Previous coverage:0.857174688057041
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.03398458724155675
+Present mutation rate:0.23199028244126144
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 293
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.23199028244126144
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 294
+Previous coverage:0.8909313725490196
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.019862530523066423
+Present mutation rate:0.2228659791429572
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 295
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2228659791429572
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 296
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2228659791429572
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 297
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.22276527329016027
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 298
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.2134733751108075
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 299
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.2134733751108075
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 300
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.0056753615702479845
+Present mutation rate:0.2110571738516085
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 301
+Previous coverage:0.865307486631016
+Present coverage:0.8783422459893048
+Present branch_coverage:0.9545454545454546
+Reward:0.013068740348594494
+Present mutation rate:0.21102112698019643
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 302
+Previous coverage:0.8783422459893048
+Present coverage:0.8783422459893048
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.21102112698019643
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 303
+Previous coverage:0.8783422459893048
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.007342128027681635
+Present mutation rate:0.20793381420149543
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 304
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20793381420149543
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 305
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20793381420149543
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 306
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20793381420149543
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 307
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20793381420149543
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 308
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20793381420149543
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 309
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.020021604949304262
+Present mutation rate:0.2120969828850398
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 310
+Previous coverage:0.8909313725490196
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.03352878174240035
+Present mutation rate:0.20498562943766568
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 311
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.20498562943766568
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 312
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.20782525138936647
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 313
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.2049621576145761
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 314
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.2049621576145761
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 315
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.2049621576145761
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 316
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.20780145441614672
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 317
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20780145441614672
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 318
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.20493868847912114
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 319
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.20777766016779287
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 320
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20777766016779287
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 321
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20777766016779287
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 322
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20777766016779287
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 323
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20777766016779287
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 324
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20777766016779287
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 325
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20777766016779287
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 326
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20777766016779287
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 327
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.21219442542702957
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 328
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.20772180303453885
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 329
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20772180303453885
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 330
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20772180303453885
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 331
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20772180303453885
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 332
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20772180303453885
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 333
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.20203788941579817
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 334
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.20203788941579817
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 335
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.20203788941579817
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 336
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.20483667695731633
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 337
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20483667695731633
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 338
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20483667695731633
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 339
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9090909090909092
+Reward:-0.0056753615702479845
+Present mutation rate:0.20367415475273548
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 340
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.20483270931328015
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 341
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20483270931328015
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 342
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20483270931328015
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 343
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20483270931328015
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 344
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20483270931328015
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 345
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20483270931328015
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 346
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20483270931328015
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 347
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20483270931328015
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 348
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.20918687324851568
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 349
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.20918687324851568
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 350
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.20918687324851568
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 351
+Previous coverage:0.892156862745098
+Present coverage:0.8909313725490196
+Present branch_coverage:0.9545454545454546
+Reward:-0.00122518983083429
+Present mutation rate:0.20867459999716845
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 352
+Previous coverage:0.8909313725490196
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.03352878174240035
+Present mutation rate:0.20167799487868068
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 353
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.20167799487868068
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 354
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.20447179687837966
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 355
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.20165490179537607
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 356
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.20165490179537607
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 357
+Previous coverage:0.857174688057041
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.03398458724155675
+Present mutation rate:0.20850806039812858
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 358
+Previous coverage:0.8909313725490196
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.019862530523066423
+Present mutation rate:0.20436656268416536
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 359
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20436656268416536
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 360
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20436656268416536
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 361
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20436656268416536
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 362
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20436656268416536
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 363
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20436656268416536
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 364
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20436656268416536
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 365
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.20436656268416536
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 366
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.2042742161131121
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 367
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.19575360969741734
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 368
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.19575360969741734
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 369
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.19575360969741734
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 370
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.19566515503835066
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 371
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.19566515503835066
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 372
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.19566515503835066
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 373
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.1823074549827167
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 374
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.1823074549827167
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 375
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.18227247024306212
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 376
+Previous coverage:0.8709893048128342
+Present coverage:0.845736779560309
+Present branch_coverage:0.9545454545454546
+Reward:-0.02512498724619931
+Present mutation rate:0.17322834549071559
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 377
+Previous coverage:0.845736779560309
+Present coverage:0.845736779560309
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.17322834549071559
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 378
+Previous coverage:0.845736779560309
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.025380063258851077
+Present mutation rate:0.1731167608658062
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 379
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1731167608658062
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 380
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1731167608658062
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 381
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1731167608658062
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 382
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.168379748668036
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 383
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.168379748668036
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 384
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.1683474366505663
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 385
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.020021604949304262
+Present mutation rate:0.16827995211181254
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 386
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.16827995211181254
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 387
+Previous coverage:0.8909313725490196
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.025492569212095802
+Present mutation rate:0.15980953573444376
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 388
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.15980436486197505
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 389
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.15980436486197505
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 390
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.020021604949304262
+Present mutation rate:0.1597403049388297
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 391
+Previous coverage:0.8909313725490196
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.019862530523066423
+Present mutation rate:0.1534576323376852
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 392
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1534576323376852
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 393
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1534576323376852
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 394
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1534576323376852
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 395
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1534576323376852
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 396
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.14925855494859264
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 397
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.14925855494859264
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 398
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.14925855494859264
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 399
+Previous coverage:0.857174688057041
+Present coverage:0.8783422459893048
+Present branch_coverage:0.9545454545454546
+Reward:0.02125717103402692
+Present mutation rate:0.14919110988532575
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 400
+Previous coverage:0.8783422459893048
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.013852785483015096
+Present mutation rate:0.14916248016122252
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 401
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.14916248016122252
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 402
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.14294067297661486
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 403
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14294067297661486
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 404
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14294067297661486
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 405
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14294067297661486
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 406
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14294067297661486
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 407
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14294067297661486
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 408
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14294067297661486
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 409
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:0.8181818181818182
+Reward:0.02125717103402692
+Present mutation rate:0.1459791873097977
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 410
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:0.8181818181818182
+Reward:0.0
+Present mutation rate:0.1459791873097977
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 411
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.14290224605328047
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 412
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14290224605328047
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 413
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14290224605328047
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 414
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14290224605328047
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 415
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14290224605328047
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 416
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14290224605328047
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 417
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14290224605328047
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 418
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.14093356068736135
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 419
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.14093356068736135
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 420
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.14288588307092084
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 421
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14288588307092084
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 422
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14288588307092084
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 423
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14288588307092084
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 424
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.14091742312877778
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 425
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.14091742312877778
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 426
+Previous coverage:0.857174688057041
+Present coverage:0.8783422459893048
+Present branch_coverage:0.9545454545454546
+Reward:0.02125717103402692
+Present mutation rate:0.14391292889390056
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 427
+Previous coverage:0.8783422459893048
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.02107794483050062
+Present mutation rate:0.14087954011827916
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 428
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.14087954011827916
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 429
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.1428311141664835
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 430
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1428311141664835
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 431
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1428311141664835
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 432
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.140863408745306
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 433
+Previous coverage:0.857174688057041
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.03398458724155675
+Present mutation rate:0.14565059354895393
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 434
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.14565059354895393
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 435
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.14565059354895393
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 436
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.14565059354895393
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 437
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.14565059354895393
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 438
+Previous coverage:0.8909313725490196
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.03352878174240035
+Present mutation rate:0.14076710658719999
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 439
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.14271712311781717
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 440
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14271712311781717
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 441
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.14075098808839734
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 442
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.1427007813329083
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 443
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1427007813329083
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 444
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.14573419624839123
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 445
+Previous coverage:0.892156862745098
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.034737424178875834
+Present mutation rate:0.14067176565594333
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 446
+Previous coverage:0.857174688057041
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.14067176565594333
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 447
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.14262046144909207
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 448
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14262046144909207
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 449
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14262046144909207
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 450
+Previous coverage:0.8709893048128342
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.013776448028571319
+Present mutation rate:0.1406556580741278
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 451
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.14062866630037324
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 452
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062866630037324
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 453
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062866630037324
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 454
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9090909090909092
+Reward:-0.0056753615702479845
+Present mutation rate:0.13983054777197687
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 455
+Previous coverage:0.865307486631016
+Present coverage:0.865307486631016
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.13983054777197687
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 456
+Previous coverage:0.865307486631016
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.13983054777197687
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 457
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.1406259423522139
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 458
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1406259423522139
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 459
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1406259423522139
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 460
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1406259423522139
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 461
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.1406259423522139
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 462
+Previous coverage:0.8709893048128342
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.0056753615702479845
+Present mutation rate:0.13982783928320824
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 463
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 464
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 465
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 466
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 467
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 468
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 469
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 470
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 471
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 472
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 473
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 474
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 475
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 476
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 477
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.14062321845681688
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 478
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.020021604949304262
+Present mutation rate:0.14343872098345897
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 479
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.14343872098345897
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 480
+Previous coverage:0.8909313725490196
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.001225790561322564
+Present mutation rate:0.1436145468137687
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 481
+Previous coverage:0.892156862745098
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:-0.026705198314538915
+Present mutation rate:0.13977929186025437
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 482
+Previous coverage:0.865307486631016
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.13977929186025437
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 483
+Previous coverage:0.865307486631016
+Present coverage:0.865307486631016
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.13977929186025437
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 484
+Previous coverage:0.865307486631016
+Present coverage:0.865307486631016
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.13977929186025437
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 485
+Previous coverage:0.865307486631016
+Present coverage:0.865307486631016
+Present branch_coverage:0.9090909090909092
+Reward:0.0
+Present mutation rate:0.13977929186025437
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 486
+Previous coverage:0.865307486631016
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.00568827479338848
+Present mutation rate:0.14057439488278073
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 487
+Previous coverage:0.8709893048128342
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.020021604949304262
+Present mutation rate:0.14625979619111834
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 488
+Previous coverage:0.8909313725490196
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.14625979619111834
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 489
+Previous coverage:0.8909313725490196
+Present coverage:0.857174688057041
+Present branch_coverage:0.9090909090909092
+Reward:-0.03352878174240035
+Present mutation rate:0.14135588340693836
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 490
+Previous coverage:0.857174688057041
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.013852785483015096
+Present mutation rate:0.14331405613653678
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 491
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14331405613653678
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 492
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14331405613653678
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 493
+Previous coverage:0.8709893048128342
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.02125717103402692
+Present mutation rate:0.1463605075394113
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 494
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.1463605075394113
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 495
+Previous coverage:0.892156862745098
+Present coverage:0.8909313725490196
+Present branch_coverage:1.0
+Reward:-0.00122518983083429
+Present mutation rate:0.14618118813393827
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 496
+Previous coverage:0.8909313725490196
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.001225790561322564
+Present mutation rate:0.14636037565459578
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 497
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.14636037565459578
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 498
+Previous coverage:0.892156862745098
+Present coverage:0.892156862745098
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.14636037565459578
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 499
+Previous coverage:0.892156862745098
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:-0.02107794483050062
+Present mutation rate:0.14327539973117687
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 500
+Previous coverage:0.8709893048128342
+Present coverage:0.8709893048128342
+Present branch_coverage:0.9545454545454546
+Reward:0.0
+Present mutation rate:0.14327539973117687
+Present class:bcry.bcDictionary(Fixed seed After RL)
+-------------------------------------------------------

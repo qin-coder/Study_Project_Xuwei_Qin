@@ -1,0 +1,3499 @@
+-------------------------------------------------------
+Episodes : 1
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 2
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 3
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 4
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 5
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 6
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 7
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 8
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 9
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 10
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 11
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 12
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 13
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 14
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 15
+Present coverage:0.7291740609287193
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 16
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 17
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 18
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 19
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 20
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 21
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 22
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 23
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 24
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 25
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 26
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 27
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 28
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 29
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 30
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 31
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 32
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 33
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 34
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 35
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 36
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 37
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 38
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 39
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 40
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 41
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 42
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 43
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 44
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 45
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 46
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 47
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 48
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 49
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 50
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 51
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 52
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 53
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 54
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 55
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 56
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 57
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 58
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 59
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 60
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 61
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 62
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 63
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 64
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 65
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 66
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 67
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 68
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 69
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 70
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 71
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 72
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 73
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 74
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 75
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 76
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 77
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 78
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 79
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 80
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 81
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 82
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 83
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 84
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 85
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 86
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 87
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 88
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 89
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 90
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 91
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 92
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 93
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 94
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 95
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 96
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 97
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 98
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 99
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 100
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 101
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 102
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 103
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 104
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 105
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 106
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 107
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 108
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 109
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 110
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 111
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 112
+Present coverage:0.7205535837523415
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 113
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 114
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 115
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 116
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 117
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 118
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 119
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 120
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 121
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 122
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 123
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 124
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 125
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 126
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 127
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 128
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 129
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 130
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 131
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 132
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 133
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 134
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 135
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 136
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 137
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 138
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 139
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 140
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 141
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 142
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 143
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 144
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 145
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 146
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 147
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 148
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 149
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 150
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 151
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 152
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 153
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 154
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 155
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 156
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 157
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 158
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 159
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 160
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 161
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 162
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 163
+Present coverage:0.729234139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 164
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 165
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 166
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 167
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 168
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 169
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 170
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 171
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 172
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 173
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 174
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 175
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 176
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 177
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 178
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 179
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 180
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 181
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 182
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 183
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 184
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 185
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 186
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 187
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 188
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 189
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 190
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 191
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 192
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 193
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 194
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 195
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 196
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 197
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 198
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 199
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 200
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 201
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 202
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 203
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 204
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 205
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 206
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 207
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 208
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 209
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 210
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 211
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 212
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 213
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 214
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 215
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 216
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 217
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 218
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 219
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 220
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 221
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 222
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 223
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 224
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 225
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 226
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 227
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 228
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 229
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 230
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 231
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 232
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 233
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 234
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 235
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 236
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 237
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 238
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 239
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 240
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 241
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 242
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 243
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 244
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 245
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 246
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 247
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 248
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 249
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 250
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 251
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 252
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 253
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 254
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 255
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 256
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 257
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 258
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 259
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 260
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 261
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 262
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 263
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 264
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 265
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 266
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 267
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 268
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 269
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 270
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 271
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 272
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 273
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 274
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 275
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 276
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 277
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 278
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 279
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 280
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 281
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 282
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 283
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 284
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 285
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 286
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 287
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 288
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 289
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 290
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 291
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 292
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 293
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 294
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 295
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 296
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 297
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 298
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 299
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 300
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 301
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 302
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 303
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 304
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 305
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 306
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 307
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 308
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 309
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 310
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 311
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 312
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 313
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 314
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 315
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 316
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 317
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 318
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 319
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 320
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 321
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 322
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 323
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 324
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 325
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 326
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 327
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 328
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 329
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 330
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 331
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 332
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 333
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 334
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 335
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 336
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 337
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 338
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 339
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 340
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 341
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 342
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 343
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 344
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 345
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 346
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 347
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 348
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 349
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 350
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 351
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 352
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 353
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 354
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 355
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 356
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 357
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 358
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 359
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 360
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 361
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 362
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 363
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 364
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 365
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 366
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 367
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 368
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 369
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 370
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 371
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 372
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 373
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 375
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 376
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 377
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 378
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 379
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 380
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 381
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 382
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 383
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 384
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 385
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 387
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 388
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 389
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 390
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 391
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 392
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 393
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 394
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 395
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 396
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 397
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 398
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 399
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 400
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 401
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 402
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 403
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 404
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 405
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 406
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 407
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 408
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 409
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 410
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 411
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 412
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 413
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 414
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 415
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 416
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 417
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 418
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 419
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 420
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 421
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 422
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 423
+Present coverage:0.729234139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 424
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 425
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 426
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 427
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 428
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 429
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 430
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 431
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 432
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 433
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 434
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 435
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 436
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 437
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 438
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 439
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 440
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 441
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 442
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 443
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 444
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 445
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 446
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 447
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 448
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 449
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 450
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 451
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 452
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 453
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 454
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 455
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 456
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 457
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 458
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 459
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 460
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 461
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 462
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 463
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 464
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 465
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 466
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 467
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 468
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 469
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 470
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 471
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 472
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 473
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 474
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 475
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 476
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 477
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 478
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 479
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 480
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 481
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 482
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 483
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 484
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 485
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 486
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 487
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 488
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 489
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 490
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 491
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 492
+Present coverage:0.7205535837523415
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 493
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 494
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 495
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 496
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 497
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 498
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 499
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 500
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Present class:com.imsmart.main.MMigrater(Fixed_seed)
+-------------------------------------------------------

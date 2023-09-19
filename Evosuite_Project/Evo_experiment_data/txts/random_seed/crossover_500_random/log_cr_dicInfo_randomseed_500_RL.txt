@@ -1,0 +1,4501 @@
+
+------------------------QLearning------------------------
+Episodes : 1
+Previous coverage:0.8952366127023661
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:-0.010252861700131287
+Present crossover rate:0.9897471382998687
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 2
+Previous coverage:0.8849626400996264
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:0.008172821526790228
+Present crossover rate:0.9978361650178449
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 3
+Previous coverage:0.8931221461187215
+Present coverage:0.8781133250311333
+Present branch_coverage:1.0
+Reward:-0.014963768145500428
+Present crossover rate:0.9829047759973226
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 4
+Previous coverage:0.8781133250311333
+Present coverage:0.8818564806578505
+Present branch_coverage:1.0
+Reward:0.0037459578695263965
+Present crossover rate:0.986586695877965
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 5
+Previous coverage:0.8818564806578505
+Present coverage:0.8712640099626401
+Present branch_coverage:1.0
+Reward:-0.010570030608124632
+Present crossover rate:0.9761584443049663
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 6
+Previous coverage:0.8712640099626401
+Present coverage:0.8792808219178082
+Present branch_coverage:1.0
+Reward:0.008029665809953028
+Present crossover rate:0.9839966703902988
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 7
+Previous coverage:0.8792808219178082
+Present coverage:0.8758561643835616
+Present branch_coverage:1.0
+Reward:-0.0034223118784012145
+Present crossover rate:0.9806291268969148
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 8
+Previous coverage:0.8758561643835616
+Present coverage:0.8916340508806262
+Present branch_coverage:1.0
+Reward:0.015827674837527426
+Present crossover rate:0.9961502058536477
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 9
+Previous coverage:0.8916340508806262
+Present coverage:0.8672945205479452
+Present branch_coverage:1.0
+Reward:-0.024221047785317893
+Present crossover rate:0.9720224041163122
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 10
+Previous coverage:0.8672945205479452
+Present coverage:0.8798256537982565
+Present branch_coverage:1.0
+Reward:0.01256253911041871
+Present crossover rate:0.9842334735842266
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 11
+Previous coverage:0.8798256537982565
+Present coverage:0.900373599003736
+Present branch_coverage:1.0
+Reward:0.020632388815913012
+Present crossover rate:1
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 12
+Previous coverage:0.900373599003736
+Present coverage:0.8672945205479452
+Present branch_coverage:1.0
+Reward:-0.03286023336949396
+Present crossover rate:0.967139766630506
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 13
+Previous coverage:0.8672945205479452
+Present coverage:0.8914098173515982
+Present branch_coverage:1.0
+Reward:0.02423160631163864
+Present crossover rate:0.9905751167038265
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 14
+Previous coverage:0.8914098173515982
+Present coverage:0.8832503113325031
+Present branch_coverage:1.0
+Reward:-0.008146190511399967
+Present crossover rate:0.9825057030873049
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 15
+Previous coverage:0.8832503113325031
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:0.0017129151810846936
+Present crossover rate:0.9841886520216253
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 16
+Previous coverage:0.8849626400996264
+Present coverage:0.8789515279241307
+Present branch_coverage:1.0
+Reward:-0.006003885481578491
+Present crossover rate:0.9782796960626183
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 17
+Previous coverage:0.8789515279241307
+Present coverage:0.8738145416227607
+Present branch_coverage:1.0
+Reward:-0.005131708575717846
+Present crossover rate:0.9732594497568832
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 18
+Previous coverage:0.8738145416227607
+Present coverage:0.877568493150685
+Present branch_coverage:1.0
+Reward:0.0037567699583390384
+Present crossover rate:0.9769157616193993
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 19
+Previous coverage:0.877568493150685
+Present coverage:0.8746886674968867
+Present branch_coverage:1.0
+Reward:-0.002878166974639041
+Present crossover rate:0.9713004008740829
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 20
+Previous coverage:0.8746886674968867
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:0.018501437248655193
+Present crossover rate:0.9892708542904484
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 21
+Previous coverage:0.8931221461187215
+Present coverage:0.8828481735159818
+Present branch_coverage:1.0
+Reward:-0.010252861700131398
+Present crossover rate:0.9791279970374376
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 22
+Previous coverage:0.8828481735159818
+Present coverage:0.8929794520547946
+Present branch_coverage:1.0
+Reward:0.010151807099778995
+Present crossover rate:0.9890679155893547
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 23
+Previous coverage:0.8929794520547946
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:0.00014269813624614958
+Present crossover rate:0.9893502120258565
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 24
+Previous coverage:0.8931221461187215
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.008576304184650007
+Present crossover rate:0.9978351803893383
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 25
+Previous coverage:0.901683789954338
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:-0.015363459373240764
+Present crossover rate:0.9825049801342363
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 26
+Previous coverage:0.8862728310502284
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:0.006858697691874676
+Present crossover rate:0.9892436847737384
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 27
+Previous coverage:0.8931221461187215
+Present coverage:0.8883872976338729
+Present branch_coverage:1.0
+Reward:-0.004730364726813725
+Present crossover rate:0.9845642013410614
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 28
+Previous coverage:0.8883872976338729
+Present coverage:0.8882093933463797
+Present branch_coverage:1.0
+Reward:-0.00017789795750610071
+Present crossover rate:0.9843890493806091
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 29
+Previous coverage:0.8882093933463797
+Present coverage:0.8828481735159818
+Present branch_coverage:1.0
+Reward:-0.005355471294783975
+Present crossover rate:0.9791171820837515
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 30
+Previous coverage:0.8828481735159818
+Present coverage:0.8832503113325031
+Present branch_coverage:1.0
+Reward:0.0004021701594860149
+Present crossover rate:0.9795109537970257
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 31
+Previous coverage:0.8832503113325031
+Present coverage:0.8781133250311333
+Present branch_coverage:1.0
+Reward:-0.005131708575717736
+Present crossover rate:0.974484389035416
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 32
+Previous coverage:0.8781133250311333
+Present coverage:0.8916340508806262
+Present branch_coverage:1.0
+Reward:0.013557287854992361
+Present crossover rate:0.9876957544077655
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 33
+Previous coverage:0.8916340508806262
+Present coverage:0.9051084474885844
+Present branch_coverage:1.0
+Reward:0.01351070848074795
+Present crossover rate:1
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 34
+Previous coverage:0.9051084474885844
+Present coverage:0.8883872976338729
+Present branch_coverage:1.0
+Reward:-0.016665230484218772
+Present crossover rate:0.9833347695157812
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 35
+Previous coverage:0.8883872976338729
+Present coverage:0.8971285563751317
+Present branch_coverage:1.0
+Reward:0.008756540662135078
+Present crossover rate:0.9919453804095374
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 36
+Previous coverage:0.8971285563751317
+Present coverage:0.8900996264009963
+Present branch_coverage:1.0
+Reward:-0.007019048802819141
+Present crossover rate:0.9849828673747119
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 37
+Previous coverage:0.8900996264009963
+Present coverage:0.8964041095890412
+Present branch_coverage:1.0
+Reward:0.006312432489698553
+Present crossover rate:0.9912005052285244
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 38
+Previous coverage:0.8964041095890412
+Present coverage:0.8943624868282403
+Present branch_coverage:1.0
+Reward:-0.0020407891161014035
+Present crossover rate:0.9891776740255799
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 39
+Previous coverage:0.8943624868282403
+Present coverage:0.8806638566912539
+Present branch_coverage:1.0
+Reward:-0.013661099643460366
+Present crossover rate:0.9756644192556301
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 40
+Previous coverage:0.8806638566912539
+Present coverage:0.8879851598173516
+Present branch_coverage:1.0
+Reward:0.00733202342199053
+Present crossover rate:0.9828180136296151
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 41
+Previous coverage:0.8879851598173516
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:-0.0017117423531618954
+Present crossover rate:0.9811356824102349
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 42
+Previous coverage:0.8862728310502284
+Present coverage:0.9102454337899544
+Present branch_coverage:1.0
+Reward:0.024087539876149356
+Present crossover rate:1
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 43
+Previous coverage:0.9102454337899544
+Present coverage:0.8621575342465754
+Present branch_coverage:1.0
+Reward:-0.047625410326880176
+Present crossover rate:0.9070173590550433
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 44
+Previous coverage:0.8621575342465754
+Present coverage:0.9005707762557078
+Present branch_coverage:1.0
+Reward:0.038708357441462865
+Present crossover rate:0.9421265111949576
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 45
+Previous coverage:0.9005707762557078
+Present coverage:0.9029241306638568
+Present branch_coverage:1.0
+Reward:0.0023544620635430596
+Present crossover rate:0.9443447123246242
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 46
+Previous coverage:0.9029241306638568
+Present coverage:0.8919915700737618
+Present branch_coverage:1.0
+Reward:-0.010908656413883734
+Present crossover rate:0.934043180321607
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 47
+Previous coverage:0.8919915700737618
+Present coverage:0.896546803652968
+Present branch_coverage:1.0
+Reward:0.0045593836097984
+Present crossover rate:0.9383018414888094
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 48
+Previous coverage:0.896546803652968
+Present coverage:0.8986612702366127
+Present branch_coverage:1.0
+Reward:0.0021153607774313395
+Present crossover rate:0.9402866884016864
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 49
+Previous coverage:0.8986612702366127
+Present coverage:0.9022655426765016
+Present branch_coverage:1.0
+Reward:0.003606870595853111
+Present crossover rate:0.9436781808097546
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 50
+Previous coverage:0.9022655426765016
+Present coverage:0.8954162276080084
+Present branch_coverage:1.0
+Reward:-0.00683993244511168
+Present crossover rate:0.93722348580309
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 51
+Previous coverage:0.8954162276080084
+Present coverage:0.8952366127023661
+Present branch_coverage:1.0
+Reward:-0.00017960845333946774
+Present crossover rate:0.9370551525423715
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 52
+Previous coverage:0.8952366127023661
+Present coverage:0.8892255005268703
+Present branch_coverage:1.0
+Reward:-0.006003885481578491
+Present crossover rate:0.931429180716584
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 53
+Previous coverage:0.8892255005268703
+Present coverage:0.8883872976338729
+Present branch_coverage:1.0
+Reward:-0.0008380623761794425
+Present crossover rate:0.9306485849641498
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 54
+Previous coverage:0.8883872976338729
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:-0.002113572389857889
+Present crossover rate:0.9286815918103093
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 55
+Previous coverage:0.8862728310502284
+Present coverage:0.8798256537982565
+Present branch_coverage:1.0
+Reward:-0.0064388640330681896
+Present crossover rate:0.9227019373106294
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 56
+Previous coverage:0.8798256537982565
+Present coverage:0.8937038988408852
+Present branch_coverage:1.0
+Reward:0.013916766179721339
+Present crossover rate:0.9355429644257572
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 57
+Previous coverage:0.8937038988408852
+Present coverage:0.8920091324200913
+Present branch_coverage:1.0
+Reward:-0.0016941919741497039
+Present crossover rate:0.9323756709384424
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 58
+Previous coverage:0.8920091324200913
+Present coverage:0.872431506849315
+Present branch_coverage:1.0
+Reward:-0.019500968886178343
+Present crossover rate:0.9141934419892422
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 59
+Previous coverage:0.872431506849315
+Present coverage:0.884560502283105
+Present branch_coverage:1.0
+Reward:0.012158417939836559
+Present crossover rate:0.9253085879348052
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 60
+Previous coverage:0.884560502283105
+Present coverage:0.8815379825653799
+Present branch_coverage:1.0
+Reward:-0.0030206925926363508
+Present crossover rate:0.9225135151373277
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 61
+Previous coverage:0.8815379825653799
+Present coverage:0.8815379825653799
+Present branch_coverage:1.0
+Reward:0.0
+Present crossover rate:0.39843741297425556
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 62
+Previous coverage:0.8815379825653799
+Present coverage:0.8977871443624869
+Present branch_coverage:1.0
+Reward:0.016301968848928716
+Present crossover rate:0.40493272726880963
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 63
+Previous coverage:0.8977871443624869
+Present coverage:0.877568493150685
+Present branch_coverage:1.0
+Reward:-0.020136892440436985
+Present crossover rate:0.39677864049418476
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 64
+Previous coverage:0.877568493150685
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:0.007405081630761979
+Present crossover rate:0.399716818716387
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 65
+Previous coverage:0.8849626400996264
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:0.008172821526790228
+Present crossover rate:0.4029836329370124
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 66
+Previous coverage:0.8931221461187215
+Present coverage:0.8879851598173516
+Present branch_coverage:1.0
+Reward:-0.005131708575717846
+Present crossover rate:0.40091563837199556
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 67
+Previous coverage:0.8879851598173516
+Present coverage:0.8741438356164384
+Present branch_coverage:1.0
+Reward:-0.013803007749786262
+Present crossover rate:0.3953817967085364
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 68
+Previous coverage:0.8741438356164384
+Present coverage:0.8948344748858448
+Present branch_coverage:1.0
+Reward:0.020776259780081737
+Present crossover rate:0.40359635162926843
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 69
+Previous coverage:0.8948344748858448
+Present coverage:0.8918119551681196
+Present branch_coverage:1.0
+Reward:-0.0030206925926363508
+Present crossover rate:0.4023772111194868
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 70
+Previous coverage:0.8918119551681196
+Present coverage:0.8866749688667497
+Present branch_coverage:1.0
+Reward:-0.005131708575717846
+Present crossover rate:0.4003123285345115
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 71
+Previous coverage:0.8866749688667497
+Present coverage:0.889921722113503
+Present branch_coverage:1.0
+Reward:0.003248861528082336
+Present crossover rate:0.40161288785790433
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 72
+Previous coverage:0.889921722113503
+Present coverage:0.884417808219178
+Present branch_coverage:1.0
+Reward:-0.00549785528069369
+Present crossover rate:0.3994048783216001
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 73
+Previous coverage:0.884417808219178
+Present coverage:0.8879851598173516
+Present branch_coverage:1.0
+Reward:0.003569896797658561
+Present crossover rate:0.4008307125176896
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 74
+Previous coverage:0.8879851598173516
+Present coverage:0.8952366127023661
+Present branch_coverage:1.0
+Reward:0.0072619695988032145
+Present crossover rate:0.4008095742280845
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 75
+Previous coverage:0.8952366127023661
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:-0.008947711775836297
+Present crossover rate:0.39722324568089595
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 76
+Previous coverage:0.8862728310502284
+Present coverage:0.8885669125395153
+Present branch_coverage:1.0
+Reward:0.00229513405126279
+Present crossover rate:0.3981349262780113
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 77
+Previous coverage:0.8885669125395153
+Present coverage:0.8781133250311333
+Present branch_coverage:1.0
+Reward:-0.01043173201002291
+Present crossover rate:0.39398168942324885
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 78
+Previous coverage:0.8781133250311333
+Present coverage:0.90463645943098
+Present branch_coverage:1.0
+Reward:0.026663829731525236
+Present crossover rate:0.40448675010736895
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 79
+Previous coverage:0.90463645943098
+Present coverage:0.8982591324200914
+Present branch_coverage:1.0
+Reward:-0.006369192950927905
+Present crossover rate:0.4019104959498414
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 80
+Previous coverage:0.8982591324200914
+Present coverage:0.8840885142255005
+Present branch_coverage:1.0
+Reward:-0.014130456910587494
+Present crossover rate:0.3962313170049093
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 81
+Previous coverage:0.8840885142255005
+Present coverage:0.9032534246575342
+Present branch_coverage:1.0
+Reward:0.019238369190407296
+Present crossover rate:0.4038541613662511
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 82
+Previous coverage:0.9032534246575342
+Present coverage:0.9037982565379824
+Present branch_coverage:1.0
+Reward:0.0005448912488037728
+Present crossover rate:0.40407421796457255
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 83
+Previous coverage:0.9037982565379824
+Present coverage:0.8937038988408852
+Present branch_coverage:1.0
+Reward:-0.010073978485633822
+Present crossover rate:0.4000035829861981
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 84
+Previous coverage:0.8937038988408852
+Present coverage:0.8868721461187214
+Present branch_coverage:1.0
+Reward:-0.006822418153112383
+Present crossover rate:0.3945642178970019
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 85
+Previous coverage:0.8868721461187214
+Present coverage:0.8875131717597471
+Present branch_coverage:1.0
+Reward:0.0006411078238001293
+Present crossover rate:0.3948171761040873
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 86
+Previous coverage:0.8875131717597471
+Present coverage:0.886854583772392
+Present branch_coverage:1.0
+Reward:-0.0006585012397276571
+Present crossover rate:0.394557188504157
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 87
+Previous coverage:0.886854583772392
+Present coverage:0.8875131717597471
+Present branch_coverage:1.0
+Reward:0.0006586747349824926
+Present crossover rate:0.39481707335573046
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 88
+Previous coverage:0.8875131717597471
+Present coverage:0.8832503113325031
+Present branch_coverage:1.0
+Reward:-0.004259226031439565
+Present crossover rate:0.39313545819923695
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 89
+Previous coverage:0.8832503113325031
+Present coverage:0.8840885142255005
+Present branch_coverage:1.0
+Reward:0.0008383434098153742
+Present crossover rate:0.39346504071978305
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 90
+Previous coverage:0.8840885142255005
+Present coverage:0.8800228310502283
+Present branch_coverage:1.0
+Reward:-0.0040623772193358896
+Present crossover rate:0.3918666373017579
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 91
+Previous coverage:0.8800228310502283
+Present coverage:0.8840885142255005
+Present branch_coverage:1.0
+Reward:0.004068989131208566
+Present crossover rate:0.393461138389822
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 92
+Previous coverage:0.8840885142255005
+Present coverage:0.8892255005268703
+Present branch_coverage:1.0
+Reward:0.00514226402702192
+Present crossover rate:0.3954844194477951
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 93
+Previous coverage:0.8892255005268703
+Present coverage:0.8943624868282403
+Present branch_coverage:1.0
+Reward:0.005142264027022032
+Present crossover rate:0.39751810475116917
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 94
+Previous coverage:0.8943624868282403
+Present coverage:0.8933463796477495
+Present branch_coverage:1.0
+Reward:-0.0010159006857302728
+Present crossover rate:0.3971142658359622
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 95
+Previous coverage:0.8933463796477495
+Present coverage:0.9121819960861056
+Present branch_coverage:1.0
+Reward:0.018906572527678647
+Present crossover rate:0.40462233550476573
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 96
+Previous coverage:0.9121819960861056
+Present coverage:0.8935242839352429
+Present branch_coverage:1.0
+Reward:-0.01858809010632187
+Present crossover rate:0.3897198265754302
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 97
+Previous coverage:0.8935242839352429
+Present coverage:0.8943624868282403
+Present branch_coverage:1.0
+Reward:0.0008383434098153742
+Present crossover rate:0.3900465456237141
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 98
+Previous coverage:0.8943624868282403
+Present coverage:0.8982591324200914
+Present branch_coverage:1.0
+Reward:0.0038996823612247986
+Present crossover rate:0.39156760325773954
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 99
+Previous coverage:0.8982591324200914
+Present coverage:0.896546803652968
+Present branch_coverage:1.0
+Reward:-0.0017117423531620064
+Present crossover rate:0.39089734040711716
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 100
+Previous coverage:0.896546803652968
+Present coverage:0.884560502283105
+Present branch_coverage:1.0
+Reward:-0.011957567085757171
+Present crossover rate:0.386223159235555
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 101
+Previous coverage:0.884560502283105
+Present coverage:0.9039778714436248
+Present branch_coverage:1.0
+Reward:0.019492776005543017
+Present crossover rate:0.39375172076668685
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 102
+Previous coverage:0.9039778714436248
+Present coverage:0.8861301369863014
+Present branch_coverage:1.0
+Reward:-0.017784026132271636
+Present crossover rate:0.3867492298749452
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 103
+Previous coverage:0.8861301369863014
+Present coverage:0.8969489414694894
+Present branch_coverage:1.0
+Reward:0.01084221378927715
+Present crossover rate:0.39094244770808767
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 104
+Previous coverage:0.8969489414694894
+Present coverage:0.8960748155953635
+Present branch_coverage:1.0
+Reward:-0.0008739730549171783
+Present crossover rate:0.3906007745427674
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 105
+Previous coverage:0.8960748155953635
+Present coverage:0.8952366127023661
+Present branch_coverage:1.0
+Reward:-0.0008380623761794425
+Present crossover rate:0.3902734267295166
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 106
+Previous coverage:0.8952366127023661
+Present coverage:0.8878424657534246
+Present branch_coverage:1.0
+Reward:-0.0073832122671209635
+Present crossover rate:0.38739195517775593
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 107
+Previous coverage:0.8878424657534246
+Present coverage:0.877568493150685
+Present branch_coverage:1.0
+Reward:-0.010252861700131287
+Present crossover rate:0.38342007903757497
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 108
+Previous coverage:0.877568493150685
+Present coverage:0.8792808219178082
+Present branch_coverage:1.0
+Reward:0.0017129151810845826
+Present crossover rate:0.3840768451116911
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 109
+Previous coverage:0.8792808219178082
+Present coverage:0.8729763387297633
+Present branch_coverage:1.0
+Reward:-0.0062965338863912165
+Present crossover rate:0.38165849224146714
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 110
+Previous coverage:0.8729763387297633
+Present coverage:0.8738145416227607
+Present branch_coverage:1.0
+Reward:0.0008383434098153742
+Present crossover rate:0.38197845312323786
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 111
+Previous coverage:0.8738145416227607
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:0.011172954496795688
+Present crossover rate:0.38624628099874025
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 112
+Previous coverage:0.8849626400996264
+Present coverage:0.9106475716064756
+Present branch_coverage:1.0
+Reward:0.025816874648151446
+Present crossover rate:0.39621795281859945
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 113
+Previous coverage:0.9106475716064756
+Present coverage:0.8918119551681196
+Present branch_coverage:1.0
+Reward:-0.018764660349033388
+Present crossover rate:0.3887830575097691
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 114
+Previous coverage:0.8918119551681196
+Present coverage:0.8772391991570073
+Present branch_coverage:1.0
+Reward:-0.014530282967560416
+Present crossover rate:0.38313392967115883
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 115
+Previous coverage:0.8772391991570073
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:0.009049953194257483
+Present crossover rate:0.38660127380181475
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 116
+Previous coverage:0.8862728310502284
+Present coverage:0.865392797841428
+Present branch_coverage:0.9666666666666668
+Reward:-0.020792838051440266
+Present crossover rate:0.3785627361251731
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 117
+Previous coverage:0.865392797841428
+Present coverage:0.8815379825653799
+Present branch_coverage:1.0
+Reward:0.016197318121905984
+Present crossover rate:0.38469443719129165
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 118
+Previous coverage:0.8815379825653799
+Present coverage:0.8883872976338729
+Present branch_coverage:1.0
+Reward:0.006858697691874564
+Present crossover rate:0.3873329400397325
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 119
+Previous coverage:0.8883872976338729
+Present coverage:0.8828481735159818
+Present branch_coverage:1.0
+Reward:-0.005532987738692467
+Present crossover rate:0.38518983163170095
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 120
+Previous coverage:0.8828481735159818
+Present coverage:0.8861301369863014
+Present branch_coverage:1.0
+Reward:0.0032841177271637177
+Present crossover rate:0.3864548403860858
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 121
+Previous coverage:0.8861301369863014
+Present coverage:0.8883872976338729
+Present branch_coverage:1.0
+Reward:0.002258179602409321
+Present crossover rate:0.387327524823898
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 122
+Previous coverage:0.8883872976338729
+Present coverage:0.9053326810176126
+Present branch_coverage:1.0
+Reward:0.017002812587344016
+Present crossover rate:0.39391318213839854
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 123
+Previous coverage:0.9053326810176126
+Present coverage:0.9033961187214612
+Present branch_coverage:1.0
+Reward:-0.0019358122414459811
+Present crossover rate:0.39315064017834805
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 124
+Previous coverage:0.9033961187214612
+Present coverage:0.9142518440463646
+Present branch_coverage:1.0
+Reward:0.010879294679369371
+Present crossover rate:0.39742784184623103
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 125
+Previous coverage:0.9142518440463646
+Present coverage:0.8875131717597471
+Present branch_coverage:1.0
+Reward:-0.026595680967487302
+Present crossover rate:0.3765692264007421
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 126
+Previous coverage:0.8875131717597471
+Present coverage:0.8828481735159818
+Present branch_coverage:1.0
+Reward:-0.00466064580204245
+Present crossover rate:0.3748141706165391
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 127
+Previous coverage:0.8828481735159818
+Present coverage:0.8902792413066386
+Present branch_coverage:1.0
+Reward:0.007442111944358698
+Present crossover rate:0.37760357963259933
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 128
+Previous coverage:0.8902792413066386
+Present coverage:0.8866749688667497
+Present branch_coverage:1.0
+Reward:-0.003601674283924734
+Present crossover rate:0.37624357453031865
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 129
+Previous coverage:0.8866749688667497
+Present coverage:0.8952366127023661
+Present branch_coverage:1.0
+Reward:0.008576304184650007
+Present crossover rate:0.3794703538730107
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 130
+Previous coverage:0.8952366127023661
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.006455490470875527
+Present crossover rate:0.3819200211264177
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 131
+Previous coverage:0.901683789954338
+Present coverage:0.8986612702366127
+Present branch_coverage:1.0
+Reward:-0.0030206925926364618
+Present crossover rate:0.38076635814762155
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 132
+Previous coverage:0.8986612702366127
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:-0.013661099643460255
+Present crossover rate:0.37556467098808943
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 133
+Previous coverage:0.8849626400996264
+Present coverage:0.8712640099626401
+Present branch_coverage:1.0
+Reward:-0.013661099643460366
+Present crossover rate:0.3704340445951577
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 134
+Previous coverage:0.8712640099626401
+Present coverage:0.8919915700737618
+Present branch_coverage:1.0
+Reward:0.02081348646075379
+Present crossover rate:0.3781440685669413
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 135
+Previous coverage:0.8919915700737618
+Present coverage:0.8896974885844748
+Present branch_coverage:1.0
+Reward:-0.0022930289273111054
+Present crossover rate:0.3772769732790262
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 136
+Previous coverage:0.8896974885844748
+Present coverage:0.9072229140722292
+Present branch_coverage:1.0
+Reward:0.017586853595459744
+Present crossover rate:0.38391208817302264
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 137
+Previous coverage:0.9072229140722292
+Present coverage:0.9102454337899544
+Present branch_coverage:1.0
+Reward:0.003024346842813966
+Present crossover rate:0.3850731714848068
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 138
+Previous coverage:0.9102454337899544
+Present coverage:0.8809931506849316
+Present branch_coverage:1.0
+Reward:-0.029081143891651534
+Present crossover rate:0.37387480317604255
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 139
+Previous coverage:0.8809931506849316
+Present coverage:0.8950587084148728
+Present branch_coverage:1.0
+Reward:0.014105125712792087
+Present crossover rate:0.379148354275686
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 140
+Previous coverage:0.8950587084148728
+Present coverage:0.9275929549902152
+Present branch_coverage:1.0
+Reward:0.03274594201538746
+Present crossover rate:0.3915639243000272
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 141
+Previous coverage:0.9275929549902152
+Present coverage:0.8914098173515982
+Present branch_coverage:1.0
+Reward:-0.035921293748742006
+Present crossover rate:0.3774984415538357
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 142
+Previous coverage:0.8914098173515982
+Present coverage:0.8909378292939937
+Present branch_coverage:1.0
+Reward:-0.00047194350305920676
+Present crossover rate:0.3773202836169294
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 143
+Previous coverage:0.8909378292939937
+Present coverage:0.9072229140722292
+Present branch_coverage:1.0
+Reward:0.0163381255754824
+Present crossover rate:0.3834849897928394
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 144
+Previous coverage:0.9072229140722292
+Present coverage:0.8900996264009963
+Present branch_coverage:1.0
+Reward:-0.017064646275098586
+Present crossover rate:0.3769409540902148
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 145
+Previous coverage:0.8900996264009963
+Present coverage:0.8918119551681196
+Present branch_coverage:1.0
+Reward:0.0017129151810846936
+Present crossover rate:0.3775866219728484
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 146
+Previous coverage:0.8918119551681196
+Present coverage:0.9036203522504892
+Present branch_coverage:1.0
+Reward:0.011836284730700565
+Present crossover rate:0.38205584474102244
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 147
+Previous coverage:0.9036203522504892
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:-0.01728733390190214
+Present crossover rate:0.3754511177838111
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 148
+Previous coverage:0.8862728310502284
+Present coverage:0.8875131717597471
+Present branch_coverage:1.0
+Reward:0.0012406483985338659
+Present crossover rate:0.3759169206118173
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 149
+Previous coverage:0.8875131717597471
+Present coverage:0.8772391991570073
+Present branch_coverage:1.0
+Reward:-0.010252861700131398
+Present crossover rate:0.37206269641404505
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 150
+Previous coverage:0.8772391991570073
+Present coverage:0.8811358447488584
+Present branch_coverage:1.0
+Reward:0.0038996823612247986
+Present crossover rate:0.3735136227485206
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 151
+Previous coverage:0.8811358447488584
+Present coverage:0.8781133250311333
+Present branch_coverage:1.0
+Reward:-0.0030206925926363508
+Present crossover rate:0.3723853529150354
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 152
+Previous coverage:0.8781133250311333
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:0.006858697691874676
+Present crossover rate:0.3749394314755617
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 153
+Previous coverage:0.8849626400996264
+Present coverage:0.9051084474885844
+Present branch_coverage:1.0
+Reward:0.020226978100028593
+Present crossover rate:0.38252332314485504
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 154
+Previous coverage:0.9051084474885844
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:-0.0187646603490335
+Present crossover rate:0.37534540291045826
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 155
+Previous coverage:0.8862728310502284
+Present coverage:0.8832503113325031
+Present branch_coverage:1.0
+Reward:-0.0030206925926364618
+Present crossover rate:0.3742115998322065
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 156
+Previous coverage:0.8832503113325031
+Present coverage:0.8878424657534246
+Present branch_coverage:1.0
+Reward:0.004596371997366653
+Present crossover rate:0.37593161555076504
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 157
+Previous coverage:0.8878424657534246
+Present coverage:0.9012118018967334
+Present branch_coverage:1.0
+Reward:0.013405083973091375
+Present crossover rate:0.38097101042536297
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 158
+Previous coverage:0.9012118018967334
+Present coverage:0.8999714611872146
+Present branch_coverage:1.0
+Reward:-0.0012400330205037011
+Present crossover rate:0.38002676297202287
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 159
+Previous coverage:0.8999714611872146
+Present coverage:0.8937038988408852
+Present branch_coverage:1.0
+Reward:-0.006259705878776388
+Present crossover rate:0.37528394238488605
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 160
+Previous coverage:0.8937038988408852
+Present coverage:0.8806638566912539
+Present branch_coverage:1.0
+Reward:-0.013006033609778448
+Present crossover rate:0.37040298681701805
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 161
+Previous coverage:0.8806638566912539
+Present coverage:0.8806638566912539
+Present branch_coverage:1.0
+Reward:0.0
+Present crossover rate:0.6821579980085095
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 162
+Previous coverage:0.8806638566912539
+Present coverage:0.8792808219178082
+Present branch_coverage:1.0
+Reward:-0.0013826522164087896
+Present crossover rate:0.6812148107406221
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 163
+Previous coverage:0.8792808219178082
+Present coverage:0.889921722113503
+Present branch_coverage:1.0
+Reward:0.010663545947089695
+Present crossover rate:0.6884789761747927
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 164
+Previous coverage:0.889921722113503
+Present coverage:0.8896974885844748
+Present branch_coverage:1.0
+Reward:-0.00022422347289300913
+Present crossover rate:0.688324603027741
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 165
+Previous coverage:0.8896974885844748
+Present coverage:0.8815379825653799
+Present branch_coverage:1.0
+Reward:-0.008146190511399858
+Present crossover rate:0.6827173796777933
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 166
+Previous coverage:0.8815379825653799
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:0.004739332242883403
+Present crossover rate:0.6859530041680773
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 167
+Previous coverage:0.8862728310502284
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.015458458434978426
+Present crossover rate:0.696556780171358
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 168
+Previous coverage:0.901683789954338
+Present coverage:0.8828481735159818
+Present branch_coverage:1.0
+Reward:-0.01876466034903361
+Present crossover rate:0.683486128777626
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 169
+Previous coverage:0.8828481735159818
+Present coverage:0.9056902002107482
+Present branch_coverage:1.0
+Reward:0.022946378331471312
+Present crossover rate:0.6991696600728702
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 170
+Previous coverage:0.9056902002107482
+Present coverage:0.8823761854583773
+Present branch_coverage:1.0
+Reward:-0.023205306095596182
+Present crossover rate:0.6829452140981253
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 171
+Previous coverage:0.8823761854583773
+Present coverage:0.896546803652968
+Present branch_coverage:1.0
+Reward:0.01421077947859413
+Present crossover rate:0.692650397931635
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 172
+Previous coverage:0.896546803652968
+Present coverage:0.8828481735159818
+Present branch_coverage:1.0
+Reward:-0.013661099643460255
+Present crossover rate:0.6831880318274085
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 173
+Previous coverage:0.8828481735159818
+Present coverage:0.8909378292939937
+Present branch_coverage:1.0
+Reward:0.00810274428413325
+Present crossover rate:0.6887237297472862
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 174
+Previous coverage:0.8909378292939937
+Present coverage:0.8840885142255005
+Present branch_coverage:1.0
+Reward:-0.00683993244511168
+Present crossover rate:0.6840129059624694
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 175
+Previous coverage:0.8840885142255005
+Present coverage:0.8948344748858448
+Present branch_coverage:1.0
+Reward:0.010769055794447011
+Present crossover rate:0.6913790791109011
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 176
+Previous coverage:0.8948344748858448
+Present coverage:0.9005707762557078
+Present branch_coverage:1.0
+Reward:0.005742882400544207
+Present crossover rate:0.6953495878564315
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 177
+Previous coverage:0.9005707762557078
+Present coverage:0.8971285563751317
+Present branch_coverage:1.0
+Reward:-0.0034398501050348896
+Present crossover rate:0.6929576895036076
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 178
+Previous coverage:0.8971285563751317
+Present coverage:0.8879851598173516
+Present branch_coverage:1.0
+Reward:-0.009126676217657505
+Present crossover rate:0.6866332890389721
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 179
+Previous coverage:0.8879851598173516
+Present coverage:0.910827186512118
+Present branch_coverage:1.0
+Reward:0.022946378331471312
+Present crossover rate:0.6862717517022461
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 180
+Previous coverage:0.910827186512118
+Present coverage:0.8912671232876712
+Present branch_coverage:1.0
+Reward:-0.01948354400977794
+Present crossover rate:0.672900745825288
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 181
+Previous coverage:0.8912671232876712
+Present coverage:0.884417808219178
+Present branch_coverage:1.0
+Reward:-0.00683993244511168
+Present crossover rate:0.6682981501815778
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 182
+Previous coverage:0.884417808219178
+Present coverage:0.8741438356164384
+Present branch_coverage:1.0
+Reward:-0.010252861700131287
+Present crossover rate:0.6614461816733125
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 183
+Previous coverage:0.8741438356164384
+Present coverage:0.884417808219178
+Present branch_coverage:1.0
+Reward:0.010295083505348026
+Present crossover rate:0.6682558253479329
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 184
+Previous coverage:0.884417808219178
+Present coverage:0.8792808219178082
+Present branch_coverage:1.0
+Reward:-0.005131708575717736
+Present crossover rate:0.6648265311982215
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 185
+Previous coverage:0.8792808219178082
+Present coverage:0.8984833659491194
+Present branch_coverage:1.0
+Reward:0.019276291570766053
+Present crossover rate:0.6776419212575795
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 186
+Previous coverage:0.8984833659491194
+Present coverage:0.8864970645792564
+Present branch_coverage:1.0
+Reward:-0.011957567085757171
+Present crossover rate:0.6695389725240206
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 187
+Previous coverage:0.8864970645792564
+Present coverage:0.9033961187214612
+Present branch_coverage:1.0
+Reward:0.016956169748385062
+Present crossover rate:0.6808917889952972
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 188
+Previous coverage:0.9033961187214612
+Present coverage:0.8896974885844748
+Present branch_coverage:1.0
+Reward:-0.013661099643460366
+Present crossover rate:0.6715900584194184
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 189
+Previous coverage:0.8896974885844748
+Present coverage:0.8866749688667497
+Present branch_coverage:1.0
+Reward:-0.0030206925926363508
+Present crossover rate:0.6695613913046626
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 190
+Previous coverage:0.8866749688667497
+Present coverage:0.8758561643835616
+Present branch_coverage:1.0
+Reward:-0.01079539517709897
+Present crossover rate:0.6623332114902006
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 191
+Previous coverage:0.8758561643835616
+Present coverage:0.898840885142255
+Present branch_coverage:1.0
+Reward:0.02309038023636442
+Present crossover rate:0.6776267371866818
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 192
+Previous coverage:0.898840885142255
+Present coverage:0.8823761854583773
+Present branch_coverage:1.0
+Reward:-0.0164104824167417
+Present crossover rate:0.6665065555309657
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 193
+Previous coverage:0.8823761854583773
+Present coverage:0.8999714611872146
+Present branch_coverage:1.0
+Reward:0.01765719447443211
+Present crossover rate:0.6782751914004599
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 194
+Previous coverage:0.8999714611872146
+Present coverage:0.8858008429926238
+Present branch_coverage:1.0
+Reward:-0.014130456910587383
+Present crossover rate:0.6686908530348553
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 195
+Previous coverage:0.8858008429926238
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:0.00733202342199053
+Present crossover rate:0.6735937100313777
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 196
+Previous coverage:0.8931221461187215
+Present coverage:0.9072229140722292
+Present branch_coverage:1.0
+Reward:0.01414053428488341
+Present crossover rate:0.6734590217965235
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 197
+Previous coverage:0.9072229140722292
+Present coverage:0.8926501580611169
+Present branch_coverage:1.0
+Reward:-0.014530282967560416
+Present crossover rate:0.6636734716427636
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 198
+Previous coverage:0.8926501580611169
+Present coverage:0.8912671232876712
+Present branch_coverage:1.0
+Reward:-0.0013826522164087896
+Present crossover rate:0.6627558420462251
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 199
+Previous coverage:0.8912671232876712
+Present coverage:0.8707191780821918
+Present branch_coverage:1.0
+Reward:-0.020463501595045945
+Present crossover rate:0.6491935368153862
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 200
+Previous coverage:0.8707191780821918
+Present coverage:0.8815379825653799
+Present branch_coverage:1.0
+Reward:0.01084221378927715
+Present crossover rate:0.6562322319321555
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 201
+Previous coverage:0.8815379825653799
+Present coverage:0.8875131717597471
+Present branch_coverage:1.0
+Reward:0.005982329771548933
+Present crossover rate:0.6601580295502932
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 202
+Previous coverage:0.8875131717597471
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:0.005615266477646376
+Present crossover rate:0.663864992803576
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 203
+Previous coverage:0.8931221461187215
+Present coverage:0.8916340508806262
+Present branch_coverage:1.0
+Reward:-0.0014876523526078155
+Present crossover rate:0.6628773924852178
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 204
+Previous coverage:0.8916340508806262
+Present coverage:0.8982591324200914
+Present branch_coverage:1.0
+Reward:0.006633859880546085
+Present crossover rate:0.6672748282249464
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 205
+Previous coverage:0.8982591324200914
+Present coverage:0.872431506849315
+Present branch_coverage:1.0
+Reward:-0.02569421232225149
+Present crossover rate:0.6501297271112408
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 206
+Previous coverage:0.872431506849315
+Present coverage:0.8866749688667497
+Present branch_coverage:1.0
+Reward:0.01428403725948307
+Present crossover rate:0.6594162043567954
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 207
+Previous coverage:0.8866749688667497
+Present coverage:0.8879851598173516
+Present branch_coverage:1.0
+Reward:0.0013105342706673272
+Present crossover rate:0.6602803918912383
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 208
+Previous coverage:0.8879851598173516
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:-0.0030206925926363508
+Present crossover rate:0.6582858878023894
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 209
+Previous coverage:0.8849626400996264
+Present coverage:0.8561037623140864
+Present branch_coverage:0.9666666666666668
+Reward:-0.028692310820131933
+Present crossover rate:0.6393981445010568
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 210
+Previous coverage:0.8561037623140864
+Present coverage:0.8741438356164384
+Present branch_coverage:1.0
+Reward:0.01810516215130287
+Present crossover rate:0.6509745515864906
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 211
+Previous coverage:0.8741438356164384
+Present coverage:0.889554794520548
+Present branch_coverage:1.0
+Reward:0.015458458434978426
+Present crossover rate:0.6610376146344191
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 212
+Previous coverage:0.889554794520548
+Present coverage:0.9068207762557078
+Present branch_coverage:1.0
+Reward:0.017325604560215584
+Present crossover rate:0.6724904909450031
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 213
+Previous coverage:0.9068207762557078
+Present coverage:0.9039778714436248
+Present branch_coverage:1.0
+Reward:-0.0028412883905288232
+Present crossover rate:0.6705797515203401
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 214
+Previous coverage:0.9039778714436248
+Present coverage:0.8929794520547946
+Present branch_coverage:1.0
+Reward:-0.010974226343019764
+Present crossover rate:0.6632206575461099
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 215
+Previous coverage:0.8929794520547946
+Present coverage:0.8960748155953635
+Present branch_coverage:1.0
+Reward:0.0030972797956585973
+Present crossover rate:0.6652748374887909
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 216
+Previous coverage:0.8960748155953635
+Present coverage:0.8896974885844748
+Present branch_coverage:1.0
+Reward:-0.006369192950927905
+Present crossover rate:0.6610375736834276
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 217
+Previous coverage:0.8896974885844748
+Present coverage:0.8772391991570073
+Present branch_coverage:1.0
+Reward:-0.012427247632375807
+Present crossover rate:0.6528226960609588
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 218
+Previous coverage:0.8772391991570073
+Present coverage:0.8883872976338729
+Present branch_coverage:1.0
+Reward:0.011172954496795576
+Present crossover rate:0.6601166543385233
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 219
+Previous coverage:0.8883872976338729
+Present coverage:0.9037982565379824
+Present branch_coverage:1.0
+Reward:0.015458458434978315
+Present crossover rate:0.6703210402018523
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 220
+Previous coverage:0.9037982565379824
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:-0.010653314552524015
+Present crossover rate:0.6631798993094069
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 221
+Previous coverage:0.8931221461187215
+Present coverage:0.8982591324200914
+Present branch_coverage:1.0
+Reward:0.00514226402702192
+Present crossover rate:0.6665901454490697
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 222
+Previous coverage:0.8982591324200914
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.0034270031900919635
+Present crossover rate:0.6688745520040076
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 223
+Previous coverage:0.901683789954338
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.0
+Present crossover rate:0.6314505291128294
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 224
+Previous coverage:0.901683789954338
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.0
+Present crossover rate:0.6393130339328532
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 225
+Previous coverage:0.901683789954338
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:-0.015363459373240764
+Present crossover rate:0.6294909741092425
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 226
+Previous coverage:0.8862728310502284
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:0.006858697691874676
+Present crossover rate:0.6338084624004215
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 227
+Previous coverage:0.8931221461187215
+Present coverage:0.898840885142255
+Present branch_coverage:1.0
+Reward:0.005725279818737338
+Present crossover rate:0.6337876869012119
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 228
+Previous coverage:0.898840885142255
+Present coverage:0.8977871443624869
+Present branch_coverage:1.0
+Reward:-0.001053518705841975
+Present crossover rate:0.6331199797175291
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 229
+Previous coverage:0.8977871443624869
+Present coverage:0.8815379825653799
+Present branch_coverage:1.0
+Reward:-0.01619635474528529
+Present crossover rate:0.6228657439296962
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 230
+Previous coverage:0.8815379825653799
+Present coverage:0.8781133250311333
+Present branch_coverage:1.0
+Reward:-0.0034223118784012145
+Present crossover rate:0.6207341030955964
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 231
+Previous coverage:0.8781133250311333
+Present coverage:0.8879851598173516
+Present branch_coverage:1.0
+Reward:0.009891325410627615
+Present crossover rate:0.626873986102789
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 232
+Previous coverage:0.8879851598173516
+Present coverage:0.8815379825653799
+Present branch_coverage:1.0
+Reward:-0.006438864033068079
+Present crossover rate:0.6228376297404058
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 233
+Previous coverage:0.8815379825653799
+Present coverage:0.8827054794520548
+Present branch_coverage:1.0
+Reward:0.001167769496471025
+Present crossover rate:0.622836780385701
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 234
+Previous coverage:0.8827054794520548
+Present coverage:0.9068207762557078
+Present branch_coverage:1.0
+Reward:0.02423160631163864
+Present crossover rate:0.6379291160444158
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 235
+Previous coverage:0.9068207762557078
+Present coverage:0.8999714611872146
+Present branch_coverage:1.0
+Reward:-0.00683993244511168
+Present crossover rate:0.6335657239859022
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 236
+Previous coverage:0.8999714611872146
+Present coverage:0.8967710371819961
+Present branch_coverage:1.0
+Reward:-0.003198375462455836
+Present crossover rate:0.6315393429204526
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 237
+Previous coverage:0.8967710371819961
+Present coverage:0.896546803652968
+Present branch_coverage:1.0
+Reward:-0.00022422347289300913
+Present crossover rate:0.6313977369757143
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 238
+Previous coverage:0.896546803652968
+Present coverage:0.8916340508806262
+Present branch_coverage:1.0
+Reward:-0.004907925744381391
+Present crossover rate:0.6282988837674671
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 239
+Previous coverage:0.8916340508806262
+Present coverage:0.896546803652968
+Present branch_coverage:1.0
+Reward:0.0049175798003022525
+Present crossover rate:0.6313885936668345
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 240
+Previous coverage:0.896546803652968
+Present coverage:0.8832503113325031
+Present branch_coverage:1.0
+Reward:-0.013261132978859289
+Present crossover rate:0.6230156655648836
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 241
+Previous coverage:0.8832503113325031
+Present coverage:0.8933463796477495
+Present branch_coverage:1.0
+Reward:0.010116454434331679
+Present crossover rate:0.6293183751574456
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 242
+Previous coverage:0.8933463796477495
+Present coverage:0.898840885142255
+Present branch_coverage:1.0
+Reward:0.005500543412631305
+Present crossover rate:0.6327799682003657
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 243
+Previous coverage:0.898840885142255
+Present coverage:0.884417808219178
+Present branch_coverage:1.0
+Reward:-0.014381471893491184
+Present crossover rate:0.6236796608729279
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 244
+Previous coverage:0.884417808219178
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:0.0018557110529910672
+Present crossover rate:0.6248370301131355
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 245
+Previous coverage:0.8862728310502284
+Present coverage:0.8883872976338729
+Present branch_coverage:1.0
+Reward:0.0021153607774312285
+Present crossover rate:0.6261587858589234
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 246
+Previous coverage:0.8883872976338729
+Present coverage:0.8999714611872146
+Present branch_coverage:1.0
+Reward:0.0116110021223878
+Present crossover rate:0.6334291168504831
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 247
+Previous coverage:0.8999714611872146
+Present coverage:0.8811358447488584
+Present branch_coverage:1.0
+Reward:-0.01876466034903361
+Present crossover rate:0.6215430346175955
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 248
+Previous coverage:0.8811358447488584
+Present coverage:0.8943624868282403
+Present branch_coverage:1.0
+Reward:0.01326163089152106
+Present crossover rate:0.6297857089258899
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 249
+Previous coverage:0.8943624868282403
+Present coverage:0.877568493150685
+Present branch_coverage:1.0
+Reward:-0.016737586032826945
+Present crossover rate:0.6192446164404979
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 250
+Previous coverage:0.877568493150685
+Present coverage:0.8832503113325031
+Present branch_coverage:1.0
+Reward:0.005688274793388369
+Present crossover rate:0.6227670499831378
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 251
+Previous coverage:0.8832503113325031
+Present coverage:0.8879851598173516
+Present branch_coverage:1.0
+Reward:0.004739332242883403
+Present crossover rate:0.6257185499429283
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 252
+Previous coverage:0.8879851598173516
+Present coverage:0.8919915700737618
+Present branch_coverage:1.0
+Reward:0.004009620521038776
+Present crossover rate:0.628227443881174
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 253
+Previous coverage:0.8919915700737618
+Present coverage:0.9005532139093784
+Present branch_coverage:1.0
+Reward:0.008576304184650118
+Present crossover rate:0.6336153135370441
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 254
+Previous coverage:0.9005532139093784
+Present coverage:0.8815379825653799
+Present branch_coverage:1.0
+Reward:-0.01894291553938536
+Present crossover rate:0.609837633548006
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 255
+Previous coverage:0.8815379825653799
+Present coverage:0.8969489414694894
+Present branch_coverage:1.0
+Reward:0.015458458434978426
+Present crossover rate:0.6192647832582935
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 256
+Previous coverage:0.8969489414694894
+Present coverage:0.8960748155953635
+Present branch_coverage:1.0
+Reward:-0.0008739730549171783
+Present crossover rate:0.6187235625238666
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 257
+Previous coverage:0.8960748155953635
+Present coverage:0.8755268703898841
+Present branch_coverage:1.0
+Reward:-0.020463501595045945
+Present crossover rate:0.6060623119152669
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 258
+Previous coverage:0.8755268703898841
+Present coverage:0.8858008429926238
+Present branch_coverage:1.0
+Reward:0.010295083505348137
+Present crossover rate:0.6123017740258789
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 259
+Previous coverage:0.8858008429926238
+Present coverage:0.9106475716064756
+Present branch_coverage:1.0
+Reward:0.024970200598413813
+Present crossover rate:0.6275910721500698
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 260
+Previous coverage:0.9106475716064756
+Present coverage:0.8971285563751317
+Present branch_coverage:1.0
+Reward:-0.01348246247677885
+Present crossover rate:0.6191295990690451
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 261
+Previous coverage:0.8971285563751317
+Present coverage:0.9022655426765016
+Present branch_coverage:1.0
+Reward:0.005142264027022032
+Present crossover rate:0.6223133269344023
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 262
+Previous coverage:0.9022655426765016
+Present coverage:0.9029241306638568
+Present branch_coverage:1.0
+Reward:0.0006586747349826036
+Present crossover rate:0.622723229000097
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 263
+Previous coverage:0.9029241306638568
+Present coverage:0.8764952608274525
+Present branch_coverage:1.0
+Reward:-0.026289172804238325
+Present crossover rate:0.6063523504237002
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 264
+Previous coverage:0.8764952608274525
+Present coverage:0.8994994731296101
+Present branch_coverage:1.0
+Reward:0.023110051058886093
+Present crossover rate:0.6203651842016675
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 265
+Previous coverage:0.8994994731296101
+Present coverage:0.8999714611872146
+Present branch_coverage:1.0
+Reward:0.00047203261214981526
+Present crossover rate:0.6206580168000531
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 266
+Previous coverage:0.8999714611872146
+Present coverage:0.8758561643835616
+Present branch_coverage:1.0
+Reward:-0.02399898729566733
+Present crossover rate:0.5912251579280223
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 267
+Previous coverage:0.8758561643835616
+Present coverage:0.8809931506849316
+Present branch_coverage:1.0
+Reward:0.005142264027022032
+Present crossover rate:0.594265393789506
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 268
+Previous coverage:0.8809931506849316
+Present coverage:0.872574200913242
+Present branch_coverage:1.0
+Reward:-0.008404774028637908
+Present crossover rate:0.5892707274416658
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 269
+Previous coverage:0.872574200913242
+Present coverage:0.877568493150685
+Present branch_coverage:1.0
+Reward:0.004999280828433562
+Present crossover rate:0.592216657292122
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 270
+Previous coverage:0.877568493150685
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:0.007405081630761979
+Present crossover rate:0.5966020699824672
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 271
+Previous coverage:0.8849626400996264
+Present coverage:0.910827186512118
+Present branch_coverage:1.0
+Reward:0.02599834136471637
+Present crossover rate:0.6121127342567678
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 272
+Previous coverage:0.910827186512118
+Present coverage:0.8982591324200914
+Present branch_coverage:1.0
+Reward:-0.012536462895294637
+Present crossover rate:0.6044390056760205
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 273
+Previous coverage:0.8982591324200914
+Present coverage:0.8798256537982565
+Present branch_coverage:1.0
+Reward:-0.018365519995014536
+Present crossover rate:0.5933381690315108
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 274
+Previous coverage:0.8798256537982565
+Present coverage:0.8809931506849316
+Present branch_coverage:1.0
+Reward:0.001167769496471136
+Present crossover rate:0.5940310512463979
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 275
+Previous coverage:0.8809931506849316
+Present coverage:0.8950587084148728
+Present branch_coverage:1.0
+Reward:0.014105125712792087
+Present crossover rate:0.6024099339015303
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 276
+Previous coverage:0.8950587084148728
+Present coverage:0.877568493150685
+Present branch_coverage:1.0
+Reward:-0.017429033738190287
+Present crossover rate:0.5919105108393395
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 277
+Previous coverage:0.877568493150685
+Present coverage:0.8943624868282403
+Present branch_coverage:1.0
+Reward:0.01685040132228365
+Present crossover rate:0.6018844404938604
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 278
+Previous coverage:0.8943624868282403
+Present coverage:0.8969489414694894
+Present branch_coverage:1.0
+Reward:0.0025877925907714285
+Present crossover rate:0.603441992589471
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 279
+Previous coverage:0.8969489414694894
+Present coverage:0.8971461187214612
+Present branch_coverage:1.0
+Reward:0.00019718502774550864
+Present crossover rate:0.6035609823155226
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 280
+Previous coverage:0.8971461187214612
+Present coverage:0.872431506849315
+Present branch_coverage:1.0
+Reward:-0.02459244946414802
+Present crossover rate:0.5887179393593965
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 281
+Previous coverage:0.872431506849315
+Present coverage:0.8794235159817352
+Present branch_coverage:1.0
+Reward:0.007001786770761721
+Present crossover rate:0.5969909562259941
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 282
+Previous coverage:0.8794235159817352
+Present coverage:0.8916340508806262
+Present branch_coverage:1.0
+Reward:0.012240354331394419
+Present crossover rate:0.6042983370628382
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 283
+Previous coverage:0.8916340508806262
+Present coverage:0.9020859277708592
+Present branch_coverage:1.0
+Reward:0.010473725236338686
+Present crossover rate:0.6106275918060108
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 284
+Previous coverage:0.9020859277708592
+Present coverage:0.8828481735159818
+Present branch_coverage:1.0
+Reward:-0.019163736017123182
+Present crossover rate:0.5989256858318688
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 285
+Previous coverage:0.8828481735159818
+Present coverage:0.8528217988437667
+Present branch_coverage:0.9666666666666668
+Reward:-0.02984605803702378
+Present crossover rate:0.5810501150526666
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 286
+Previous coverage:0.8528217988437667
+Present coverage:0.8672945205479452
+Present branch_coverage:1.0
+Reward:0.014514613638883778
+Present crossover rate:0.5894838329774851
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 287
+Previous coverage:0.8672945205479452
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.03462579377645385
+Present crossover rate:0.609895178612717
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 288
+Previous coverage:0.901683789954338
+Present coverage:0.886854583772392
+Present branch_coverage:1.0
+Reward:-0.014785225110748609
+Present crossover rate:0.6008777411029678
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 289
+Previous coverage:0.886854583772392
+Present coverage:0.8943624868282403
+Present branch_coverage:1.0
+Reward:0.007519176777507456
+Present crossover rate:0.6053958470599903
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 290
+Previous coverage:0.8943624868282403
+Present coverage:0.8948344748858448
+Present branch_coverage:1.0
+Reward:0.00047203261214981526
+Present crossover rate:0.6056816136430627
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 291
+Previous coverage:0.8948344748858448
+Present coverage:0.8981164383561644
+Present branch_coverage:1.0
+Reward:0.0032841177271637177
+Present crossover rate:0.607670743367445
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 292
+Previous coverage:0.8981164383561644
+Present coverage:0.8806638566912539
+Present branch_coverage:1.0
+Reward:-0.017391663143556408
+Present crossover rate:0.5971023384966039
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 293
+Previous coverage:0.8806638566912539
+Present coverage:0.8707191780821918
+Present branch_coverage:1.0
+Reward:-0.009924899282534611
+Present crossover rate:0.5911761579256593
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 294
+Previous coverage:0.8707191780821918
+Present coverage:0.8885844748858447
+Present branch_coverage:1.0
+Reward:0.017929130569629418
+Present crossover rate:0.6017754324507603
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 295
+Previous coverage:0.8885844748858447
+Present coverage:0.9091148577449948
+Present branch_coverage:1.0
+Reward:0.020614682183218755
+Present crossover rate:0.6268419845918193
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 296
+Previous coverage:0.9091148577449948
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:-0.007420023636954964
+Present crossover rate:0.6221908022495123
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 297
+Previous coverage:0.901683789954338
+Present coverage:0.8875131717597471
+Present branch_coverage:1.0
+Reward:-0.014130456910587494
+Present crossover rate:0.6133989619281617
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 298
+Previous coverage:0.8875131717597471
+Present coverage:0.8875131717597471
+Present branch_coverage:1.0
+Reward:0.0
+Present crossover rate:0.6867982116897979
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 299
+Previous coverage:0.8875131717597471
+Present coverage:0.8984833659491194
+Present branch_coverage:1.0
+Reward:0.010994263221482791
+Present crossover rate:0.6943490520091592
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 300
+Previous coverage:0.8984833659491194
+Present coverage:0.8977871443624869
+Present branch_coverage:1.0
+Reward:-0.0006961246417329786
+Present crossover rate:0.6938656985240917
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 301
+Previous coverage:0.8977871443624869
+Present coverage:0.884417808219178
+Present branch_coverage:1.0
+Reward:-0.013333588313526263
+Present crossover rate:0.6846139789550941
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 302
+Previous coverage:0.884417808219178
+Present coverage:0.8926501580611169
+Present branch_coverage:1.0
+Reward:0.008245904158722894
+Present crossover rate:0.6902592402112797
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 303
+Previous coverage:0.8926501580611169
+Present coverage:0.8798256537982565
+Present branch_coverage:1.0
+Reward:-0.01279161068094279
+Present crossover rate:0.6814297127415736
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 304
+Previous coverage:0.8798256537982565
+Present coverage:0.8866749688667497
+Present branch_coverage:1.0
+Reward:0.006858697691874676
+Present crossover rate:0.6861034331395292
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 305
+Previous coverage:0.8866749688667497
+Present coverage:0.8900996264009963
+Present branch_coverage:1.0
+Reward:0.0034270031900919635
+Present crossover rate:0.6884547117936314
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 306
+Previous coverage:0.8900996264009963
+Present coverage:0.8902792413066386
+Present branch_coverage:1.0
+Reward:0.00017962135794519929
+Present crossover rate:0.6885783729638476
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 307
+Previous coverage:0.8902792413066386
+Present coverage:0.8741438356164384
+Present branch_coverage:1.0
+Reward:-0.016083335426842753
+Present crossover rate:0.6775037360238004
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 308
+Previous coverage:0.8741438356164384
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:0.01084221378927715
+Present crossover rate:0.6848493763728045
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 309
+Previous coverage:0.8849626400996264
+Present coverage:0.9053326810176126
+Present branch_coverage:1.0
+Reward:0.020453028631386195
+Present crossover rate:0.6988566202759445
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 310
+Previous coverage:0.9053326810176126
+Present coverage:0.9070450097847358
+Present branch_coverage:1.0
+Reward:0.0017129151810845826
+Present crossover rate:0.7000537023902167
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 311
+Previous coverage:0.9070450097847358
+Present coverage:0.8866749688667497
+Present branch_coverage:1.0
+Reward:-0.020287053204586025
+Present crossover rate:0.6858516756837589
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 312
+Previous coverage:0.8866749688667497
+Present coverage:0.8916340508806262
+Present branch_coverage:1.0
+Reward:0.004964000512760585
+Present crossover rate:0.6892562437535309
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 313
+Previous coverage:0.8916340508806262
+Present coverage:0.8919915700737618
+Present branch_coverage:1.0
+Reward:0.000357544757130339
+Present crossover rate:0.6895026837098043
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 314
+Previous coverage:0.8919915700737618
+Present coverage:0.8809931506849316
+Present branch_coverage:1.0
+Reward:-0.010974226343019764
+Present crossover rate:0.6819359251946533
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 315
+Previous coverage:0.8809931506849316
+Present coverage:0.8948344748858448
+Present branch_coverage:1.0
+Reward:0.013879640652040176
+Present crossover rate:0.6914009507840717
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 316
+Previous coverage:0.8948344748858448
+Present coverage:0.8892255005268703
+Present branch_coverage:1.0
+Reward:-0.005602682240302524
+Present crossover rate:0.6836752542375293
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 317
+Previous coverage:0.8892255005268703
+Present coverage:0.896546803652968
+Present branch_coverage:1.0
+Reward:0.00733202342199053
+Present crossover rate:0.6886879772146342
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 318
+Previous coverage:0.896546803652968
+Present coverage:0.8858008429926238
+Present branch_coverage:1.0
+Reward:-0.010722865526241434
+Present crossover rate:0.6739977453131487
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 319
+Previous coverage:0.8858008429926238
+Present coverage:0.8948344748858448
+Present branch_coverage:1.0
+Reward:0.009049953194257372
+Present crossover rate:0.6800973933612677
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 320
+Previous coverage:0.8948344748858448
+Present coverage:0.9102454337899544
+Present branch_coverage:1.0
+Reward:0.015458458434978426
+Present crossover rate:0.6906106506482801
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 321
+Previous coverage:0.9102454337899544
+Present coverage:0.8900996264009963
+Present branch_coverage:1.0
+Reward:-0.020064636677887503
+Present crossover rate:0.6631749797626941
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 322
+Previous coverage:0.8900996264009963
+Present coverage:0.8811358447488584
+Present branch_coverage:1.0
+Reward:-0.008947711775836408
+Present crossover rate:0.6572410811868314
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 323
+Previous coverage:0.8811358447488584
+Present coverage:0.913670091324201
+Present branch_coverage:1.0
+Reward:0.03274594201538758
+Present crossover rate:0.6787630595215061
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 324
+Previous coverage:0.913670091324201
+Present coverage:0.9039778714436248
+Present branch_coverage:1.0
+Reward:-0.009673432055333426
+Present crossover rate:0.6721970911835545
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 325
+Previous coverage:0.9039778714436248
+Present coverage:0.9057077625570776
+Present branch_coverage:1.0
+Reward:0.0017304896181056667
+Present crossover rate:0.6733603212711685
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 326
+Previous coverage:0.9057077625570776
+Present coverage:0.8900996264009963
+Present branch_coverage:1.0
+Reward:-0.01555941337322801
+Present crossover rate:0.6628832296833808
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 327
+Previous coverage:0.8900996264009963
+Present coverage:0.8919915700737618
+Present branch_coverage:1.0
+Reward:0.001892659562937756
+Present crossover rate:0.6641378419671521
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 328
+Previous coverage:0.8919915700737618
+Present coverage:0.9057077625570776
+Present branch_coverage:1.0
+Reward:0.013753819270563666
+Present crossover rate:0.6732722738163105
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 329
+Previous coverage:0.9057077625570776
+Present coverage:0.898840885142255
+Present branch_coverage:1.0
+Reward:-0.006857446613736574
+Present crossover rate:0.6686553451421061
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 330
+Previous coverage:0.898840885142255
+Present coverage:0.8943624868282403
+Present branch_coverage:1.0
+Reward:-0.004474387103722959
+Present crossover rate:0.6656635222889669
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 331
+Previous coverage:0.8943624868282403
+Present coverage:0.9029241306638568
+Present branch_coverage:1.0
+Reward:0.008576304184650118
+Present crossover rate:0.6713724551407426
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 332
+Previous coverage:0.9029241306638568
+Present coverage:0.8823761854583773
+Present branch_coverage:1.0
+Reward:-0.020463501595046056
+Present crossover rate:0.6576338238341001
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 333
+Previous coverage:0.8823761854583773
+Present coverage:0.8809931506849316
+Present branch_coverage:1.0
+Reward:-0.0013826522164087896
+Present crossover rate:0.6567245449699904
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 334
+Previous coverage:0.8809931506849316
+Present coverage:0.8943624868282403
+Present branch_coverage:1.0
+Reward:0.013405083973091264
+Present crossover rate:0.6655279926425033
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 335
+Previous coverage:0.8943624868282403
+Present coverage:0.87640099626401
+Present branch_coverage:1.0
+Reward:-0.017896967535572458
+Present crossover rate:0.6536170597641657
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 336
+Previous coverage:0.87640099626401
+Present coverage:0.8792808219178082
+Present branch_coverage:1.0
+Reward:0.0028814843329574395
+Present crossover rate:0.6555004470816299
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 337
+Previous coverage:0.8792808219178082
+Present coverage:0.9012118018967334
+Present branch_coverage:1.0
+Reward:0.02202717355549244
+Present crossover rate:0.6699392691951999
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 338
+Previous coverage:0.9012118018967334
+Present coverage:0.8999714611872146
+Present branch_coverage:1.0
+Reward:-0.0012400330205037011
+Present crossover rate:0.6691085223796657
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 339
+Previous coverage:0.8999714611872146
+Present coverage:0.8840885142255005
+Present branch_coverage:1.0
+Reward:-0.01583249336087638
+Present crossover rate:0.6585148661413839
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 340
+Previous coverage:0.8840885142255005
+Present coverage:0.898840885142255
+Present branch_coverage:1.0
+Reward:0.01479589740628762
+Present crossover rate:0.668258184541327
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 341
+Previous coverage:0.898840885142255
+Present coverage:0.8999714611872146
+Present branch_coverage:1.0
+Reward:0.0011308316853982732
+Present crossover rate:0.6690138720704331
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 342
+Previous coverage:0.8999714611872146
+Present coverage:0.8885669125395153
+Present branch_coverage:1.0
+Reward:-0.011378535901727804
+Present crossover rate:0.6614014737083257
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 343
+Previous coverage:0.8885669125395153
+Present coverage:0.8811358447488584
+Present branch_coverage:1.0
+Reward:-0.007420023636954964
+Present crossover rate:0.6564938591398931
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 344
+Previous coverage:0.8811358447488584
+Present coverage:0.9001956947162426
+Present branch_coverage:1.0
+Reward:0.01913250554354003
+Present crossover rate:0.6562535477453347
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 345
+Previous coverage:0.9001956947162426
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.0014885381235828722
+Present crossover rate:0.6572304061698903
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 346
+Previous coverage:0.901683789954338
+Present coverage:0.8832503113325031
+Present branch_coverage:1.0
+Reward:-0.018365519995014536
+Present crossover rate:0.6451600280040456
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 347
+Previous coverage:0.8832503113325031
+Present coverage:0.8994994731296101
+Present branch_coverage:1.0
+Reward:0.016301968848928716
+Present crossover rate:0.6556774066831416
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 348
+Previous coverage:0.8994994731296101
+Present coverage:0.8892255005268703
+Present branch_coverage:1.0
+Reward:-0.010252861700131398
+Present crossover rate:0.6489548369125185
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 349
+Previous coverage:0.8892255005268703
+Present coverage:0.9089352428393525
+Present branch_coverage:1.0
+Reward:0.019787437100887015
+Present crossover rate:0.6617959899292414
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 350
+Previous coverage:0.9089352428393525
+Present coverage:0.8952366127023661
+Present branch_coverage:1.0
+Reward:-0.013661099643460366
+Present crossover rate:0.6527551289671755
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 351
+Previous coverage:0.8952366127023661
+Present coverage:0.8840885142255005
+Present branch_coverage:1.0
+Reward:-0.01112324245693562
+Present crossover rate:0.6454943754026653
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 352
+Previous coverage:0.8840885142255005
+Present coverage:0.8828481735159818
+Present branch_coverage:1.0
+Reward:-0.0012400330205035901
+Present crossover rate:0.6446939410626167
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 353
+Previous coverage:0.8828481735159818
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.01890657252767876
+Present crossover rate:0.656882893817472
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 354
+Previous coverage:0.901683789954338
+Present coverage:0.8866749688667497
+Present branch_coverage:1.0
+Reward:-0.014963768145500428
+Present crossover rate:0.647053450495642
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 355
+Previous coverage:0.8866749688667497
+Present coverage:0.877568493150685
+Present branch_coverage:1.0
+Reward:-0.009089890136071255
+Present crossover rate:0.6411718057184709
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 356
+Previous coverage:0.877568493150685
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:0.007405081630761979
+Present crossover rate:0.6459197352791592
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 357
+Previous coverage:0.8849626400996264
+Present coverage:0.8861301369863014
+Present branch_coverage:1.0
+Reward:0.001167769496471025
+Present crossover rate:0.6466740206431869
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 358
+Previous coverage:0.8861301369863014
+Present coverage:0.8878424657534246
+Present branch_coverage:1.0
+Reward:0.0017129151810845826
+Present crossover rate:0.6477817183903597
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 359
+Previous coverage:0.8878424657534246
+Present coverage:0.884417808219178
+Present branch_coverage:1.0
+Reward:-0.0034223118784012145
+Present crossover rate:0.6455648073209012
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 360
+Previous coverage:0.884417808219178
+Present coverage:0.898840885142255
+Present branch_coverage:1.0
+Reward:0.014464681952662782
+Present crossover rate:0.65490269693863
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 361
+Previous coverage:0.898840885142255
+Present coverage:0.8935242839352429
+Present branch_coverage:1.0
+Reward:-0.005310947957333281
+Present crossover rate:0.6514245427980717
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 362
+Previous coverage:0.8935242839352429
+Present coverage:0.877568493150685
+Present branch_coverage:1.0
+Reward:-0.015904873332645772
+Present crossover rate:0.6410637179590917
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 363
+Previous coverage:0.877568493150685
+Present coverage:0.8866749688667497
+Present branch_coverage:1.0
+Reward:0.009123061296058166
+Present crossover rate:0.6469121815527115
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 364
+Previous coverage:0.8866749688667497
+Present coverage:0.901541095890411
+Present branch_coverage:1.0
+Reward:0.014910327370198028
+Present crossover rate:0.6565578539594313
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 365
+Previous coverage:0.901541095890411
+Present coverage:0.8794235159817352
+Present branch_coverage:1.0
+Reward:-0.02201974244047247
+Present crossover rate:0.6421006191179753
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 366
+Previous coverage:0.8794235159817352
+Present coverage:0.8883872976338729
+Present branch_coverage:1.0
+Reward:0.008979851528439177
+Present crossover rate:0.6478665873439736
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 367
+Previous coverage:0.8883872976338729
+Present coverage:0.889554794520548
+Present branch_coverage:1.0
+Reward:0.001167769496471136
+Present crossover rate:0.6486231461824568
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 368
+Previous coverage:0.889554794520548
+Present coverage:0.900373599003736
+Present branch_coverage:1.0
+Reward:0.01084221378927715
+Present crossover rate:0.6556556570020405
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 369
+Previous coverage:0.900373599003736
+Present coverage:0.8718816488111509
+Present branch_coverage:0.9666666666666668
+Reward:-0.028329591947429754
+Present crossover rate:0.6370811997811487
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 370
+Previous coverage:0.8718816488111509
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.02997977466653071
+Present crossover rate:0.6561807505948706
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 371
+Previous coverage:0.901683789954338
+Present coverage:0.9056902002107482
+Present branch_coverage:1.0
+Reward:0.004009620521038776
+Present crossover rate:0.6588117863979663
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 372
+Previous coverage:0.9056902002107482
+Present coverage:0.8960748155953635
+Present branch_coverage:1.0
+Reward:-0.009596893491124336
+Present crossover rate:0.6524892398532077
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 373
+Previous coverage:0.8960748155953635
+Present coverage:0.884560502283105
+Present branch_coverage:1.0
+Reward:-0.011487797430047924
+Present crossover rate:0.6449935756404881
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 374
+Previous coverage:0.884560502283105
+Present coverage:0.8789515279241307
+Present branch_coverage:1.0
+Reward:-0.005602682240302413
+Present crossover rate:0.6413798815891381
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 375
+Previous coverage:0.8789515279241307
+Present coverage:0.8772391991570073
+Present branch_coverage:1.0
+Reward:-0.0017117423531620064
+Present crossover rate:0.640282004481356
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 376
+Previous coverage:0.8772391991570073
+Present coverage:0.9068207762557078
+Present branch_coverage:1.0
+Reward:0.029756591039429733
+Present crossover rate:0.6789541647126526
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 377
+Previous coverage:0.9068207762557078
+Present coverage:0.8697488584474886
+Present branch_coverage:1.0
+Reward:-0.036797052390223295
+Present crossover rate:0.6539706527431608
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 378
+Previous coverage:0.8697488584474886
+Present coverage:0.8798256537982565
+Present branch_coverage:1.0
+Reward:0.010097103711676138
+Present crossover rate:0.6605738622483011
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 379
+Previous coverage:0.8798256537982565
+Present coverage:0.901908023483366
+Present branch_coverage:1.0
+Reward:0.02217989589529143
+Present crossover rate:0.675225321744119
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 380
+Previous coverage:0.901908023483366
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:-0.00877043903643111
+Present crossover rate:0.6693032992239075
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 381
+Previous coverage:0.8931221461187215
+Present coverage:0.8948344748858448
+Present branch_coverage:1.0
+Reward:0.0017129151810845826
+Present crossover rate:0.6704497590058982
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 382
+Previous coverage:0.8948344748858448
+Present coverage:0.9001956947162426
+Present branch_coverage:1.0
+Reward:0.005366968366011805
+Present crossover rate:0.6740480416534831
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 383
+Previous coverage:0.9001956947162426
+Present coverage:0.8755268703898841
+Present branch_coverage:1.0
+Reward:-0.02454711414762958
+Present crossover rate:0.6575021074340289
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 384
+Previous coverage:0.8755268703898841
+Present coverage:0.8792808219178082
+Present branch_coverage:1.0
+Reward:0.0037567699583389274
+Present crossover rate:0.6599721915987816
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 385
+Previous coverage:0.8792808219178082
+Present coverage:0.8879851598173516
+Present branch_coverage:1.0
+Reward:0.008719490999197277
+Present crossover rate:0.6657268131831476
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 386
+Previous coverage:0.8879851598173516
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:-0.0017117423531618954
+Present crossover rate:0.6645872604013866
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 387
+Previous coverage:0.8862728310502284
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:-0.0013098476305365115
+Present crossover rate:0.663716752353065
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 388
+Previous coverage:0.8849626400996264
+Present coverage:0.8935242839352429
+Present branch_coverage:1.0
+Reward:0.008576304184650007
+Present crossover rate:0.669408989113693
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 389
+Previous coverage:0.8935242839352429
+Present coverage:0.898840885142255
+Present branch_coverage:1.0
+Reward:0.005322254456691042
+Present crossover rate:0.6729717540893524
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 390
+Previous coverage:0.898840885142255
+Present coverage:0.8933463796477495
+Present branch_coverage:1.0
+Reward:-0.005488467576379645
+Present crossover rate:0.6692781704372136
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 391
+Previous coverage:0.8933463796477495
+Present coverage:0.9012118018967334
+Present branch_coverage:1.0
+Reward:0.007877795222414863
+Present crossover rate:0.6745506068107505
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 392
+Previous coverage:0.9012118018967334
+Present coverage:0.8900996264009963
+Present branch_coverage:1.0
+Reward:-0.011087479406887563
+Present crossover rate:0.6670715408488328
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 393
+Previous coverage:0.8900996264009963
+Present coverage:0.8781133250311333
+Present branch_coverage:1.0
+Reward:-0.011957567085757171
+Present crossover rate:0.6590949881481335
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 394
+Previous coverage:0.8781133250311333
+Present coverage:0.8798256537982565
+Present branch_coverage:1.0
+Reward:0.0017129151810845826
+Present crossover rate:0.6602239619591093
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 395
+Previous coverage:0.8798256537982565
+Present coverage:0.8792808219178082
+Present branch_coverage:1.0
+Reward:-0.0005447725120927027
+Present crossover rate:0.659864290092809
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 396
+Previous coverage:0.8792808219178082
+Present coverage:0.9033961187214612
+Present branch_coverage:1.0
+Reward:0.02423160631163864
+Present crossover rate:0.6758538617894468
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 397
+Previous coverage:0.9033961187214612
+Present coverage:0.9033961187214612
+Present branch_coverage:1.0
+Reward:0.0
+Present crossover rate:0.7569556492124994
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 398
+Previous coverage:0.9033961187214612
+Present coverage:0.8866749688667497
+Present branch_coverage:1.0
+Reward:-0.016665230484218772
+Present crossover rate:0.7319361977137124
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 399
+Previous coverage:0.8866749688667497
+Present coverage:0.8946917808219178
+Present branch_coverage:1.0
+Reward:0.008029665809953028
+Present crossover rate:0.7378134007755612
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 400
+Previous coverage:0.8946917808219178
+Present coverage:0.8999714611872146
+Present branch_coverage:1.0
+Reward:0.005285255370248741
+Present crossover rate:0.7417129330142518
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 401
+Previous coverage:0.8999714611872146
+Present coverage:0.8914098173515982
+Present branch_coverage:1.0
+Reward:-0.008546983486582827
+Present crossover rate:0.7353735248239941
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 402
+Previous coverage:0.8914098173515982
+Present coverage:0.8809931506849316
+Present branch_coverage:1.0
+Reward:-0.01039496527777774
+Present crossover rate:0.7277293425672516
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 403
+Previous coverage:0.8809931506849316
+Present coverage:0.8918119551681196
+Present branch_coverage:1.0
+Reward:0.01084221378927715
+Present crossover rate:0.735619539680096
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 404
+Previous coverage:0.8918119551681196
+Present coverage:0.9104696673189824
+Present branch_coverage:1.0
+Reward:0.01872733419540365
+Present crossover rate:0.7493957326403542
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 405
+Previous coverage:0.9104696673189824
+Present coverage:0.8948344748858448
+Present branch_coverage:1.0
+Reward:-0.015586300584653353
+Present crossover rate:0.7377154254945651
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 406
+Previous coverage:0.8948344748858448
+Present coverage:0.8858008429926238
+Present branch_coverage:1.0
+Reward:-0.009017310592184484
+Present crossover rate:0.7310632163742351
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 407
+Previous coverage:0.8858008429926238
+Present coverage:0.8986612702366127
+Present branch_coverage:1.0
+Reward:0.012893505361768422
+Present crossover rate:0.740489183874348
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 408
+Previous coverage:0.8986612702366127
+Present coverage:0.908533105022831
+Present branch_coverage:1.0
+Reward:0.009891325410627615
+Present crossover rate:0.7478136033550993
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 409
+Previous coverage:0.908533105022831
+Present coverage:0.8977871443624869
+Present branch_coverage:1.0
+Reward:-0.010722865526241434
+Present crossover rate:0.7397948986476285
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 410
+Previous coverage:0.8977871443624869
+Present coverage:0.9053326810176126
+Present branch_coverage:1.0
+Reward:0.007556923679808464
+Present crossover rate:0.7453854722354203
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 411
+Previous coverage:0.9053326810176126
+Present coverage:0.8789515279241307
+Present branch_coverage:1.0
+Reward:-0.026241960045773532
+Present crossover rate:0.7258250964543184
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 412
+Previous coverage:0.8789515279241307
+Present coverage:0.884417808219178
+Present branch_coverage:1.0
+Reward:0.00547225633910017
+Present crossover rate:0.7297969974394685
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 413
+Previous coverage:0.884417808219178
+Present coverage:0.8809931506849316
+Present branch_coverage:1.0
+Reward:-0.003422311878401104
+Present crossover rate:0.7272994045063099
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 414
+Previous coverage:0.8809931506849316
+Present coverage:0.9001956947162426
+Present branch_coverage:1.0
+Reward:0.019276291570765942
+Present crossover rate:0.741319039886818
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 415
+Previous coverage:0.9001956947162426
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:-0.01518664542602561
+Present crossover rate:0.7300608904804952
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 416
+Previous coverage:0.8849626400996264
+Present coverage:0.9056902002107482
+Present branch_coverage:1.0
+Reward:0.02081348646075379
+Present crossover rate:0.7452560029400369
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 417
+Previous coverage:0.9056902002107482
+Present coverage:0.8729763387297633
+Present branch_coverage:1.0
+Reward:-0.03249982213438546
+Present crossover rate:0.7210353153999026
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 418
+Previous coverage:0.8729763387297633
+Present coverage:0.8948344748858448
+Present branch_coverage:1.0
+Reward:0.02195369177932501
+Present crossover rate:0.7368647024762005
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 419
+Previous coverage:0.8948344748858448
+Present coverage:0.8918119551681196
+Present branch_coverage:1.0
+Reward:-0.0030206925926363508
+Present crossover rate:0.7346388607276554
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 420
+Previous coverage:0.8918119551681196
+Present coverage:0.8948344748858448
+Present branch_coverage:1.0
+Reward:0.003024346842813966
+Present crossover rate:0.7368606634467055
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 421
+Previous coverage:0.8948344748858448
+Present coverage:0.9037982565379824
+Present branch_coverage:1.0
+Reward:0.008979851528439066
+Present crossover rate:0.7434775628016042
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 422
+Previous coverage:0.9037982565379824
+Present coverage:0.8875131717597471
+Present branch_coverage:1.0
+Reward:-0.016232043980988452
+Present crossover rate:0.7314094023033304
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 423
+Previous coverage:0.8875131717597471
+Present coverage:0.8729763387297633
+Present branch_coverage:1.0
+Reward:-0.01449456912707544
+Present crossover rate:0.7208079381614518
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 424
+Previous coverage:0.8729763387297633
+Present coverage:0.8999714611872146
+Present branch_coverage:1.0
+Reward:0.02714086978474984
+Present crossover rate:0.7403712925509058
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 425
+Previous coverage:0.8999714611872146
+Present coverage:0.8919915700737618
+Present branch_coverage:1.0
+Reward:-0.007967155381016252
+Present crossover rate:0.7344726394235089
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 426
+Previous coverage:0.8919915700737618
+Present coverage:0.8411892057899408
+Present branch_coverage:0.9666666666666668
+Reward:-0.050286188240455804
+Present crossover rate:0.697538810019994
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 427
+Previous coverage:0.8411892057899408
+Present coverage:0.8900996264009963
+Present branch_coverage:1.0
+Reward:0.04938886645992551
+Present crossover rate:0.768141590905926
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 428
+Previous coverage:0.8900996264009963
+Present coverage:0.8981164383561644
+Present branch_coverage:1.0
+Reward:0.008029665809953028
+Present crossover rate:0.7743095111756263
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 429
+Previous coverage:0.8981164383561644
+Present coverage:0.8986612702366127
+Present branch_coverage:1.0
+Reward:0.0005448912488038838
+Present crossover rate:0.7747314256521316
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 430
+Previous coverage:0.8986612702366127
+Present coverage:0.877568493150685
+Present branch_coverage:1.0
+Reward:-0.02100379603688839
+Present crossover rate:0.7584591248043665
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 431
+Previous coverage:0.877568493150685
+Present coverage:0.9012118018967334
+Present branch_coverage:1.0
+Reward:0.02375510995574067
+Present crossover rate:0.7764764047110291
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 432
+Previous coverage:0.9012118018967334
+Present coverage:0.872431506849315
+Present branch_coverage:1.0
+Reward:-0.028614633970815123
+Present crossover rate:0.7542578166032485
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 433
+Previous coverage:0.872431506849315
+Present coverage:0.8866749688667497
+Present branch_coverage:1.0
+Reward:0.01428403725948307
+Present crossover rate:0.7650316633588656
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 434
+Previous coverage:0.8866749688667497
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:0.006455490470875527
+Present crossover rate:0.7699703179715969
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 435
+Previous coverage:0.8931221461187215
+Present coverage:0.902283105022831
+Present branch_coverage:1.0
+Reward:0.009177743537718063
+Present crossover rate:0.7770369080815954
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 436
+Previous coverage:0.902283105022831
+Present coverage:0.90463645943098
+Present branch_coverage:1.0
+Reward:0.0023544620635430596
+Present crossover rate:0.7788664120036463
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 437
+Previous coverage:0.90463645943098
+Present coverage:0.8758561643835616
+Present branch_coverage:1.0
+Reward:-0.028614633970815123
+Present crossover rate:0.7565794347119998
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 438
+Previous coverage:0.8758561643835616
+Present coverage:0.8994994731296101
+Present branch_coverage:1.0
+Reward:0.02375510995574067
+Present crossover rate:0.7745520623738356
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 439
+Previous coverage:0.8994994731296101
+Present coverage:0.9074025289778714
+Present branch_coverage:1.0
+Reward:0.007915547506609489
+Present crossover rate:0.780683066019898
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 440
+Previous coverage:0.9074025289778714
+Present coverage:0.9033961187214612
+Present branch_coverage:1.0
+Reward:-0.004003199991781709
+Present crossover rate:0.7775578355764231
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 441
+Previous coverage:0.9033961187214612
+Present coverage:0.8678393524283935
+Present branch_coverage:1.0
+Reward:-0.035303909567223735
+Present crossover rate:0.7501070040659469
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 442
+Previous coverage:0.8678393524283935
+Present coverage:0.8849626400996264
+Present branch_coverage:1.0
+Reward:0.017181929067367305
+Present crossover rate:0.7629952894027434
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 443
+Previous coverage:0.8849626400996264
+Present coverage:0.8858008429926238
+Present branch_coverage:1.0
+Reward:0.0008383434098153742
+Present crossover rate:0.7636349414753344
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 444
+Previous coverage:0.8858008429926238
+Present coverage:0.913670091324201
+Present branch_coverage:1.0
+Reward:0.028024587332090536
+Present crossover rate:0.7850354955825458
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 445
+Previous coverage:0.913670091324201
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:-0.011957567085757171
+Present crossover rate:0.7756483809794169
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 446
+Previous coverage:0.901683789954338
+Present coverage:0.8982591324200914
+Present branch_coverage:1.0
+Reward:-0.0034223118784012145
+Present crossover rate:0.7729938703117284
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 447
+Previous coverage:0.8982591324200914
+Present coverage:0.884560502283105
+Present branch_coverage:1.0
+Reward:-0.013661099643460366
+Present crossover rate:0.7624339240256157
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 448
+Previous coverage:0.884560502283105
+Present coverage:0.8909378292939937
+Present branch_coverage:1.0
+Reward:0.006385461070849429
+Present crossover rate:0.7673024161665762
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 449
+Previous coverage:0.8909378292939937
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:0.0021852710727260187
+Present crossover rate:0.7689791799406578
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 450
+Previous coverage:0.8931221461187215
+Present coverage:0.8690068493150684
+Present branch_coverage:1.0
+Reward:-0.02399898729566744
+Present crossover rate:0.7505244583706292
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 451
+Previous coverage:0.8690068493150684
+Present coverage:0.8862728310502284
+Present branch_coverage:1.0
+Reward:0.017325604560215695
+Present crossover rate:0.7502991685104798
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 452
+Previous coverage:0.8862728310502284
+Present coverage:0.8982591324200914
+Present branch_coverage:1.0
+Reward:0.012015035653968841
+Present crossover rate:0.7593140397712764
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 453
+Previous coverage:0.8982591324200914
+Present coverage:0.8851598173515982
+Present branch_coverage:1.0
+Reward:-0.013064996657440426
+Present crossover rate:0.7493936043797171
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 454
+Previous coverage:0.8851598173515982
+Present coverage:0.8817351598173516
+Present branch_coverage:1.0
+Reward:-0.0034223118784012145
+Present crossover rate:0.7468289457458505
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 455
+Previous coverage:0.8817351598173516
+Present coverage:0.9012118018967334
+Present branch_coverage:1.0
+Reward:0.01955250999671949
+Present crossover rate:0.7614313261733857
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 456
+Previous coverage:0.9012118018967334
+Present coverage:0.896546803652968
+Present branch_coverage:1.0
+Reward:-0.004660645802042561
+Present crossover rate:0.7578825644595121
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 457
+Previous coverage:0.896546803652968
+Present coverage:0.8879851598173516
+Present branch_coverage:1.0
+Reward:-0.008546983486582827
+Present crossover rate:0.7514049546963076
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 458
+Previous coverage:0.8879851598173516
+Present coverage:0.87640099626401
+Present branch_coverage:1.0
+Reward:-0.011557324984295462
+Present crossover rate:0.7427207234400726
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 459
+Previous coverage:0.87640099626401
+Present coverage:0.8900996264009963
+Present branch_coverage:1.0
+Reward:0.013736160630512235
+Present crossover rate:0.7529228546008556
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 460
+Previous coverage:0.8900996264009963
+Present coverage:0.8861301369863014
+Present branch_coverage:1.0
+Reward:-0.003966338045452207
+Present crossover rate:0.7499365080373618
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 461
+Previous coverage:0.8861301369863014
+Present coverage:0.8815379825653799
+Present branch_coverage:1.0
+Reward:-0.004587936844476417
+Present crossover rate:0.7464958467011191
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 462
+Previous coverage:0.8815379825653799
+Present coverage:0.8796477495107632
+Present branch_coverage:1.0
+Reward:-0.0018895184584165105
+Present crossover rate:0.7450853290196461
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 463
+Previous coverage:0.8796477495107632
+Present coverage:0.908533105022831
+Present branch_coverage:1.0
+Reward:0.029052228264679545
+Present crossover rate:0.7667317180749886
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 464
+Previous coverage:0.908533105022831
+Present coverage:0.8827054794520548
+Present branch_coverage:1.0
+Reward:-0.025694212322251383
+Present crossover rate:0.7470311505165653
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 465
+Previous coverage:0.8827054794520548
+Present coverage:0.8759988584474886
+Present branch_coverage:1.0
+Reward:-0.006697625251506426
+Present crossover rate:0.7420278158192037
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 466
+Previous coverage:0.8759988584474886
+Present coverage:0.9074025289778714
+Present branch_coverage:1.0
+Reward:0.03160090863493901
+Present crossover rate:0.7654765690314896
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 467
+Previous coverage:0.9074025289778714
+Present coverage:0.8833445758959457
+Present branch_coverage:1.0
+Reward:-0.02394219606062728
+Present crossover rate:0.7471493789359214
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 468
+Previous coverage:0.8833445758959457
+Present coverage:0.8811358447488584
+Present branch_coverage:1.0
+Reward:-0.0022077554484312835
+Present crossover rate:0.7454998558237835
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 469
+Previous coverage:0.8811358447488584
+Present coverage:0.8723208108482081
+Present branch_coverage:1.0
+Reward:-0.008799492936116381
+Present crossover rate:0.7389398351085864
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 470
+Previous coverage:0.8723208108482081
+Present coverage:0.9022655426765016
+Present branch_coverage:1.0
+Reward:0.030124069221147173
+Present crossover rate:0.7611997098516605
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 471
+Previous coverage:0.9022655426765016
+Present coverage:0.8931221461187215
+Present branch_coverage:1.0
+Reward:-0.009126676217657505
+Present crossover rate:0.7542524865628696
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 472
+Previous coverage:0.8931221461187215
+Present coverage:0.90463645943098
+Present branch_coverage:1.0
+Reward:0.011540829194469067
+Present crossover rate:0.7629571856797952
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 473
+Previous coverage:0.90463645943098
+Present coverage:0.8772391991570073
+Present branch_coverage:1.0
+Reward:-0.027247138299868752
+Present crossover rate:0.7421687857246991
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 474
+Previous coverage:0.8772391991570073
+Present coverage:0.8858008429926238
+Present branch_coverage:1.0
+Reward:0.008576304184650118
+Present crossover rate:0.7485338509874265
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 475
+Previous coverage:0.8858008429926238
+Present coverage:0.8885669125395153
+Present branch_coverage:1.0
+Reward:0.002767599775039051
+Present crossover rate:0.7506054931050286
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 476
+Previous coverage:0.8885669125395153
+Present coverage:0.8794235159817352
+Present branch_coverage:1.0
+Reward:-0.009126676217657505
+Present crossover rate:0.7437549598022638
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 477
+Previous coverage:0.8794235159817352
+Present coverage:0.8800052687038988
+Present branch_coverage:1.0
+Reward:0.0005818204094096021
+Present crossover rate:0.7441876916174764
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 478
+Previous coverage:0.8800052687038988
+Present coverage:0.8758561643835616
+Present branch_coverage:1.0
+Reward:-0.0041456613070050075
+Present crossover rate:0.7411025414991885
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 479
+Previous coverage:0.8758561643835616
+Present coverage:0.8875131717597471
+Present branch_coverage:1.0
+Reward:0.011684184540379157
+Present crossover rate:0.7497617203574091
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 480
+Previous coverage:0.8875131717597471
+Present coverage:0.8879851598173516
+Present branch_coverage:1.0
+Reward:0.00047203261214981526
+Present crossover rate:0.7501156323407594
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 481
+Previous coverage:0.8879851598173516
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.013736160630512346
+Present crossover rate:0.7604193411580504
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 482
+Previous coverage:0.901683789954338
+Present coverage:0.8798256537982565
+Present branch_coverage:1.0
+Reward:-0.021762580532837895
+Present crossover rate:0.7438706540073708
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 483
+Previous coverage:0.8798256537982565
+Present coverage:0.8883872976338729
+Present branch_coverage:1.0
+Reward:0.008576304184650007
+Present crossover rate:0.7502503150101726
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 484
+Previous coverage:0.8883872976338729
+Present coverage:0.8999714611872146
+Present branch_coverage:1.0
+Reward:0.0116110021223878
+Present crossover rate:0.7589614730100779
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 485
+Previous coverage:0.8999714611872146
+Present coverage:0.8982591324200914
+Present branch_coverage:1.0
+Reward:-0.0017117423531618954
+Present crossover rate:0.7576623265123085
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 486
+Previous coverage:0.8982591324200914
+Present coverage:0.8879851598173516
+Present branch_coverage:1.0
+Reward:-0.010252861700131398
+Present crossover rate:0.749894119463178
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 487
+Previous coverage:0.8879851598173516
+Present coverage:0.8984833659491194
+Present branch_coverage:1.0
+Reward:0.010520248598164791
+Present crossover rate:0.7577831920222325
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 488
+Previous coverage:0.8984833659491194
+Present coverage:0.8781133250311333
+Present branch_coverage:1.0
+Reward:-0.020287053204586025
+Present crossover rate:0.7424100040881365
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 489
+Previous coverage:0.8781133250311333
+Present coverage:0.8746886674968867
+Present branch_coverage:1.0
+Reward:-0.0034223118784012145
+Present crossover rate:0.7398692455125018
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 490
+Previous coverage:0.8746886674968867
+Present coverage:0.8977871443624869
+Present branch_coverage:1.0
+Reward:0.023205184792302314
+Present crossover rate:0.7570380480767607
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 491
+Previous coverage:0.8977871443624869
+Present coverage:0.8900996264009963
+Present branch_coverage:1.0
+Reward:-0.007675698375008939
+Present crossover rate:0.7512272523613179
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 492
+Previous coverage:0.8900996264009963
+Present coverage:0.889921722113503
+Present branch_coverage:1.0
+Reward:-0.00017789795750621174
+Present crossover rate:0.7510936105674998
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 493
+Previous coverage:0.889921722113503
+Present coverage:0.901683789954338
+Present branch_coverage:1.0
+Reward:0.01178973708881348
+Present crossover rate:0.7599488067651784
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 494
+Previous coverage:0.901683789954338
+Present coverage:0.884560502283105
+Present branch_coverage:1.0
+Reward:-0.017064646275098586
+Present crossover rate:0.7469805491905473
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 495
+Previous coverage:0.884560502283105
+Present coverage:0.8929794520547946
+Present branch_coverage:1.0
+Reward:0.0084331255147412
+Present crossover rate:0.7532799299189415
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 496
+Previous coverage:0.8929794520547946
+Present coverage:0.8918119551681196
+Present branch_coverage:1.0
+Reward:-0.0011672242768788665
+Present crossover rate:0.7524006832974546
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 497
+Previous coverage:0.8918119551681196
+Present coverage:0.8918119551681196
+Present branch_coverage:1.0
+Reward:0.0
+Present crossover rate:0.5017866316067605
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 498
+Previous coverage:0.8918119551681196
+Present coverage:0.9001956947162426
+Present branch_coverage:1.0
+Reward:0.008397796965885145
+Present crossover rate:0.5102498236071683
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 499
+Previous coverage:0.9001956947162426
+Present coverage:0.8960748155953635
+Present branch_coverage:1.0
+Reward:-0.004117482791933327
+Present crossover rate:0.5081488787388787
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 500
+Previous coverage:0.8960748155953635
+Present coverage:0.8960748155953635
+Present branch_coverage:1.0
+Reward:0.0
+Present crossover rate:0.5081488787388787
+Present class:org.fixsuite.message.info.DictionaryInfo(Random seed After RL)
+-------------------------------------------------------

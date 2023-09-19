@@ -1,0 +1,4501 @@
+
+------------------------QLearning------------------------
+Episodes : 1
+Previous coverage:0.8899038461538462
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.03588880805020291
+Present mutation rate:0.4137206397374196
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 2
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6818812761746422
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 3
+Previous coverage:0.853753671071953
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.0032916378116343314
+Present mutation rate:0.6841257823663441
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 4
+Previous coverage:0.8570431447561635
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003287309556786686
+Present mutation rate:0.6818768491439271
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 5
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.43510728199398496
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 6
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.42720148233467686
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 7
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4350204638219572
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 8
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6415259604449839
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 9
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6360558274227375
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 10
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.3999354830007618
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 11
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.3926687468736097
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 12
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.41649204766164405
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 13
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.7799630705113418
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 14
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.7942385753053838
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 15
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7942385753053838
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 16
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7942385753053838
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 17
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7942385753053838
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 18
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7942385753053838
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 19
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7942385753053838
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 20
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7942385753053838
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 21
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7942385753053838
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 22
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7942385753053838
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 23
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.7798074423000174
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 24
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.7940800986626902
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 25
+Previous coverage:0.853753671071953
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.0032916378116343314
+Present mutation rate:0.7966939227409147
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 26
+Previous coverage:0.8570431447561635
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7966939227409147
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 27
+Previous coverage:0.8570431447561635
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003287309556786686
+Present mutation rate:0.7940749431948546
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 28
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7940749431948546
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 29
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7940749431948546
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 30
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7940749431948546
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 31
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7940749431948546
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 32
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7940749431948546
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 33
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7940749431948546
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 34
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.7654807798599464
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 35
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.7794912182457966
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 36
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7794912182457966
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 37
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7794912182457966
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 38
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7794912182457966
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 39
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7794912182457966
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 40
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7794912182457966
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 41
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7794912182457966
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 42
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.7653280413405512
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 43
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.7793356841844734
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 44
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.7651753332974996
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 45
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.7791801811572963
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 46
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7791801811572963
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 47
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7791801811572963
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 48
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7791801811572963
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 49
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7791801811572963
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 50
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.7650226557247108
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 51
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.7790247091580728
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 52
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7790247091580728
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 53
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7790247091580728
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 54
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7790247091580728
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 55
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.7648700086161048
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 56
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.7648700086161048
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 57
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.7788692681806118
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 58
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7788692681806118
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 59
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7788692681806118
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 60
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7788692681806118
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 61
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7788692681806118
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 62
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7788692681806118
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 63
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7788692681806118
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 64
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7788692681806118
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 65
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7788692681806118
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 66
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7788692681806118
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 67
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.7508226521001546
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 68
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.7645648057671278
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 69
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7645648057671278
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 70
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7645648057671278
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 71
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.7506728383579584
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 72
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.7504213687122953
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 73
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.7233991444614799
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 74
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.7366393712686228
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 75
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7366393712686228
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 76
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7366393712686228
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 77
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7366393712686228
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 78
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7366393712686228
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 79
+Previous coverage:0.853753671071953
+Present coverage:0.8482617644080892
+Present branch_coverage:0.9850746268656716
+Reward:-0.00548587445610287
+Present mutation rate:0.7285793180764321
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 80
+Previous coverage:0.8482617644080892
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.005497938871624706
+Present mutation rate:0.7325850026303463
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 81
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.7325850026303463
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 82
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.7192741009196981
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 83
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.7192741009196981
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 84
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.719033149610352
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 85
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.719033149610352
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 86
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.719033149610352
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 87
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.719033149610352
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 88
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6931411963389758
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 89
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6929089993523109
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 90
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6679577610926168
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 91
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6677340003636856
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 92
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6677340003636856
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 93
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6677340003636856
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 94
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6677340003636856
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 95
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6677340003636856
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 96
+Previous coverage:0.853753671071953
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.0032916378116343314
+Present mutation rate:0.6699319388473965
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 97
+Previous coverage:0.8570431447561635
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003287309556786686
+Present mutation rate:0.6677296651824268
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 98
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6677296651824268
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 99
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6677296651824268
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 100
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6677296651824268
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 101
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6555971700991059
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 102
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6553775500733924
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 103
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6553775500733924
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 104
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6553775500733924
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 105
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6553775500733924
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 106
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6553775500733924
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 107
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6553775500733924
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 108
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6317777968341921
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 109
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6315661561159063
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 110
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6315661561159063
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 111
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6315661561159063
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 112
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6315661561159063
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 113
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6315661561159063
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 114
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6315661561159063
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 115
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6315661561159063
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 116
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6200907437096375
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 117
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6314401379556555
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 118
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6199670152704959
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 119
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6313141449401604
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 120
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6198433115192357
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 121
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6311881770644039
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 122
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6311881770644039
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 123
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6311881770644039
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 124
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6197196324509308
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 125
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6426124375214725
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 126
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6426124375214725
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 127
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6426124375214725
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 128
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6426124375214725
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 129
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6194723483434872
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 130
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.6194723483434872
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 131
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6192648298561034
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 132
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6192648298561034
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 133
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6192648298561034
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 134
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6192648298561034
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 135
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6192648298561034
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 136
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6192648298561034
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 137
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6192648298561034
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 138
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6192648298561034
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 139
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6192648298561034
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 140
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6192648298561034
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 141
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6192648298561034
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 142
+Previous coverage:0.853753671071953
+Present coverage:0.8391938582883153
+Present branch_coverage:0.9552238805970148
+Reward:-0.014517415153978799
+Present mutation rate:0.6102747052308244
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 143
+Previous coverage:0.8391938582883153
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.014602210413296632
+Present mutation rate:0.6191860648865174
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 144
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6191860648865174
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 145
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6191860648865174
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 146
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6191860648865174
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 147
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6191860648865174
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 148
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6191860648865174
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 149
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6079355959024202
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 150
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.6079355959024202
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 151
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6303930917822843
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 152
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6303930917822843
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 153
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6189389936862854
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 154
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6418029615050542
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 155
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6418029615050542
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 156
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6418029615050542
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 157
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.6186920210738309
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 158
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 159
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 160
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 161
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 162
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 163
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 164
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 165
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 166
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 167
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 168
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 169
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.6184847639901001
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 170
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.5962134978920519
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 171
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.5962134978920519
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 172
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.5960137709412507
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 173
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5960137709412507
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 174
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5960137709412507
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 175
+Previous coverage:0.853753671071953
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.0032916378116343314
+Present mutation rate:0.5960073132038723
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 176
+Previous coverage:0.8570431447561635
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003287309556786686
+Present mutation rate:0.5920952328265389
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 177
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5920952328265389
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 178
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5920952328265389
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 179
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.5707742379477115
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 180
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.5705830329539564
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 181
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5705830329539564
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 182
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5705830329539564
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 183
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5705830329539564
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 184
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.5500366795143551
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 185
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.5500366795143551
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 186
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.5498524214436864
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 187
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5498524214436864
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 188
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.5498524214436864
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 189
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.5300525649142789
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 190
+Previous coverage:0.83551738770008
+Present coverage:0.8100286342840615
+Present branch_coverage:0.8955223880597015
+Reward:-0.02535881810587801
+Present mutation rate:0.503510412474285
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 191
+Previous coverage:0.8100286342840615
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.044107412556312016
+Present mutation rate:0.502530851172538
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 192
+Previous coverage:0.853753671071953
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.0032916378116343314
+Present mutation rate:0.5025254063113291
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 193
+Previous coverage:0.8570431447561635
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003287309556786686
+Present mutation rate:0.49922692366256066
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 194
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.4812500610015156
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 195
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4810888459206821
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 196
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4810888459206821
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 197
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4810888459206821
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 198
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4810888459206821
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 199
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4810888459206821
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 200
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4810888459206821
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 201
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4810888459206821
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 202
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4810888459206821
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 203
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4810888459206821
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 204
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4810888459206821
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 205
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4810888459206821
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 206
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.4637651245808401
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 207
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4636097668196557
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 208
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.4469154566544664
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 209
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.44676574340285585
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 210
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.44676574340285585
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 211
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.44676574340285585
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 212
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.43864811216993693
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 213
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.43864811216993693
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 214
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.44667659898543977
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 215
+Previous coverage:0.853753671071953
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.0032916378116343314
+Present mutation rate:0.4481468965682325
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 216
+Previous coverage:0.8570431447561635
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003287309556786686
+Present mutation rate:0.4466736989922994
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 217
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4466736989922994
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 218
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.43855774018523896
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 219
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.43855774018523896
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 220
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4465845729407618
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 221
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.4384702335336449
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 222
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4464954646727944
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 223
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4464954646727944
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 224
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.4383827443424976
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 225
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4464063741848487
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 226
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4464063741848487
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 227
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4464063741848487
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 228
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4464063741848487
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 229
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4464063741848487
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 230
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4464063741848487
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 231
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4464063741848487
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 232
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4464063741848487
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 233
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4464063741848487
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 234
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4464063741848487
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 235
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4464063741848487
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 236
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.4382952726083131
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 237
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.44631730147337706
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 238
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.44631730147337706
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 239
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.44631730147337706
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 240
+Previous coverage:0.853753671071953
+Present coverage:0.8574301416601883
+Present branch_coverage:1.0
+Reward:0.003679173875432513
+Present mutation rate:0.44795938042911143
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 241
+Previous coverage:0.8574301416601883
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003673767301038049
+Present mutation rate:0.4463136819050977
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 242
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4463136819050977
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 243
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4463136819050977
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 244
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4463136819050977
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 245
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.43820426452605543
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 246
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4462246276887757
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 247
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4462246276887757
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 248
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4462246276887757
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 249
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.4381168284044475
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 250
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.4381168284044475
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 251
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.4381168284044475
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 252
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.44613559124169033
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 253
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.44613559124169033
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 254
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.44613559124169033
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 255
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.44613559124169033
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 256
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.4380294097292133
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 257
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4460465725602961
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 258
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.43794200849687165
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 259
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.44595757164104816
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 260
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.44595757164104816
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 261
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.44595757164104816
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 262
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.43785462470394215
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 263
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.43785462470394215
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 264
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.43785462470394215
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 265
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.43785462470394215
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 266
+Previous coverage:0.83551738770008
+Present coverage:0.8482617644080892
+Present branch_coverage:0.9850746268656716
+Reward:0.012776860535544337
+Present mutation rate:0.43778314573985905
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 267
+Previous coverage:0.8482617644080892
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.005497938871624706
+Present mutation rate:0.4377699127234405
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 268
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4377699127234405
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 269
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4377699127234405
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 270
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4377699127234405
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 271
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4377699127234405
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 272
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4377699127234405
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 273
+Previous coverage:0.853753671071953
+Present coverage:0.8391938582883153
+Present branch_coverage:0.9552238805970148
+Reward:-0.014517415153978799
+Present mutation rate:0.425151599941589
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 274
+Previous coverage:0.8391938582883153
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.014602210413296632
+Present mutation rate:0.4250609471834543
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 275
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4250609471834543
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 276
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4250609471834543
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 277
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4250609471834543
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 278
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4250609471834543
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 279
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4250609471834543
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 280
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4250609471834543
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 281
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.41733768712669755
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 282
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4249761335846891
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 283
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4249761335846891
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 284
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.41725441457159673
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 285
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.41725441457159673
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 286
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4248913369090183
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 287
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.4095912542262901
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 288
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.41708791930489664
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 289
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.41708791930489664
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 290
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.40950952733859586
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 291
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.41700469658666733
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 292
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.40198860710064377
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 293
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.40934612248153646
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 294
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.4019083971903786
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 295
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.4019083971903786
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 296
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4092644445056643
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 297
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4092644445056643
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 298
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4092644445056643
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 299
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4092644445056643
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 300
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4092644445056643
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 301
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4092644445056643
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 302
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4092644445056643
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 303
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.40182820328462093
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 304
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4091827828272269
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 305
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.40174802538017745
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 306
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.40174802538017745
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 307
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4091011374429725
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 308
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4091011374429725
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 309
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4091011374429725
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 310
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4091011374429725
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 311
+Previous coverage:0.853753671071953
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.0032916378116343314
+Present mutation rate:0.4104477502157624
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 312
+Previous coverage:0.8570431447561635
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003287309556786686
+Present mutation rate:0.4090984814039165
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 313
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4090984814039165
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 314
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4090984814039165
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 315
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.3943670899936022
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 316
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.4015851103033653
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 317
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4015851103033653
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 318
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.4015851103033653
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 319
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.39428840082594624
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 320
+Previous coverage:0.83551738770008
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.02161842869945101
+Present mutation rate:0.4028122965062225
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 321
+Previous coverage:0.8570431447561635
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.021433085412716
+Present mutation rate:0.39417878614991236
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 322
+Previous coverage:0.83551738770008
+Present coverage:0.8245335743723524
+Present branch_coverage:0.9253731343283582
+Reward:-0.010959684496683903
+Present mutation rate:0.38558598254737764
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 323
+Previous coverage:0.8245335743723524
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.029390859509827373
+Present mutation rate:0.39691868598938634
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 324
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.39691868598938634
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 325
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.39691868598938634
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 326
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.38970676437298074
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 327
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.3968394876946501
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 328
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.3968394876946501
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 329
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.3968394876946501
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 330
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.3896290050931207
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 331
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.39676030520257094
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 332
+Previous coverage:0.853753671071953
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.0032916378116343314
+Present mutation rate:0.3980662964253313
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 333
+Previous coverage:0.8570431447561635
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003287309556786686
+Present mutation rate:0.39675772928485764
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 334
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.3895487322149087
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 335
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.40393888983635323
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 336
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.40393888983635323
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 337
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.40393888983635323
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 338
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.40393888983635323
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 339
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.40393888983635323
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 340
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.3893932922296196
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 341
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.389262848462086
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 342
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.389262848462086
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 343
+Previous coverage:0.853753671071953
+Present coverage:0.8391938582883153
+Present branch_coverage:0.9552238805970148
+Reward:-0.014517415153978799
+Present mutation rate:0.3780427069368457
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 344
+Previous coverage:0.8391938582883153
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.014602210413296632
+Present mutation rate:0.37796209895117366
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 345
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.36435191003332157
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 346
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.3710205686340282
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 347
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.3576603400673794
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 348
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.3575405265955329
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 349
+Previous coverage:0.853753671071953
+Present coverage:0.8482617644080892
+Present branch_coverage:0.9850746268656716
+Reward:-0.00548587445610287
+Present mutation rate:0.35362844182906045
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 350
+Previous coverage:0.8482617644080892
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.005497938871624706
+Present mutation rate:0.3536177525848026
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 351
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.3536177525848026
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 352
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.3408841890059656
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 353
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.3408841890059656
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 354
+Previous coverage:0.83551738770008
+Present coverage:0.8482617644080892
+Present branch_coverage:0.9850746268656716
+Reward:0.012776860535544337
+Present mutation rate:0.34082854028758347
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 355
+Previous coverage:0.8482617644080892
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.005497938871624706
+Present mutation rate:0.340818237950197
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 356
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.340818237950197
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 357
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.340818237950197
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 358
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.340818237950197
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 359
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.328545577230978
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 360
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.328545577230978
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 361
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.328545577230978
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 362
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.328545577230978
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 363
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.32843551698146745
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 364
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.32843551698146745
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 365
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.32843551698146745
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 366
+Previous coverage:0.853753671071953
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.0032916378116343314
+Present mutation rate:0.32843195842222306
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 367
+Previous coverage:0.8570431447561635
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.021433085412716
+Present mutation rate:0.31450421212509516
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 368
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.31450421212509516
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 369
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.31450421212509516
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 370
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.3143988556252441
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 371
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.3143988556252441
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 372
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.30307754104769746
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 373
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.3029760123950524
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 374
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.3029760123950524
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 375
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.3029760123950524
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 376
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.3029760123950524
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 377
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.3029760123950524
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 378
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.29206602756398914
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 379
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.2919681876839391
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 380
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2919681876839391
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 381
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2919681876839391
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 382
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.28145458803093626
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 383
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.28136030290177505
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 384
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.28136030290177505
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 385
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.2712286868294134
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 386
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.27113782729875574
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 387
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.27113782729875574
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 388
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.27113782729875574
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 389
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.27113782729875574
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 390
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.27113782729875574
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 391
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.27113782729875574
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 392
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.26621131507661905
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 393
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.2710837264102903
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 394
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2710837264102903
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 395
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.2661581971889061
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 396
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.2710296363167264
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 397
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.26610508989995374
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 398
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.27097555701591
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 399
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.27097555701591
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 400
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.2660519932076471
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 401
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.2709214885056876
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 402
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2709214885056876
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 403
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2709214885056876
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 404
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2709214885056876
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 405
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.26116576789057794
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 406
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.2610782793606154
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 407
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2610782793606154
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 408
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2610782793606154
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 409
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2610782793606154
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 410
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.25167700681422506
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 411
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.2515926969464755
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 412
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.24253299454431537
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 413
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.24253299454431537
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 414
+Previous coverage:0.83551738770008
+Present coverage:0.8574301416601883
+Present branch_coverage:1.0
+Reward:0.022008787717331526
+Present mutation rate:0.242415514778525
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 415
+Previous coverage:0.8574301416601883
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003673767301038049
+Present mutation rate:0.24063763017264847
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 416
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.24063763017264847
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 417
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.23197241316681042
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 418
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.23189470418686348
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 419
+Previous coverage:0.853753671071953
+Present coverage:0.8391938582883153
+Present branch_coverage:0.9552238805970148
+Reward:-0.014517415153978799
+Present mutation rate:0.2252105538493474
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 420
+Previous coverage:0.8391938582883153
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.003673767301038049
+Present mutation rate:0.22355885108133153
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 421
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.22348396058017891
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 422
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.22348396058017891
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 423
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.2154364369473954
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 424
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.2153642673927055
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 425
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.2153642673927055
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 426
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.2076091290507836
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 427
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.2076091290507836
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 428
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.20753958158422942
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 429
+Previous coverage:0.853753671071953
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.0032916378116343314
+Present mutation rate:0.20753733291787502
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 430
+Previous coverage:0.8570431447561635
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003287309556786686
+Present mutation rate:0.20617509673438306
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 431
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.20617509673438306
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 432
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.20617509673438306
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 433
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.20617509673438306
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 434
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.20617509673438306
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 435
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.19875085492680997
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 436
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.19868427491417354
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 437
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.19868427491417354
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 438
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.19868427491417354
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 439
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.19868427491417354
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 440
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.19868427491417354
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 441
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.19868427491417354
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 442
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.19868427491417354
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 443
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.19868427491417354
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 444
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.19152977311599806
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 445
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.19146561211040636
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 446
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.19146561211040636
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 447
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.19146561211040636
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 448
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.18457105003837318
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 449
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.18450922015166202
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 450
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.18450922015166202
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 451
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.18450922015166202
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 452
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.18450922015166202
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 453
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.18450922015166202
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 454
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.1778651535896492
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 455
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.17780557012683623
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 456
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.1714028979891062
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 457
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.1714028979891062
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 458
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.1745400502267782
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 459
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.1745400502267782
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 460
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.1745400502267782
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 461
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.17136869748982825
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 462
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.17450522376274644
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 463
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.17133450381467147
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 464
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.17447040424773638
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 465
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.1713003169622743
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 466
+Previous coverage:0.83551738770008
+Present coverage:0.8570431447561635
+Present branch_coverage:1.0
+Reward:0.02161842869945101
+Present mutation rate:0.17500356065071657
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 467
+Previous coverage:0.8570431447561635
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:-0.003287309556786686
+Present mutation rate:0.17442826977331777
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 468
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.17442826977331777
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 469
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.17442826977331777
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 470
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.17442826977331777
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 471
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.17125894806160563
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 472
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.1743934656131523
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 473
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.1743934656131523
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 474
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.1743934656131523
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 475
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.1743934656131523
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 476
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.1743934656131523
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 477
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.171224776285059
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 478
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.17435866839755818
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 479
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.17435866839755818
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 480
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.17119061132690247
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 481
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.17432387812514974
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 482
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.17432387812514974
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 483
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.17432387812514974
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 484
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.17432387812514974
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 485
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.16804657963210057
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 486
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.16804657963210057
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 487
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.16799028531628726
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 488
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.16799028531628726
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 489
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.16194105570870723
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 490
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.16188680669659902
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 491
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.1560573597002928
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 492
+Previous coverage:0.83551738770008
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:0.0
+Present mutation rate:0.1560573597002928
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 493
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.15600508168123883
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 494
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.15600508168123883
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 495
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.15600508168123883
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 496
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.15600508168123883
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 497
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.15600508168123883
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 498
+Previous coverage:0.853753671071953
+Present coverage:0.83551738770008
+Present branch_coverage:0.9552238805970148
+Reward:-0.018169770965629148
+Present mutation rate:0.15038743208166644
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 499
+Previous coverage:0.83551738770008
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.018302795778116845
+Present mutation rate:0.1503370534448951
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 500
+Previous coverage:0.853753671071953
+Present coverage:0.853753671071953
+Present branch_coverage:1.0
+Reward:0.0
+Present mutation rate:0.1503370534448951
+Present class:com.ib.client.EWrapperMsgGenerator(Fixed seed After RL)
+-------------------------------------------------------

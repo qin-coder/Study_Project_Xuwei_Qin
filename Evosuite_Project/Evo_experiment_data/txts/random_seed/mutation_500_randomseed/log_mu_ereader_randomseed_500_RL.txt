@@ -1,0 +1,4501 @@
+
+------------------------QLearning------------------------
+Episodes : 1
+Previous coverage:0.5619441564953501
+Present coverage:0.6672135216482694
+Present branch_coverage:0.5490196078431373
+Reward:0.03379713739381551
+Present mutation rate:0.5269008985257813
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 2
+Previous coverage:0.6672135216482694
+Present coverage:0.6654994773286099
+Present branch_coverage:0.545751633986928
+Reward:-0.000513625706311896
+Present mutation rate:0.5266302686796196
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 3
+Previous coverage:0.6654994773286099
+Present coverage:0.5995030386520506
+Present branch_coverage:0.5163398692810458
+Reward:-0.018927825619370033
+Present mutation rate:0.5166623027881698
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 4
+Previous coverage:0.5995030386520506
+Present coverage:0.6462404221642675
+Present branch_coverage:0.5
+Reward:0.014458091657178679
+Present mutation rate:0.5241322537176901
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 5
+Previous coverage:0.6462404221642675
+Present coverage:0.529652020036443
+Present branch_coverage:0.4509803921568627
+Reward:-0.032257949536203485
+Present mutation rate:0.5072248219269683
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 6
+Previous coverage:0.529652020036443
+Present coverage:0.5900907788974689
+Present branch_coverage:0.4901960784313725
+Reward:0.018862196372840017
+Present mutation rate:0.5167921961233335
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 7
+Previous coverage:0.5900907788974689
+Present coverage:0.6694732546549268
+Present branch_coverage:0.5620915032679739
+Reward:0.02507505821871406
+Present mutation rate:0.5297507905281031
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 8
+Previous coverage:0.6694732546549268
+Present coverage:0.6896844862369604
+Present branch_coverage:0.6013071895424836
+Reward:0.006145068251022611
+Present mutation rate:0.5330061452919316
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 9
+Previous coverage:0.6896844862369604
+Present coverage:0.6014300594642789
+Present branch_coverage:0.5326797385620915
+Reward:-0.02491855926280955
+Present mutation rate:0.5197244000730329
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 10
+Previous coverage:0.6014300594642789
+Present coverage:0.5589529011050017
+Present branch_coverage:0.4640522875816993
+Reward:-0.012382285711327315
+Present mutation rate:0.5132890240601804
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 11
+Previous coverage:0.5589529011050017
+Present coverage:0.6652116501188154
+Present branch_coverage:0.5588235294117647
+Reward:0.03413580905254024
+Present mutation rate:0.5308105601742635
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 12
+Previous coverage:0.6652116501188154
+Present coverage:0.5900614669666212
+Present branch_coverage:0.5
+Reward:-0.021415544940096606
+Present mutation rate:0.5194429627681738
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 13
+Previous coverage:0.5900614669666212
+Present coverage:0.5934595125957425
+Present branch_coverage:0.5065359477124183
+Reward:0.0010217230315558994
+Present mutation rate:0.5199736896068137
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 14
+Previous coverage:0.5934595125957425
+Present coverage:0.5704014093717839
+Present branch_coverage:0.4836601307189542
+Reward:-0.006811095742330241
+Present mutation rate:0.516432099023409
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 15
+Previous coverage:0.5704014093717839
+Present coverage:0.4011713738352991
+Present branch_coverage:0.2875816993464052
+Reward:-0.04504124967540944
+Present mutation rate:0.4931713519108999
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 16
+Previous coverage:0.4011713738352991
+Present coverage:0.5424381793573304
+Present branch_coverage:0.3856209150326797
+Reward:0.046371303725089276
+Present mutation rate:0.5160403504588731
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 17
+Previous coverage:0.5424381793573304
+Present coverage:0.5567563188976971
+Present branch_coverage:0.4738562091503268
+Reward:0.004336443686089477
+Present mutation rate:0.5182781303783879
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 18
+Previous coverage:0.5567563188976971
+Present coverage:0.6303767078791823
+Present branch_coverage:0.5228758169934641
+Reward:0.023170109029202617
+Present mutation rate:0.5425734916177741
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 19
+Previous coverage:0.6303767078791823
+Present coverage:0.5676754744488955
+Present branch_coverage:0.477124183006536
+Reward:-0.01802408109435017
+Present mutation rate:0.5327941030052107
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 20
+Previous coverage:0.5676754744488955
+Present coverage:0.6679506654638637
+Present branch_coverage:0.5522875816993464
+Reward:0.032093580091108125
+Present mutation rate:0.5498933732220785
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 21
+Previous coverage:0.6679506654638637
+Present coverage:0.5865397110222161
+Present branch_coverage:0.4673202614379085
+Reward:-0.02309773763187427
+Present mutation rate:0.5371920803618887
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 22
+Previous coverage:0.5865397110222161
+Present coverage:0.3169128659588209
+Present branch_coverage:0.2287581699346405
+Reward:-0.06634832640325053
+Present mutation rate:0.501550284872797
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 23
+Previous coverage:0.3169128659588209
+Present coverage:0.615171238833339
+Present branch_coverage:0.457516339869281
+Reward:0.10726912326030645
+Present mutation rate:0.49577911386189594
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 24
+Previous coverage:0.615171238833339
+Present coverage:0.6575195674711731
+Present branch_coverage:0.5326797385620915
+Reward:0.013063174779033833
+Present mutation rate:0.5022555630780684
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 25
+Previous coverage:0.6575195674711731
+Present coverage:0.645633780719068
+Present branch_coverage:0.5294117647058824
+Reward:-0.0035374816402882455
+Present mutation rate:0.5004788432449471
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 26
+Previous coverage:0.645633780719068
+Present coverage:0.6774710804986862
+Present branch_coverage:0.5620915032679739
+Reward:0.009753912665336928
+Present mutation rate:0.5053604701728072
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 27
+Previous coverage:0.6774710804986862
+Present coverage:0.6833093178211521
+Present branch_coverage:0.5915032679738562
+Reward:0.00175828819974646
+Present mutation rate:0.5062490395241304
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 28
+Previous coverage:0.6833093178211521
+Present coverage:0.5748318917033647
+Present branch_coverage:0.4934640522875817
+Reward:-0.030189757439908226
+Present mutation rate:0.49096550381671034
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 29
+Previous coverage:0.5748318917033647
+Present coverage:0.6133917545122394
+Present branch_coverage:0.4477124183006536
+Reward:0.011865331446630253
+Present mutation rate:0.4967909722483574
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 30
+Previous coverage:0.6133917545122394
+Present coverage:0.6791778317024604
+Present branch_coverage:0.565359477124183
+Reward:0.020601384747481844
+Present mutation rate:0.5070255542067214
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 31
+Previous coverage:0.6791778317024604
+Present coverage:0.6454313006219724
+Present branch_coverage:0.5228758169934641
+Reward:-0.009896193652153124
+Present mutation rate:0.5020079311357014
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 32
+Previous coverage:0.6454313006219724
+Present coverage:0.560212298597444
+Present branch_coverage:0.4803921568627451
+Reward:-0.024113244946147198
+Present mutation rate:0.48990289092731765
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 33
+Previous coverage:0.560212298597444
+Present coverage:0.3524805900392903
+Present branch_coverage:0.2712418300653594
+Reward:-0.05368902001934818
+Present mutation rate:0.46360048480878435
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 34
+Previous coverage:0.3524805900392903
+Present coverage:0.602550987908637
+Present branch_coverage:0.5261437908496732
+Reward:0.08752816013891071
+Present mutation rate:0.5041785822836042
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 35
+Previous coverage:0.602550987908637
+Present coverage:0.4897792641915515
+Present branch_coverage:0.3562091503267974
+Reward:-0.031288024781101126
+Present mutation rate:0.4884038303070144
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 36
+Previous coverage:0.4897792641915515
+Present coverage:0.647240292318953
+Present branch_coverage:0.5392156862745098
+Reward:0.05219710351400811
+Present mutation rate:0.5138970955941876
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 37
+Previous coverage:0.647240292318953
+Present coverage:0.5776061339192299
+Present branch_coverage:0.4901960784313725
+Reward:-0.01992046431670938
+Present mutation rate:0.5036600268389431
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 38
+Previous coverage:0.5776061339192299
+Present coverage:0.6867363273033731
+Present branch_coverage:0.565359477124183
+Reward:0.03512093783685506
+Present mutation rate:0.5213490393324623
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 39
+Previous coverage:0.6867363273033731
+Present coverage:0.6550270820532935
+Present branch_coverage:0.5424836601307189
+Reward:-0.00931167832815793
+Present mutation rate:0.5164944047815043
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 40
+Previous coverage:0.6550270820532935
+Present coverage:0.641832242611523
+Present branch_coverage:0.5261437908496732
+Reward:-0.00392363107495232
+Present mutation rate:0.5144678712848646
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 41
+Previous coverage:0.641832242611523
+Present coverage:0.5658570136824574
+Present branch_coverage:0.5
+Reward:-0.021638121596554896
+Present mutation rate:0.503335752928482
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 42
+Previous coverage:0.5658570136824574
+Present coverage:0.5912906642835951
+Present branch_coverage:0.5130718954248366
+Reward:0.007759469296921451
+Present mutation rate:0.5072413712493734
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 43
+Previous coverage:0.5912906642835951
+Present coverage:0.5180457269441211
+Present branch_coverage:0.3627450980392157
+Reward:-0.020900517032669506
+Present mutation rate:0.49663976432990126
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 44
+Previous coverage:0.5180457269441211
+Present coverage:0.5690184178818107
+Present branch_coverage:0.4640522875816993
+Reward:0.015811450325592735
+Present mutation rate:0.5044923592933176
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 45
+Previous coverage:0.5690184178818107
+Present coverage:0.556834789605182
+Present branch_coverage:0.4738562091503268
+Reward:-0.0036254003233920193
+Present mutation rate:0.5026633725307869
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 46
+Previous coverage:0.556834789605182
+Present coverage:0.6502343835093513
+Present branch_coverage:0.5163398692810458
+Reward:0.029764574999543537
+Present mutation rate:0.517624934182003
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 47
+Previous coverage:0.6502343835093513
+Present coverage:0.5971245888131562
+Present branch_coverage:0.5130718954248366
+Reward:-0.015368808350324113
+Present mutation rate:0.5096696557712106
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 48
+Previous coverage:0.5971245888131562
+Present coverage:0.6632556966142533
+Present branch_coverage:0.5392156862745098
+Reward:0.020713997024129197
+Present mutation rate:0.5202269515041444
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 49
+Previous coverage:0.6632556966142533
+Present coverage:0.6304379689513832
+Present branch_coverage:0.4901960784313725
+Reward:-0.009629917649070186
+Present mutation rate:0.5152172088023327
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 50
+Previous coverage:0.6304379689513832
+Present coverage:0.6840504771331344
+Present branch_coverage:0.565359477124183
+Reward:0.016658612661233037
+Present mutation rate:0.5238000127201724
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 51
+Previous coverage:0.6840504771331344
+Present coverage:0.5821501431818293
+Present branch_coverage:0.4934640522875817
+Reward:-0.02849336457351401
+Present mutation rate:0.4943756217401931
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 52
+Previous coverage:0.5821501431818293
+Present coverage:0.5790664740168049
+Present branch_coverage:0.4967320261437908
+Reward:-0.0009231989464034703
+Present mutation rate:0.493919214687075
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 53
+Previous coverage:0.5790664740168049
+Present coverage:0.6317723937751718
+Present branch_coverage:0.5065359477124183
+Reward:0.016367358723025156
+Present mutation rate:0.5020033676540532
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 54
+Previous coverage:0.6317723937751718
+Present coverage:0.485621942199754
+Present branch_coverage:0.2875816993464052
+Reward:-0.039573144573485625
+Present mutation rate:0.4821375158095027
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 55
+Previous coverage:0.485621942199754
+Present coverage:0.5341490223622656
+Present branch_coverage:0.3954248366013072
+Reward:0.015029099550573232
+Present mutation rate:0.48938360853166984
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 56
+Previous coverage:0.5341490223622656
+Present coverage:0.5591538313426536
+Present branch_coverage:0.4934640522875817
+Reward:0.00762649078854555
+Present mutation rate:0.49311588811420176
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 57
+Previous coverage:0.5591538313426536
+Present coverage:0.642167836914169
+Present branch_coverage:0.5326797385620915
+Reward:0.026282466695660138
+Present mutation rate:0.5060761900206641
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 58
+Previous coverage:0.642167836914169
+Present coverage:0.5900027006813665
+Present branch_coverage:0.5065359477124183
+Reward:-0.01510530058220338
+Present mutation rate:0.49843175705290566
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 59
+Previous coverage:0.5900027006813665
+Present coverage:0.5326841339323974
+Present branch_coverage:0.326797385620915
+Reward:-0.016538486405859514
+Present mutation rate:0.4901884502146375
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 60
+Previous coverage:0.5326841339323974
+Present coverage:0.6673446651828201
+Present branch_coverage:0.5522875816993464
+Reward:0.044024851110456
+Present mutation rate:0.511768923751402
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 61
+Previous coverage:0.6673446651828201
+Present coverage:0.6378499759306716
+Present branch_coverage:0.5196078431372549
+Reward:-0.008674419436828385
+Present mutation rate:0.5073296254520482
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 62
+Previous coverage:0.6378499759306716
+Present coverage:0.6706504059479413
+Present branch_coverage:0.5130718954248366
+Reward:0.01005530264704448
+Present mutation rate:0.5124309783777803
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 63
+Previous coverage:0.6706504059479413
+Present coverage:0.6839294287629806
+Present branch_coverage:0.5751633986928104
+Reward:0.004018973333896236
+Present mutation rate:0.5144904248153429
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 64
+Previous coverage:0.6839294287629806
+Present coverage:0.6562437376599233
+Present branch_coverage:0.5196078431372549
+Reward:-0.008152407832546407
+Present mutation rate:0.5102960890463082
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 65
+Previous coverage:0.6562437376599233
+Present coverage:0.6012573879537312
+Present branch_coverage:0.4607843137254901
+Reward:-0.015891205181055294
+Present mutation rate:0.5021868691921832
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 66
+Previous coverage:0.6012573879537312
+Present coverage:0.6667971547767697
+Present branch_coverage:0.545751633986928
+Reward:0.020521022253955207
+Present mutation rate:0.5019753920973754
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 67
+Previous coverage:0.6667971547767697
+Present coverage:0.6587061868961661
+Present branch_coverage:0.5326797385620915
+Reward:-0.0024141976119320865
+Present mutation rate:0.5007635243045253
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 68
+Previous coverage:0.6587061868961661
+Present coverage:0.6232295636839831
+Present branch_coverage:0.5980392156862745
+Reward:-0.010391268804747068
+Present mutation rate:0.4955599559158645
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 69
+Previous coverage:0.6232295636839831
+Present coverage:0.4248793489518089
+Present branch_coverage:0.2810457516339869
+Reward:-0.05163650288279233
+Present mutation rate:0.46997097282361855
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 70
+Previous coverage:0.4248793489518089
+Present coverage:0.5378277684371771
+Present branch_coverage:0.4607843137254901
+Reward:0.03643599493845899
+Present mutation rate:0.48709483281064253
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 71
+Previous coverage:0.5378277684371771
+Present coverage:0.6500140190398007
+Present branch_coverage:0.5359477124183006
+Reward:0.03617302614564203
+Present mutation rate:0.5047145269333091
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 72
+Previous coverage:0.6500140190398007
+Present coverage:0.5641287392696587
+Present branch_coverage:0.4673202614379085
+Reward:-0.024290327674803498
+Present mutation rate:0.49245484569186554
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 73
+Previous coverage:0.5641287392696587
+Present coverage:0.5686795450992369
+Present branch_coverage:0.4836601307189542
+Reward:0.0013693837156131738
+Present mutation rate:0.4931292053382308
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 74
+Previous coverage:0.5686795450992369
+Present coverage:0.6635290645497801
+Present branch_coverage:0.5490196078431373
+Reward:0.030254142103162754
+Present mutation rate:0.5080484063917534
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 75
+Previous coverage:0.6635290645497801
+Present coverage:0.61985505284518
+Present branch_coverage:0.5490196078431373
+Reward:-0.012720719651705308
+Present mutation rate:0.5015856650445483
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 76
+Previous coverage:0.61985505284518
+Present coverage:0.6645053215250605
+Present branch_coverage:0.5522875816993464
+Reward:0.013793809902601229
+Present mutation rate:0.5085044423580426
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 77
+Previous coverage:0.6645053215250605
+Present coverage:0.6393475360133779
+Present branch_coverage:0.4901960784313725
+Reward:-0.007420752819134406
+Present mutation rate:0.5047309565838718
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 78
+Previous coverage:0.6393475360133779
+Present coverage:0.6615541640596292
+Present branch_coverage:0.5784313725490197
+Reward:0.006760615279712297
+Present mutation rate:0.5081432484010966
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 79
+Previous coverage:0.6615541640596292
+Present coverage:0.6457189027871015
+Present branch_coverage:0.5359477124183006
+Reward:-0.004700427281844454
+Present mutation rate:0.505754758013227
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 80
+Previous coverage:0.6457189027871015
+Present coverage:0.606878759737959
+Present branch_coverage:0.4640522875816993
+Reward:-0.011350331572327184
+Present mutation rate:0.5000142738154948
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 81
+Previous coverage:0.606878759737959
+Present coverage:0.6549827311064395
+Present branch_coverage:0.5392156862745098
+Reward:0.014893989822828047
+Present mutation rate:0.5074614813209715
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 82
+Previous coverage:0.6549827311064395
+Present coverage:0.4463958819346648
+Present branch_coverage:0.4281045751633986
+Reward:-0.05387436002205066
+Present mutation rate:0.4801223187789623
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 83
+Previous coverage:0.4463958819346648
+Present coverage:0.7090351614342071
+Present branch_coverage:0.5882352941176471
+Reward:0.09258766207707042
+Present mutation rate:0.5245757217857283
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 84
+Previous coverage:0.7090351614342071
+Present coverage:0.4619342833948471
+Present branch_coverage:0.3137254901960784
+Reward:-0.061918494626243464
+Present mutation rate:0.4920947827752809
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 85
+Previous coverage:0.4619342833948471
+Present coverage:0.6165400969267129
+Present branch_coverage:0.5424836601307189
+Reward:0.05116233557512974
+Present mutation rate:0.5172715011864004
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 86
+Previous coverage:0.6165400969267129
+Present coverage:0.6306887198960611
+Present branch_coverage:0.5490196078431373
+Reward:0.004284623597190234
+Present mutation rate:0.5194878148665377
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 87
+Previous coverage:0.6306887198960611
+Present coverage:0.6446441672971538
+Present branch_coverage:0.5130718954248366
+Reward:0.004225585122760733
+Present mutation rate:0.523887370581299
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 88
+Previous coverage:0.6446441672971538
+Present coverage:0.6581985877471423
+Present branch_coverage:0.5620915032679739
+Reward:0.004103070597743581
+Present mutation rate:0.5260369174480604
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 89
+Previous coverage:0.6581985877471423
+Present coverage:0.6222992679829659
+Present branch_coverage:0.5098039215686274
+Reward:-0.010512043697346827
+Present mutation rate:0.5205071943854287
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 90
+Previous coverage:0.6222992679829659
+Present coverage:0.6032699999465376
+Present branch_coverage:0.5326797385620915
+Reward:-0.005636357802528025
+Present mutation rate:0.5175734295990824
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 91
+Previous coverage:0.6032699999465376
+Present coverage:0.536229202501555
+Present branch_coverage:0.4542483660130719
+Reward:-0.01921334552908294
+Present mutation rate:0.5076291124595227
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 92
+Previous coverage:0.536229202501555
+Present coverage:0.5260567059092978
+Present branch_coverage:0.4509803921568627
+Reward:-0.003031053040293285
+Present mutation rate:0.5060904616948608
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 93
+Previous coverage:0.5260567059092978
+Present coverage:0.7190348147491936
+Present branch_coverage:0.6830065359477124
+Reward:0.06534154275025329
+Present mutation rate:0.539159193233191
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 94
+Previous coverage:0.7190348147491936
+Present coverage:0.6364485490427954
+Present branch_coverage:0.5196078431372549
+Reward:-0.023411781455253917
+Present mutation rate:0.5265365160316244
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 95
+Previous coverage:0.6364485490427954
+Present coverage:0.6526032325156111
+Present branch_coverage:0.5392156862745098
+Reward:0.0048985998014661105
+Present mutation rate:0.5291158077045216
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 96
+Previous coverage:0.6526032325156111
+Present coverage:0.4805310614068125
+Present branch_coverage:0.3202614379084967
+Reward:-0.045699884918620454
+Present mutation rate:0.5049352761838021
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 97
+Previous coverage:0.4805310614068125
+Present coverage:0.6578779696280226
+Present branch_coverage:0.545751633986928
+Reward:0.05949445763748749
+Present mutation rate:0.5349761265823922
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 98
+Previous coverage:0.6578779696280226
+Present coverage:0.6346435339815084
+Present branch_coverage:0.5
+Reward:-0.0068623628939918505
+Present mutation rate:0.5313049262621617
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 99
+Previous coverage:0.6346435339815084
+Present coverage:0.624077837248381
+Present branch_coverage:0.4803921568627451
+Reward:-0.0031473822304469543
+Present mutation rate:0.5296327065782953
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 100
+Previous coverage:0.624077837248381
+Present coverage:0.6432613653528014
+Present branch_coverage:0.5261437908496732
+Reward:0.0058286599814327605
+Present mutation rate:0.5327197555399862
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 101
+Previous coverage:0.6432613653528014
+Present coverage:0.669970584897074
+Present branch_coverage:0.565359477124183
+Reward:0.008155442345014587
+Present mutation rate:0.5370643207923428
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 102
+Previous coverage:0.669970584897074
+Present coverage:0.6599962942108887
+Present branch_coverage:0.5490196078431373
+Reward:-0.0029723899109170768
+Present mutation rate:0.5354679562237061
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 103
+Previous coverage:0.6599962942108887
+Present coverage:0.6884725135277429
+Present branch_coverage:0.5882352941176471
+Reward:0.008705044808372569
+Present mutation rate:0.5401292287760812
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 104
+Previous coverage:0.6884725135277429
+Present coverage:0.5700261940475171
+Present branch_coverage:0.4869281045751634
+Reward:-0.032727989724385384
+Present mutation rate:0.5224518849268573
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 105
+Previous coverage:0.5700261940475171
+Present coverage:0.6665580100577014
+Present branch_coverage:0.5588235294117647
+Reward:0.03082322310350012
+Present mutation rate:0.538555535936802
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 106
+Previous coverage:0.6665580100577014
+Present coverage:0.6753126894185001
+Present branch_coverage:0.545751633986928
+Reward:0.0026417326903816754
+Present mutation rate:0.5399782557016722
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 107
+Previous coverage:0.6753126894185001
+Present coverage:0.673227523025532
+Present branch_coverage:0.565359477124183
+Reward:-0.0006246803341131494
+Present mutation rate:0.5396409419044867
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 108
+Previous coverage:0.673227523025532
+Present coverage:0.6652620103778983
+Present branch_coverage:0.5326797385620915
+Reward:-0.0023769639159421808
+Present mutation rate:0.5383582348580147
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 109
+Previous coverage:0.6652620103778983
+Present coverage:0.635665662426917
+Present branch_coverage:0.5098039215686274
+Reward:-0.008703715622887284
+Present mutation rate:0.533672517878571
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 110
+Previous coverage:0.635665662426917
+Present coverage:0.6526437945090936
+Present branch_coverage:0.5392156862745098
+Reward:0.00515109101845294
+Present mutation rate:0.5364215135922104
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 111
+Previous coverage:0.6526437945090936
+Present coverage:0.6677421254542325
+Present branch_coverage:0.5490196078431373
+Reward:0.004575091203007459
+Present mutation rate:0.53887569094015
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 112
+Previous coverage:0.6677421254542325
+Present coverage:0.6052344982044328
+Present branch_coverage:0.457516339869281
+Reward:-0.017970847482059942
+Present mutation rate:0.5291916380864748
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 113
+Previous coverage:0.6052344982044328
+Present coverage:0.631436599049523
+Present branch_coverage:0.5032679738562091
+Reward:0.007997940271266324
+Present mutation rate:0.533424081199944
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 114
+Previous coverage:0.631436599049523
+Present coverage:0.5396993695489749
+Present branch_coverage:0.4248366013071895
+Reward:-0.02583802499487718
+Present mutation rate:0.5196414564570304
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 115
+Previous coverage:0.5396993695489749
+Present coverage:0.6455194946811403
+Present branch_coverage:0.5359477124183006
+Reward:0.03398561731624706
+Present mutation rate:0.5373017921378364
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 116
+Previous coverage:0.6455194946811403
+Present coverage:0.3786560760290485
+Present branch_coverage:0.4248366013071895
+Reward:-0.06581580875269122
+Present mutation rate:0.5019388401440142
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 117
+Previous coverage:0.3786560760290485
+Present coverage:0.6754514613311698
+Present branch_coverage:0.5718954248366013
+Reward:0.10665611573796334
+Present mutation rate:0.5554736871717932
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 118
+Previous coverage:0.6754514613311698
+Present coverage:0.6786281077301245
+Present branch_coverage:0.5424836601307189
+Reward:0.000955012136155194
+Present mutation rate:0.5560041712843572
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 119
+Previous coverage:0.6786281077301245
+Present coverage:0.613818100421691
+Present branch_coverage:0.4869281045751634
+Reward:-0.018602934783066197
+Present mutation rate:0.5456608619468415
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 120
+Previous coverage:0.613818100421691
+Present coverage:0.663044756666121
+Present branch_coverage:0.5686274509803921
+Reward:0.015252649610330423
+Present mutation rate:0.5455339175922501
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 121
+Previous coverage:0.663044756666121
+Present coverage:0.6152460731639986
+Present branch_coverage:0.5228758169934641
+Reward:-0.013882662221729493
+Present mutation rate:0.5379604544838201
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 122
+Previous coverage:0.6152460731639986
+Present coverage:0.5580664291322311
+Present branch_coverage:0.4705882352941176
+Reward:-0.016499990871210304
+Present mutation rate:0.5290841118957649
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 123
+Previous coverage:0.5580664291322311
+Present coverage:0.6570688178543105
+Present branch_coverage:0.5490196078431373
+Reward:0.03166101121115934
+Present mutation rate:0.5458354498941429
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 124
+Previous coverage:0.6570688178543105
+Present coverage:0.5611233427271104
+Present branch_coverage:0.4673202614379085
+Reward:-0.02694253569868319
+Present mutation rate:0.5311292587997631
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 125
+Previous coverage:0.5611233427271104
+Present coverage:0.67986419062772
+Present branch_coverage:0.5588235294117647
+Reward:0.03844213216221401
+Present mutation rate:0.5515469999617624
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 126
+Previous coverage:0.67986419062772
+Present coverage:0.6532797825056098
+Present branch_coverage:0.5294117647058824
+Reward:-0.007833976285592464
+Present mutation rate:0.5472261938436722
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 127
+Previous coverage:0.6532797825056098
+Present coverage:0.5629140303936183
+Present branch_coverage:0.4705882352941176
+Reward:-0.025476531802644267
+Present mutation rate:0.5332847683129739
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 128
+Previous coverage:0.5629140303936183
+Present coverage:0.6449100806107934
+Present branch_coverage:0.5392156862745098
+Reward:0.02594348551539601
+Present mutation rate:0.5471200339752829
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 129
+Previous coverage:0.6449100806107934
+Present coverage:0.5841754205649382
+Present branch_coverage:0.5032679738562091
+Reward:-0.017482658227579426
+Present mutation rate:0.5375549214118314
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 130
+Previous coverage:0.5841754205649382
+Present coverage:0.4440426631533497
+Present branch_coverage:0.4281045751633986
+Reward:-0.03811238928352152
+Present mutation rate:0.5170674189857108
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 131
+Previous coverage:0.4440426631533497
+Present coverage:0.5668576255200981
+Present branch_coverage:0.4673202614379085
+Reward:0.03986119170625368
+Present mutation rate:0.5376783424989581
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 132
+Previous coverage:0.5668576255200981
+Present coverage:0.5517607365069042
+Present branch_coverage:0.4836601307189542
+Reward:-0.004483483492382845
+Present mutation rate:0.5352676705261522
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 133
+Previous coverage:0.5517607365069042
+Present coverage:0.7262151100997917
+Present branch_coverage:0.6405228758169934
+Reward:0.0584231777710036
+Present mutation rate:0.5665397087963726
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 134
+Previous coverage:0.7262151100997917
+Present coverage:0.5929491010990416
+Present branch_coverage:0.4640522875816993
+Reward:-0.036427836869227403
+Present mutation rate:0.5459018927043987
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 135
+Previous coverage:0.5929491010990416
+Present coverage:0.6690100727007223
+Present branch_coverage:0.5588235294117647
+Reward:0.023975345760702538
+Present mutation rate:0.5589900793334086
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 136
+Previous coverage:0.6690100727007223
+Present coverage:0.6761182212488528
+Present branch_coverage:0.5588235294117647
+Reward:0.0021425497195955976
+Present mutation rate:0.5601877433711411
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 137
+Previous coverage:0.6761182212488528
+Present coverage:0.5757555228698851
+Present branch_coverage:0.4869281045751634
+Reward:-0.028094275268508783
+Present mutation rate:0.5444496747068275
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 138
+Previous coverage:0.5757555228698851
+Present coverage:0.605987179111383
+Present branch_coverage:0.4869281045751634
+Reward:0.009252287480270198
+Present mutation rate:0.5494870796157547
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 139
+Previous coverage:0.605987179111383
+Present coverage:0.6796718845930756
+Present branch_coverage:0.565359477124183
+Reward:0.023191298808892532
+Present mutation rate:0.5622303986707494
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 140
+Previous coverage:0.6796718845930756
+Present coverage:0.5765452597905099
+Present branch_coverage:0.5163398692810458
+Reward:-0.028810967292135885
+Present mutation rate:0.5303002870367076
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 141
+Previous coverage:0.5765452597905099
+Present coverage:0.6763561942642186
+Present branch_coverage:0.5980392156862745
+Reward:0.0319357248702156
+Present mutation rate:0.5472358111021083
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 142
+Previous coverage:0.6763561942642186
+Present coverage:0.4948916272996439
+Present branch_coverage:0.2941176470588235
+Reward:-0.047853492276644274
+Present mutation rate:0.5210486664420304
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 143
+Previous coverage:0.4948916272996439
+Present coverage:0.6141180034272918
+Present branch_coverage:0.5196078431372549
+Reward:0.03861089859120065
+Present mutation rate:0.541166823663104
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 144
+Previous coverage:0.6141180034272918
+Present coverage:0.6791262283310241
+Present branch_coverage:0.5555555555555556
+Reward:0.020347681332146525
+Present mutation rate:0.5521783137385308
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 145
+Previous coverage:0.6791262283310241
+Present coverage:0.6740521977992434
+Present branch_coverage:0.5686274509803921
+Reward:-0.0015170600023667162
+Present mutation rate:0.5513406261045838
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 146
+Previous coverage:0.6740521977992434
+Present coverage:0.6642917719828796
+Present branch_coverage:0.545751633986928
+Reward:-0.0029090745624857995
+Present mutation rate:0.549736735113918
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 147
+Previous coverage:0.6642917719828796
+Present coverage:0.6597961616899704
+Present branch_coverage:0.545751633986928
+Reward:-0.0013446409854916284
+Present mutation rate:0.5482593319800494
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 148
+Previous coverage:0.6597961616899704
+Present coverage:0.4020801656628545
+Present branch_coverage:0.2581699346405229
+Reward:-0.06403129188648507
+Present mutation rate:0.4802956920864817
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 149
+Previous coverage:0.4020801656628545
+Present coverage:0.6393885683912539
+Present branch_coverage:0.5163398692810458
+Reward:0.08245557641962067
+Present mutation rate:0.47703019909933314
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 150
+Previous coverage:0.6393885683912539
+Present coverage:0.5434505182832773
+Present branch_coverage:0.457516339869281
+Reward:-0.02694059314068886
+Present mutation rate:0.4641787225895762
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 151
+Previous coverage:0.5434505182832773
+Present coverage:0.6041144801598217
+Present branch_coverage:0.5065359477124183
+Reward:0.0189352118170751
+Present mutation rate:0.4729680450227892
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 152
+Previous coverage:0.6041144801598217
+Present coverage:0.467850282657233
+Present branch_coverage:0.2647058823529412
+Reward:-0.037165672946571714
+Present mutation rate:0.45538986934729286
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 153
+Previous coverage:0.467850282657233
+Present coverage:0.4830046649229227
+Present branch_coverage:0.4248366013071895
+Reward:0.0045922457400778445
+Present mutation rate:0.4574811315348775
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 154
+Previous coverage:0.4830046649229227
+Present coverage:0.5975880420102724
+Present branch_coverage:0.4967320261437908
+Reward:0.03700088318715325
+Present mutation rate:0.47440833744312627
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 155
+Previous coverage:0.5975880420102724
+Present coverage:0.6601725658924782
+Present branch_coverage:0.5522875816993464
+Reward:0.01955872169057422
+Present mutation rate:0.4836871580828644
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 156
+Previous coverage:0.6601725658924782
+Present coverage:0.5877769049688921
+Present branch_coverage:0.5098039215686274
+Reward:-0.02067047193296325
+Present mutation rate:0.4736891162573778
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 157
+Previous coverage:0.5877769049688921
+Present coverage:0.6424209173951804
+Present branch_coverage:0.5130718954248366
+Reward:0.01699039734669534
+Present mutation rate:0.48173728256139564
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 158
+Previous coverage:0.6424209173951804
+Present coverage:0.6654374271920996
+Present branch_coverage:0.5490196078431373
+Reward:0.007010904883722117
+Present mutation rate:0.4817136038312169
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 159
+Previous coverage:0.6654374271920996
+Present coverage:0.5618058137666013
+Present branch_coverage:0.4150326797385621
+Reward:-0.02894158176741511
+Present mutation rate:0.46777205017745954
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 160
+Previous coverage:0.5618058137666013
+Present coverage:0.6455985748238455
+Present branch_coverage:0.5196078431372549
+Reward:0.026542073678292546
+Present mutation rate:0.4801876903979157
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 161
+Previous coverage:0.6455985748238455
+Present coverage:0.5134055575842762
+Present branch_coverage:0.349673202614379
+Reward:-0.03616290641049058
+Present mutation rate:0.46282270789058627
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 162
+Previous coverage:0.5134055575842762
+Present coverage:0.6045739978990217
+Present branch_coverage:0.5261437908496732
+Reward:0.0290128689963083
+Present mutation rate:0.4762505224831325
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 163
+Previous coverage:0.6045739978990217
+Present coverage:0.6415151477265076
+Present branch_coverage:0.5294117647058824
+Reward:0.011355274658361145
+Present mutation rate:0.48165847797211647
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 164
+Previous coverage:0.6415151477265076
+Present coverage:0.6379233381701407
+Present branch_coverage:0.5065359477124183
+Reward:-0.0010749626477322444
+Present mutation rate:0.4811407130993329
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 165
+Previous coverage:0.6379233381701407
+Present coverage:0.5719017665564389
+Present branch_coverage:0.4477124183006536
+Reward:-0.01893470190044191
+Present mutation rate:0.472030457124631
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 166
+Previous coverage:0.5719017665564389
+Present coverage:0.6767971425054383
+Present branch_coverage:0.5555555555555556
+Reward:0.03366922076379622
+Present mutation rate:0.48792335479279586
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 167
+Previous coverage:0.6767971425054383
+Present coverage:0.5810685641703509
+Present branch_coverage:0.5065359477124183
+Reward:-0.02688578135851483
+Present mutation rate:0.4748051541561237
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 168
+Previous coverage:0.5810685641703509
+Present coverage:0.6096452392392507
+Present branch_coverage:0.5163398692810458
+Reward:0.008736327792268643
+Present mutation rate:0.47895320762029026
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 169
+Previous coverage:0.6096452392392507
+Present coverage:0.671897073415245
+Present branch_coverage:0.5522875816993464
+Reward:0.019450608424453363
+Present mutation rate:0.48826913891534846
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 170
+Previous coverage:0.671897073415245
+Present coverage:0.6498454690050119
+Present branch_coverage:0.5326797385620915
+Reward:-0.006518226671656822
+Present mutation rate:0.48192458629400303
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 171
+Previous coverage:0.6498454690050119
+Present coverage:0.5936543804042176
+Present branch_coverage:0.4803921568627451
+Reward:-0.016225838892609843
+Present mutation rate:0.4741049555984089
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 172
+Previous coverage:0.5936543804042176
+Present coverage:0.64822070273385
+Present branch_coverage:0.5228758169934641
+Reward:0.016965393405406
+Present mutation rate:0.4821483326855884
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 173
+Previous coverage:0.64822070273385
+Present coverage:0.673043564271938
+Present branch_coverage:0.565359477124183
+Reward:0.007570093352414215
+Present mutation rate:0.4857982405737292
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 174
+Previous coverage:0.673043564271938
+Present coverage:0.6569064182767885
+Present branch_coverage:0.5392156862745098
+Reward:-0.004789062302371091
+Present mutation rate:0.4834717225332394
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 175
+Previous coverage:0.6569064182767885
+Present coverage:0.6627821074096517
+Present branch_coverage:0.545751633986928
+Reward:0.001769611484416164
+Present mutation rate:0.48432727964582467
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 176
+Previous coverage:0.6627821074096517
+Present coverage:0.6492921516865234
+Present branch_coverage:0.5424836601307189
+Reward:-0.004010590935856091
+Present mutation rate:0.48238484104808926
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 177
+Previous coverage:0.6492921516865234
+Present coverage:0.6492722416198738
+Present branch_coverage:0.5130718954248366
+Reward:-5.972940712725185e-06
+Present mutation rate:0.48238195979203297
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 178
+Previous coverage:0.6492722416198738
+Present coverage:0.6576729914995051
+Present branch_coverage:0.5424836601307189
+Reward:0.0025343394835973974
+Present mutation rate:0.48360447943890905
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 179
+Previous coverage:0.6576729914995051
+Present coverage:0.6692140588612325
+Present branch_coverage:0.5490196078431373
+Reward:0.0034889594556878185
+Present mutation rate:0.48529175586026035
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 180
+Previous coverage:0.6692140588612325
+Present coverage:0.5636507606720961
+Present branch_coverage:0.4084967320261438
+Reward:-0.02944026747182723
+Present mutation rate:0.4710046367658616
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 181
+Previous coverage:0.5636507606720961
+Present coverage:0.3083785205613572
+Present branch_coverage:0.2679738562091503
+Reward:-0.06354888871899071
+Present mutation rate:0.44107281551789923
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 182
+Previous coverage:0.3083785205613572
+Present coverage:0.5937314022017094
+Present branch_coverage:0.4967320261437908
+Reward:0.10189111790419624
+Present mutation rate:0.4860142177681693
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 183
+Previous coverage:0.5937314022017094
+Present coverage:0.5140308093807234
+Present branch_coverage:0.4411764705882353
+Reward:-0.02263974094709247
+Present mutation rate:0.47501098178129414
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 184
+Previous coverage:0.5140308093807234
+Present coverage:0.6687678090580489
+Present branch_coverage:0.5555555555555556
+Reward:0.05120980771702576
+Present mutation rate:0.49933620282178987
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 185
+Previous coverage:0.6687678090580489
+Present coverage:0.6474196371692826
+Present branch_coverage:0.5555555555555556
+Reward:-0.006313302678031414
+Present mutation rate:0.496183742235277
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 186
+Previous coverage:0.6474196371692826
+Present coverage:0.5865819171491952
+Present branch_coverage:0.4934640522875817
+Reward:-0.017511070370577732
+Present mutation rate:0.4874950338082585
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 187
+Previous coverage:0.5865819171491952
+Present coverage:0.69128796372525
+Present branch_coverage:0.5915032679738562
+Reward:0.03360448521073385
+Present mutation rate:0.5038770534621743
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 188
+Previous coverage:0.69128796372525
+Present coverage:0.6331397816419603
+Present branch_coverage:0.5065359477124183
+Reward:-0.01676821240906864
+Present mutation rate:0.49542793600166485
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 189
+Previous coverage:0.6331397816419603
+Present coverage:0.6413856533406714
+Present branch_coverage:0.4836601307189542
+Reward:0.002487360389627669
+Present mutation rate:0.4966602438255904
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 190
+Previous coverage:0.6413856533406714
+Present coverage:0.5180256892392172
+Present branch_coverage:0.4607843137254901
+Reward:-0.03396445308181385
+Present mutation rate:0.4634955960745998
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 191
+Previous coverage:0.5180256892392172
+Present coverage:0.6526465500093375
+Present branch_coverage:0.5326797385620915
+Reward:0.044010813461933695
+Present mutation rate:0.48389441429386676
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 192
+Previous coverage:0.6526465500093375
+Present coverage:0.6139028655634917
+Present branch_coverage:0.4803921568627451
+Reward:-0.011322890716865871
+Present mutation rate:0.4784153307223155
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 193
+Previous coverage:0.6139028655634917
+Present coverage:0.4384380321202767
+Present branch_coverage:0.4379084967320261
+Reward:-0.04648186847791347
+Present mutation rate:0.4561776922418634
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 194
+Previous coverage:0.4384380321202767
+Present coverage:0.5855675536483066
+Present branch_coverage:0.5032679738562091
+Reward:0.048468275679422364
+Present mutation rate:0.47828783838824473
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 195
+Previous coverage:0.5855675536483066
+Present coverage:0.6545032380881917
+Present branch_coverage:0.6013071895424836
+Reward:0.021631131049804603
+Present mutation rate:0.4886337452999486
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 196
+Previous coverage:0.6545032380881917
+Present coverage:0.6216133791339847
+Present branch_coverage:0.4705882352941176
+Reward:-0.009650609121856554
+Present mutation rate:0.48391813202031
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 197
+Previous coverage:0.6216133791339847
+Present coverage:0.6923092321119191
+Present branch_coverage:0.5588235294117647
+Reward:0.022208336619035846
+Present mutation rate:0.494665148792272
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 198
+Previous coverage:0.6923092321119191
+Present coverage:0.6139483118842797
+Present branch_coverage:0.5
+Reward:-0.022280189304507328
+Present mutation rate:0.4836439156348379
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 199
+Previous coverage:0.6139483118842797
+Present coverage:0.4034930946908742
+Present branch_coverage:0.284313725490196
+Reward:-0.05427828546923695
+Present mutation rate:0.4573925531165506
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 200
+Previous coverage:0.4034930946908742
+Present coverage:0.6516306105785046
+Present branch_coverage:0.5326797385620915
+Reward:0.08675570012446591
+Present mutation rate:0.4970739642938939
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 201
+Previous coverage:0.6516306105785046
+Present coverage:0.6630175541488583
+Present branch_coverage:0.5522875816993464
+Reward:0.003442015567881008
+Present mutation rate:0.4987849006173818
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 202
+Previous coverage:0.6630175541488583
+Present coverage:0.6553107992734568
+Present branch_coverage:0.5294117647058824
+Reward:-0.0023001476484785484
+Present mutation rate:0.49763762170113013
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 203
+Previous coverage:0.6553107992734568
+Present coverage:0.5556661955945551
+Present branch_coverage:0.4379084967320261
+Reward:-0.027907571695205434
+Present mutation rate:0.4837497640952743
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 204
+Previous coverage:0.5556661955945551
+Present coverage:0.578433750220789
+Present branch_coverage:0.4607843137254901
+Reward:0.006933938696601885
+Present mutation rate:0.4871040553040066
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 205
+Previous coverage:0.578433750220789
+Present coverage:0.6518307754000546
+Present branch_coverage:0.5359477124183006
+Reward:0.02309653221481283
+Present mutation rate:0.4983544698093016
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 206
+Previous coverage:0.6518307754000546
+Present coverage:0.6768893492797012
+Present branch_coverage:0.5718954248366013
+Reward:0.007643158588870323
+Present mutation rate:0.5021634720555265
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 207
+Previous coverage:0.6768893492797012
+Present coverage:0.2769224325547632
+Present branch_coverage:0.2549019607843137
+Reward:-0.0879953681225907
+Present mutation rate:0.45797541247428214
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 208
+Previous coverage:0.2769224325547632
+Present coverage:0.6523378899251258
+Present branch_coverage:0.5163398692810458
+Reward:0.14081199033762848
+Present mutation rate:0.4488946683828881
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 209
+Previous coverage:0.6523378899251258
+Present coverage:0.5272123765121187
+Present branch_coverage:0.4640522875816993
+Reward:-0.03440637520252839
+Present mutation rate:0.4334498299960919
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 210
+Previous coverage:0.5272123765121187
+Present coverage:0.6362382749719973
+Present branch_coverage:0.5228758169934641
+Reward:0.03508509884496031
+Present mutation rate:0.44865746012583596
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 211
+Previous coverage:0.6362382749719973
+Present coverage:0.6898058141110085
+Present branch_coverage:0.5784313725490197
+Reward:0.016644157991585272
+Present mutation rate:0.45612498577627375
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 212
+Previous coverage:0.6898058141110085
+Present coverage:0.6093367420173499
+Present branch_coverage:0.5098039215686274
+Reward:-0.022845667315374695
+Present mutation rate:0.44570450609699896
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 213
+Previous coverage:0.6093367420173499
+Present coverage:0.5820658892733253
+Present branch_coverage:0.5065359477124183
+Reward:-0.008032515941330134
+Present mutation rate:0.4421243775466521
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 214
+Previous coverage:0.5820658892733253
+Present coverage:0.6383142741608907
+Present branch_coverage:0.5326797385620915
+Reward:0.017507291626761574
+Present mutation rate:0.4498647779596618
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 215
+Previous coverage:0.6383142741608907
+Present coverage:0.6571403222895459
+Present branch_coverage:0.5261437908496732
+Reward:0.0057186984562250425
+Present mutation rate:0.4550247721402969
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 216
+Previous coverage:0.6571403222895459
+Present coverage:0.5916159591258409
+Present branch_coverage:0.4836601307189542
+Reward:-0.018798620515509686
+Present mutation rate:0.44647093412367517
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 217
+Previous coverage:0.5916159591258409
+Present coverage:0.6429505133467145
+Present branch_coverage:0.5163398692810458
+Reward:0.01592741355767325
+Present mutation rate:0.45358206133294365
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 218
+Previous coverage:0.6429505133467145
+Present coverage:0.582328634915608
+Present branch_coverage:0.4934640522875817
+Reward:-0.017451561100428763
+Present mutation rate:0.44566634627553336
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 219
+Previous coverage:0.582328634915608
+Present coverage:0.6170856914153271
+Present branch_coverage:0.4705882352941176
+Reward:0.010668727545220648
+Present mutation rate:0.45042103910002096
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 220
+Previous coverage:0.6170856914153271
+Present coverage:0.6476820050836248
+Present branch_coverage:0.5359477124183006
+Reward:0.009366120982507092
+Present mutation rate:0.4588979478259198
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 221
+Previous coverage:0.6476820050836248
+Present coverage:0.5794139648561382
+Present branch_coverage:0.4934640522875817
+Reward:-0.019548307004945652
+Present mutation rate:0.4499272698578792
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 222
+Previous coverage:0.5794139648561382
+Present coverage:0.4306833195644943
+Present branch_coverage:0.261437908496732
+Reward:-0.0401950326177194
+Present mutation rate:0.4318424285703403
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 223
+Previous coverage:0.4306833195644943
+Present coverage:0.630640608629097
+Present branch_coverage:0.5065359477124183
+Reward:0.06798377020939382
+Present mutation rate:0.4612007050009328
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 224
+Previous coverage:0.630640608629097
+Present coverage:0.6389945236356943
+Present branch_coverage:0.5163398692810458
+Reward:0.002520132081166687
+Present mutation rate:0.46236299169346234
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 225
+Previous coverage:0.6389945236356943
+Present coverage:0.5660767801844648
+Present branch_coverage:0.434640522875817
+Reward:-0.020811923573364977
+Present mutation rate:0.4433179313329626
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 226
+Previous coverage:0.5660767801844648
+Present coverage:0.6404068196044048
+Present branch_coverage:0.5
+Reward:0.02340400277801596
+Present mutation rate:0.4536933454294236
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 227
+Previous coverage:0.6404068196044048
+Present coverage:0.6373205408763711
+Present branch_coverage:0.4934640522875817
+Reward:-0.0009239785951326834
+Present mutation rate:0.45285532688410524
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 228
+Previous coverage:0.6373205408763711
+Present coverage:0.5382498237332883
+Present branch_coverage:0.3856209150326797
+Reward:-0.027758213743875895
+Present mutation rate:0.44028487192540344
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 229
+Previous coverage:0.5382498237332883
+Present coverage:0.5521264341291072
+Present branch_coverage:0.4607843137254901
+Reward:0.004201495181961136
+Present mutation rate:0.4421347266934884
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 230
+Previous coverage:0.5521264341291072
+Present coverage:0.6504755362293934
+Present branch_coverage:0.5326797385620915
+Reward:0.03143923980687234
+Present mutation rate:0.4416977093227104
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 231
+Previous coverage:0.6504755362293934
+Present coverage:0.6508251016148439
+Present branch_coverage:0.5326797385620915
+Reward:0.00010489405482689132
+Present mutation rate:0.441744040786449
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 232
+Previous coverage:0.6508251016148439
+Present coverage:0.5650611933186396
+Present branch_coverage:0.4673202614379085
+Reward:-0.024258082895613334
+Present mutation rate:0.4310281772264081
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 233
+Previous coverage:0.5650611933186396
+Present coverage:0.572622199478699
+Present branch_coverage:0.4738562091503268
+Reward:0.0022797356108483087
+Present mutation rate:0.4320108075113102
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 234
+Previous coverage:0.572622199478699
+Present coverage:0.524341376810604
+Present branch_coverage:0.369281045751634
+Reward:-0.014018039232926884
+Present mutation rate:0.42595486306256825
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 235
+Previous coverage:0.524341376810604
+Present coverage:0.5225623032042899
+Present branch_coverage:0.4836601307189542
+Reward:-0.0005330890613149022
+Present mutation rate:0.4257277911844557
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 236
+Previous coverage:0.5225623032042899
+Present coverage:0.560096704711435
+Present branch_coverage:0.477124183006536
+Reward:0.011542086711443461
+Present mutation rate:0.430641578265778
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 237
+Previous coverage:0.560096704711435
+Present coverage:0.6527860166562385
+Present branch_coverage:0.5326797385620915
+Reward:0.029525055293201253
+Present mutation rate:0.4433562946756265
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 238
+Previous coverage:0.6527860166562385
+Present coverage:0.6576518584301443
+Present branch_coverage:0.5588235294117647
+Reward:0.0014644878154054803
+Present mutation rate:0.4440055845670623
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 239
+Previous coverage:0.6576518584301443
+Present coverage:0.6814675020365093
+Present branch_coverage:0.5816993464052288
+Reward:0.007258130057986582
+Present mutation rate:0.4472282348463224
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 240
+Previous coverage:0.6814675020365093
+Present coverage:0.5831083849455072
+Present branch_coverage:0.4673202614379085
+Reward:-0.027572831944316332
+Present mutation rate:0.4229055471385061
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 241
+Previous coverage:0.5831083849455072
+Present coverage:0.6673214434396033
+Present branch_coverage:0.5555555555555556
+Reward:0.02668228539241484
+Present mutation rate:0.4341896336412911
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 242
+Previous coverage:0.6673214434396033
+Present coverage:0.6610417539398739
+Present branch_coverage:0.5555555555555556
+Reward:-0.0018760199498762346
+Present mutation rate:0.4333750852265506
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 243
+Previous coverage:0.6610417539398739
+Present coverage:0.59939903851324
+Present branch_coverage:0.5098039215686274
+Reward:-0.01773284975495638
+Present mutation rate:0.42569010995268675
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 244
+Previous coverage:0.59939903851324
+Present coverage:0.5729964762266978
+Present branch_coverage:0.4738562091503268
+Reward:-0.007781349626903695
+Present mutation rate:0.4223776663744298
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 245
+Previous coverage:0.5729964762266978
+Present coverage:0.5688478097853161
+Present branch_coverage:0.477124183006536
+Reward:-0.0012411576457661336
+Present mutation rate:0.4213298424954827
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 246
+Previous coverage:0.5688478097853161
+Present coverage:0.6754998264798604
+Present branch_coverage:0.5555555555555556
+Reward:0.03427053554136595
+Present mutation rate:0.43576904183736226
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 247
+Previous coverage:0.6754998264798604
+Present coverage:0.5721971473508489
+Present branch_coverage:0.4803921568627451
+Reward:-0.028856515035657143
+Present mutation rate:0.42319426592950854
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 248
+Previous coverage:0.5721971473508489
+Present coverage:0.6555457951206508
+Present branch_coverage:0.5424836601307189
+Reward:0.026393993747951466
+Present mutation rate:0.43436405273862083
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 249
+Previous coverage:0.6555457951206508
+Present coverage:0.6525655715068389
+Present branch_coverage:0.5065359477124183
+Reward:-0.0008922907375859038
+Present mutation rate:0.4335892405297935
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 250
+Previous coverage:0.6525655715068389
+Present coverage:0.5640714366118779
+Present branch_coverage:0.457516339869281
+Reward:-0.0249819980863268
+Present mutation rate:0.41219599251949907
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 251
+Previous coverage:0.5640714366118779
+Present coverage:0.426013899966373
+Present branch_coverage:0.3137254901960784
+Reward:-0.03760528430872648
+Present mutation rate:0.3966952450298856
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 252
+Previous coverage:0.426013899966373
+Present coverage:0.636554313926726
+Present branch_coverage:0.5098039215686274
+Reward:0.07202757737022525
+Present mutation rate:0.4252682424836762
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 253
+Previous coverage:0.636554313926726
+Present coverage:0.582833498233912
+Present branch_coverage:0.4705882352941176
+Reward:-0.01553905950010396
+Present mutation rate:0.41215439171453794
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 254
+Previous coverage:0.582833498233912
+Present coverage:0.5649144293436832
+Present branch_coverage:0.4738562091503268
+Reward:-0.005311502061090076
+Present mutation rate:0.4099652328134588
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 255
+Previous coverage:0.5649144293436832
+Present coverage:0.7199244217354361
+Present branch_coverage:0.5980392156862745
+Reward:0.051308617265784146
+Present mutation rate:0.4309999820361627
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 256
+Previous coverage:0.7199244217354361
+Present coverage:0.5727853716117207
+Present branch_coverage:0.4967320261437908
+Reward:-0.039811735022852776
+Present mutation rate:0.4138411249564847
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 257
+Previous coverage:0.5727853716117207
+Present coverage:0.5866610508655853
+Present branch_coverage:0.4640522875816993
+Reward:0.004201210671110596
+Present mutation rate:0.4155797587067963
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 258
+Previous coverage:0.5866610508655853
+Present coverage:0.4147009877043415
+Present branch_coverage:0.434640522875817
+Reward:-0.045673966283889346
+Present mutation rate:0.3965985828193552
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 259
+Previous coverage:0.4147009877043415
+Present coverage:0.7062503146679985
+Present branch_coverage:0.6405228758169934
+Reward:0.10446500009968936
+Present mutation rate:0.43802925381311586
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 260
+Previous coverage:0.7062503146679985
+Present coverage:0.6556832880372401
+Present branch_coverage:0.5130718954248366
+Reward:-0.014658703152772356
+Present mutation rate:0.431608313009239
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 261
+Previous coverage:0.6556832880372401
+Present coverage:0.6479866004748783
+Present branch_coverage:0.5032679738562091
+Reward:-0.0022971584688220017
+Present mutation rate:0.4306168403177959
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 262
+Previous coverage:0.6479866004748783
+Present coverage:0.3135241433028856
+Present branch_coverage:0.238562091503268
+Reward:-0.0779657101000924
+Present mutation rate:0.39704349258136085
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 263
+Previous coverage:0.3135241433028856
+Present coverage:0.5238311026503154
+Present branch_coverage:0.4673202614379085
+Reward:0.07193789123422124
+Present mutation rate:0.4256059641659341
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 264
+Previous coverage:0.5238311026503154
+Present coverage:0.5541011811638051
+Present branch_coverage:0.4281045751633986
+Reward:0.009264279084689485
+Present mutation rate:0.42954889659807566
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 265
+Previous coverage:0.5541011811638051
+Present coverage:0.6746453633958538
+Present branch_coverage:0.545751633986928
+Reward:0.03906943464361327
+Present mutation rate:0.4463311291399504
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 266
+Previous coverage:0.6746453633958538
+Present coverage:0.6372291837566397
+Present branch_coverage:0.5130718954248366
+Reward:-0.010944859792005433
+Present mutation rate:0.4414460975107061
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 267
+Previous coverage:0.6372291837566397
+Present coverage:0.5492370753731514
+Present branch_coverage:0.4738562091503268
+Reward:-0.024849110287492197
+Present mutation rate:0.4304765547476796
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 268
+Previous coverage:0.5492370753731514
+Present coverage:0.5922604033556713
+Present branch_coverage:0.5098039215686274
+Reward:0.013277199744894283
+Present mutation rate:0.4361920779505585
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 269
+Previous coverage:0.5922604033556713
+Present coverage:0.6217069330305774
+Present branch_coverage:0.4967320261437908
+Reward:0.009007378524450863
+Present mutation rate:0.44012102510602596
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 270
+Previous coverage:0.6217069330305774
+Present coverage:0.5761692152363509
+Present branch_coverage:0.4411764705882353
+Reward:-0.013246578589886641
+Present mutation rate:0.43429092735789754
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 271
+Previous coverage:0.5761692152363509
+Present coverage:0.6659829407224108
+Present branch_coverage:0.5620915032679739
+Reward:0.028557418702955042
+Present mutation rate:0.4466931552093517
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 272
+Previous coverage:0.6659829407224108
+Present coverage:0.6759998114888484
+Present branch_coverage:0.5620915032679739
+Reward:0.003025128769921563
+Present mutation rate:0.4480444595245026
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 273
+Previous coverage:0.6759998114888484
+Present coverage:0.6480939813868818
+Present branch_coverage:0.5163398692810458
+Reward:-0.008216001959854004
+Present mutation rate:0.44436332536694756
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 274
+Previous coverage:0.6480939813868818
+Present coverage:0.4850582946105044
+Present branch_coverage:0.2875816993464052
+Reward:-0.0435945790003842
+Present mutation rate:0.42499149327436475
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 275
+Previous coverage:0.4850582946105044
+Present coverage:0.5573288732440955
+Present branch_coverage:0.457516339869281
+Reward:0.022725780897284144
+Present mutation rate:0.43464975683372753
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 276
+Previous coverage:0.5573288732440955
+Present coverage:0.5588906747625942
+Present branch_coverage:0.4901960784313725
+Reward:0.0004690283003462523
+Present mutation rate:0.4348536198704212
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 277
+Previous coverage:0.5588906747625942
+Present coverage:0.5838840188328065
+Present branch_coverage:0.4967320261437908
+Reward:0.007622936670626078
+Present mutation rate:0.4381684814756859
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 278
+Previous coverage:0.5838840188328065
+Present coverage:0.6528134577024672
+Present branch_coverage:0.5359477124183006
+Reward:0.02162908516947548
+Present mutation rate:0.44764566488010316
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 279
+Previous coverage:0.6528134577024672
+Present coverage:0.615487052757907
+Present branch_coverage:0.545751633986928
+Reward:-0.010919269382150997
+Present mutation rate:0.4427577012775252
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 280
+Previous coverage:0.615487052757907
+Present coverage:0.6233644474966171
+Present branch_coverage:0.4901960784313725
+Reward:0.002375629091186914
+Present mutation rate:0.44380952935302714
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 281
+Previous coverage:0.6233644474966171
+Present coverage:0.561170483378855
+Present branch_coverage:0.4836601307189542
+Reward:-0.017884571400792342
+Present mutation rate:0.4358721861369609
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 282
+Previous coverage:0.561170483378855
+Present coverage:0.6537230981907128
+Present branch_coverage:0.5163398692810458
+Reward:0.029478981745259775
+Present mutation rate:0.44872125435535887
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 283
+Previous coverage:0.6537230981907128
+Present coverage:0.4368157456231925
+Present branch_coverage:0.2679738562091503
+Reward:-0.055662445850685985
+Present mutation rate:0.4237443318327518
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 284
+Previous coverage:0.4368157456231925
+Present coverage:0.6585212501225095
+Present branch_coverage:0.5261437908496732
+Reward:0.07634231749485444
+Present mutation rate:0.45609395615017273
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 285
+Previous coverage:0.6585212501225095
+Present coverage:0.3427575346440706
+Present branch_coverage:0.2777777777777778
+Reward:-0.07478776984098195
+Present mutation rate:0.4219837063317507
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 286
+Previous coverage:0.3427575346440706
+Present coverage:0.6598814703615836
+Present branch_coverage:0.5555555555555556
+Reward:0.11525069883624697
+Present mutation rate:0.47061762338399454
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 287
+Previous coverage:0.6598814703615836
+Present coverage:0.6657371481545161
+Present branch_coverage:0.5588235294117647
+Reward:0.0017635611303626788
+Present mutation rate:0.4714475863318582
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 288
+Previous coverage:0.6657371481545161
+Present coverage:0.6482478033606163
+Present branch_coverage:0.545751633986928
+Reward:-0.005185628001905973
+Present mutation rate:0.4690028345267447
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 289
+Previous coverage:0.6482478033606163
+Present coverage:0.6232144994731279
+Present branch_coverage:0.477124183006536
+Reward:-0.007384657905541842
+Present mutation rate:0.4655394090370352
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 290
+Previous coverage:0.6232144994731279
+Present coverage:0.6764948910269165
+Present branch_coverage:0.5686274509803921
+Reward:0.01655187749096159
+Present mutation rate:0.4732449603026309
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 291
+Previous coverage:0.6764948910269165
+Present coverage:0.5556677871126448
+Present branch_coverage:0.4542483660130719
+Reward:-0.03332829336621949
+Present mutation rate:0.45747251343157996
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 292
+Previous coverage:0.5556677871126448
+Present coverage:0.6134583049971398
+Present branch_coverage:0.4803921568627451
+Reward:0.01800510415682015
+Present mutation rate:0.4657093536847978
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 293
+Previous coverage:0.6134583049971398
+Present coverage:0.6325066852664614
+Present branch_coverage:0.5130718954248366
+Reward:0.005787082238973397
+Present mutation rate:0.4684044520140309
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 294
+Previous coverage:0.6325066852664614
+Present coverage:0.5795955157103244
+Present branch_coverage:0.477124183006536
+Reward:-0.015313432494081429
+Present mutation rate:0.4612315720581868
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 295
+Previous coverage:0.5795955157103244
+Present coverage:0.6207895757481048
+Present branch_coverage:0.5032679738562091
+Reward:0.01269760812781336
+Present mutation rate:0.4611572080367478
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 296
+Previous coverage:0.6207895757481048
+Present coverage:0.661011263979637
+Present branch_coverage:0.5490196078431373
+Reward:0.012390063310298597
+Present mutation rate:0.4668709750403237
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 297
+Previous coverage:0.661011263979637
+Present coverage:0.540654026540373
+Present branch_coverage:0.4542483660130719
+Reward:-0.03320999831097694
+Present mutation rate:0.4513661907477904
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 298
+Previous coverage:0.540654026540373
+Present coverage:0.6613076129175355
+Present branch_coverage:0.5261437908496732
+Reward:0.03910753349428304
+Present mutation rate:0.4690180091706465
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 299
+Previous coverage:0.6613076129175355
+Present coverage:0.6167098514774652
+Present branch_coverage:0.5032679738562091
+Reward:-0.012981536366928012
+Present mutation rate:0.4569198995343144
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 300
+Previous coverage:0.6167098514774652
+Present coverage:0.6245141023222575
+Present branch_coverage:0.477124183006536
+Reward:0.0023534565196873794
+Present mutation rate:0.45799524065084835
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 301
+Previous coverage:0.6245141023222575
+Present coverage:0.5299527350483444
+Present branch_coverage:0.4673202614379085
+Reward:-0.026580039746031542
+Present mutation rate:0.44582170895085554
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 302
+Previous coverage:0.5299527350483444
+Present coverage:0.6659926178445557
+Present branch_coverage:0.5359477124183006
+Reward:0.04451333478110476
+Present mutation rate:0.4656667199340693
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 303
+Previous coverage:0.6659926178445557
+Present coverage:0.6796785534215448
+Present branch_coverage:0.5718954248366013
+Reward:0.004143241639620248
+Present mutation rate:0.46759608967828553
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 304
+Previous coverage:0.6796785534215448
+Present coverage:0.6060666148500751
+Present branch_coverage:0.4901960784313725
+Reward:-0.020999838071390955
+Present mutation rate:0.45777664751222596
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 305
+Previous coverage:0.6060666148500751
+Present coverage:0.5711233305379279
+Present branch_coverage:0.5098039215686274
+Reward:-0.010238778669940255
+Present mutation rate:0.4484504898749192
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 306
+Previous coverage:0.5711233305379279
+Present coverage:0.632409958124024
+Present branch_coverage:0.5261437908496732
+Reward:0.019137198420004213
+Present mutation rate:0.4570325758812036
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 307
+Previous coverage:0.632409958124024
+Present coverage:0.6629746544732589
+Present branch_coverage:0.5588235294117647
+Reward:0.009356249037354644
+Present mutation rate:0.4613086864793318
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 308
+Previous coverage:0.6629746544732589
+Present coverage:0.5825289772652438
+Present branch_coverage:0.4967320261437908
+Reward:-0.0228394017661133
+Present mutation rate:0.4507726720506324
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 309
+Previous coverage:0.5825289772652438
+Present coverage:0.585214626439538
+Present branch_coverage:0.5065359477124183
+Reward:0.0008071372945857549
+Present mutation rate:0.4511365074856245
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 310
+Previous coverage:0.585214626439538
+Present coverage:0.6198973336272329
+Present branch_coverage:0.5065359477124183
+Reward:0.010645390191881928
+Present mutation rate:0.45593903163761185
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 311
+Previous coverage:0.6198973336272329
+Present coverage:0.5979997373313913
+Present branch_coverage:0.5261437908496732
+Reward:-0.00647337794404533
+Present mutation rate:0.4529875659663795
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 312
+Previous coverage:0.5979997373313913
+Present coverage:0.6486523437648026
+Present branch_coverage:0.5392156862745098
+Reward:0.015708919237723
+Present mutation rate:0.46010351105583813
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 313
+Previous coverage:0.6486523437648026
+Present coverage:0.6418252591633632
+Present branch_coverage:0.5196078431372549
+Reward:-0.002038803563600789
+Present mutation rate:0.45916545037787226
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 314
+Previous coverage:0.6418252591633632
+Present coverage:0.5538613905360369
+Present branch_coverage:0.477124183006536
+Reward:-0.024841632151420788
+Present mutation rate:0.4477590311629437
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 315
+Previous coverage:0.5538613905360369
+Present coverage:0.5671105144885763
+Present branch_coverage:0.4738562091503268
+Reward:0.004009845042863773
+Present mutation rate:0.44955447549444993
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 316
+Previous coverage:0.5671105144885763
+Present coverage:0.5918124165959401
+Present branch_coverage:0.4967320261437908
+Reward:0.007532607425753491
+Present mutation rate:0.4529407928748402
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 317
+Previous coverage:0.5918124165959401
+Present coverage:0.6587364213541123
+Present branch_coverage:0.5359477124183006
+Reward:0.02097296591002602
+Present mutation rate:0.46244030468306435
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 318
+Previous coverage:0.6587364213541123
+Present coverage:0.5634418895273852
+Present branch_coverage:0.457516339869281
+Reward:-0.026772149988803104
+Present mutation rate:0.4500597834852216
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 319
+Previous coverage:0.5634418895273852
+Present coverage:0.5764976763434974
+Present branch_coverage:0.4869281045751634
+Reward:0.003950826758711211
+Present mutation rate:0.4518378917208347
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 320
+Previous coverage:0.5764976763434974
+Present coverage:0.6141758130788052
+Present branch_coverage:0.5326797385620915
+Reward:0.011587369418161264
+Present mutation rate:0.45707350428932714
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 321
+Previous coverage:0.6141758130788052
+Present coverage:0.6024059173574731
+Present branch_coverage:0.5098039215686274
+Reward:-0.003503262627341434
+Present mutation rate:0.45547225576380235
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 322
+Previous coverage:0.6024059173574731
+Present coverage:0.5761639521905378
+Present branch_coverage:0.4901960784313725
+Reward:-0.007734861402916037
+Present mutation rate:0.4519492409925958
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 323
+Previous coverage:0.5761639521905378
+Present coverage:0.6480344124321834
+Present branch_coverage:0.5032679738562091
+Reward:0.02259421068356286
+Present mutation rate:0.46216067736185884
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 324
+Previous coverage:0.6480344124321834
+Present coverage:0.5400704254966874
+Present branch_coverage:0.4150326797385621
+Reward:-0.030057951585647218
+Present mutation rate:0.4482690740969262
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 325
+Previous coverage:0.5400704254966874
+Present coverage:0.6961535208510519
+Present branch_coverage:0.5882352941176471
+Reward:0.051697315137389274
+Present mutation rate:0.4714433816868606
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 326
+Previous coverage:0.6961535208510519
+Present coverage:0.6319948781577278
+Present branch_coverage:0.5261437908496732
+Reward:-0.01842432652154729
+Present mutation rate:0.4627573548862395
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 327
+Previous coverage:0.6319948781577278
+Present coverage:0.5990227993554181
+Present branch_coverage:0.5065359477124183
+Reward:-0.00967419204458376
+Present mutation rate:0.4582805513650264
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 328
+Previous coverage:0.5990227993554181
+Present coverage:0.6739838722492923
+Present branch_coverage:0.565359477124183
+Reward:0.023612154358042408
+Present mutation rate:0.4691015424831461
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 329
+Previous coverage:0.6739838722492923
+Present coverage:0.5600439741231522
+Present branch_coverage:0.4673202614379085
+Reward:-0.031585509360843
+Present mutation rate:0.4542847313218588
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 330
+Previous coverage:0.5600439741231522
+Present coverage:0.5043637415797362
+Present branch_coverage:0.3137254901960784
+Reward:-0.01608401210380703
+Present mutation rate:0.4469780102047033
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 331
+Previous coverage:0.5043637415797362
+Present coverage:0.6063619036598836
+Present branch_coverage:0.4803921568627451
+Reward:0.03268017363758984
+Present mutation rate:0.4615853291903774
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 332
+Previous coverage:0.6063619036598836
+Present coverage:0.573897820303706
+Present branch_coverage:0.4934640522875817
+Reward:-0.009528441665221932
+Present mutation rate:0.45718714030766466
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 333
+Previous coverage:0.573897820303706
+Present coverage:0.6858652896312172
+Present branch_coverage:0.5816993464052288
+Reward:0.036097583635774796
+Present mutation rate:0.4736904913421213
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 334
+Previous coverage:0.6858652896312172
+Present coverage:0.6108090569663576
+Present branch_coverage:0.4379084967320261
+Reward:-0.021390182187089577
+Present mutation rate:0.4635581654320214
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 335
+Previous coverage:0.6108090569663576
+Present coverage:0.6619498386466641
+Present branch_coverage:0.5555555555555556
+Reward:0.01586531041426652
+Present mutation rate:0.47091265962166834
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 336
+Previous coverage:0.6619498386466641
+Present coverage:0.619217740350643
+Present branch_coverage:0.4901960784313725
+Reward:-0.012454423043850166
+Present mutation rate:0.4650477141420355
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 337
+Previous coverage:0.619217740350643
+Present coverage:0.6404154106775414
+Present branch_coverage:0.5261437908496732
+Reward:0.006449169343527076
+Present mutation rate:0.46804688560335767
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 338
+Previous coverage:0.6404154106775414
+Present coverage:0.5030832103495966
+Present branch_coverage:0.349673202614379
+Reward:-0.037427633449000484
+Present mutation rate:0.45052899833204896
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 339
+Previous coverage:0.5030832103495966
+Present coverage:0.3627135788112672
+Present branch_coverage:0.3986928104575163
+Reward:-0.03817016276985754
+Present mutation rate:0.41679187126105466
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 340
+Previous coverage:0.3627135788112672
+Present coverage:0.6285138253083559
+Present branch_coverage:0.5261437908496732
+Reward:0.09387002815670921
+Present mutation rate:0.4559161359518174
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 341
+Previous coverage:0.6285138253083559
+Present coverage:0.5826190185834551
+Present branch_coverage:0.4934640522875817
+Reward:-0.013347175360607028
+Present mutation rate:0.44983094333553814
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 342
+Previous coverage:0.5826190185834551
+Present coverage:0.6331898080164073
+Present branch_coverage:0.4901960784313725
+Reward:0.01568271777866007
+Present mutation rate:0.4568855150679778
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 343
+Previous coverage:0.6331898080164073
+Present coverage:0.3960407864771404
+Present branch_coverage:0.4052287581699346
+Reward:-0.05989677477837374
+Present mutation rate:0.42951954627244987
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 344
+Previous coverage:0.3960407864771404
+Present coverage:0.6519425888515674
+Present branch_coverage:0.5294117647058824
+Reward:0.08986768720402416
+Present mutation rate:0.46811947450487684
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 345
+Previous coverage:0.6519425888515674
+Present coverage:0.6045076664001128
+Present branch_coverage:0.5032679738562091
+Reward:-0.013780462361841288
+Present mutation rate:0.4616685717056175
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 346
+Previous coverage:0.6045076664001128
+Present coverage:0.4913303923660656
+Present branch_coverage:0.2908496732026144
+Reward:-0.03139136313865858
+Present mutation rate:0.4471761659215006
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 347
+Previous coverage:0.4913303923660656
+Present coverage:0.5697441881969088
+Present branch_coverage:0.4640522875816993
+Reward:0.02475388342457317
+Present mutation rate:0.458245512602969
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 348
+Previous coverage:0.5697441881969088
+Present coverage:0.5836957272878139
+Present branch_coverage:0.4869281045751634
+Reward:0.004224390815872566
+Present mutation rate:0.46018132073782375
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 349
+Previous coverage:0.5836957272878139
+Present coverage:0.6294580418832101
+Present branch_coverage:0.4967320261437908
+Reward:0.014147532266044446
+Present mutation rate:0.4732942874242327
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 350
+Previous coverage:0.6294580418832101
+Present coverage:0.6150873892750702
+Present branch_coverage:0.477124183006536
+Reward:-0.004269892651165189
+Present mutation rate:0.4712733716245215
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 351
+Previous coverage:0.6150873892750702
+Present coverage:0.509364805291901
+Present branch_coverage:0.4607843137254901
+Reward:-0.02948132224213512
+Present mutation rate:0.4573796094915215
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 352
+Previous coverage:0.509364805291901
+Present coverage:0.6794851580279626
+Present branch_coverage:0.565359477124183
+Reward:0.0568242927038269
+Present mutation rate:0.4833698822980298
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 353
+Previous coverage:0.6794851580279626
+Present coverage:0.5805621650022991
+Present branch_coverage:0.4901960784313725
+Reward:-0.02771974619786797
+Present mutation rate:0.4699709918410351
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 354
+Previous coverage:0.5805621650022991
+Present coverage:0.70655944607942
+Present branch_coverage:0.6013071895424836
+Reward:0.04097424729090168
+Present mutation rate:0.48922769948027994
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 355
+Previous coverage:0.70655944607942
+Present coverage:0.600542718781705
+Present branch_coverage:0.4052287581699346
+Reward:-0.029557108895930898
+Present mutation rate:0.47476754309183555
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 356
+Previous coverage:0.600542718781705
+Present coverage:0.5504498886752945
+Present branch_coverage:0.4117647058823529
+Reward:-0.014525990706309184
+Present mutation rate:0.46787107417322626
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 357
+Previous coverage:0.5504498886752945
+Present coverage:0.5368963316902661
+Present branch_coverage:0.4607843137254901
+Reward:-0.004029327314119258
+Present mutation rate:0.4659858684745738
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 358
+Previous coverage:0.5368963316902661
+Present coverage:0.4150967004034647
+Present branch_coverage:0.2712418300653594
+Reward:-0.03357285934972026
+Present mutation rate:0.4503413904533197
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 359
+Previous coverage:0.4150967004034647
+Present coverage:0.6614787748849238
+Present branch_coverage:0.5424836601307189
+Reward:0.08605544766959518
+Present mutation rate:0.4890957204129281
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 360
+Previous coverage:0.6614787748849238
+Present coverage:0.705963783695549
+Present branch_coverage:0.6372549019607843
+Reward:0.013741285844963848
+Present mutation rate:0.4958165245126707
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 361
+Previous coverage:0.705963783695549
+Present coverage:0.6058704070446367
+Present branch_coverage:0.5032679738562091
+Reward:-0.02802427618539742
+Present mutation rate:0.4819216252924438
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 362
+Previous coverage:0.6058704070446367
+Present coverage:0.5966048810157683
+Present branch_coverage:0.4901960784313725
+Reward:-0.0027624878141422017
+Present mutation rate:0.4805903226752018
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 363
+Previous coverage:0.5966048810157683
+Present coverage:0.5603051901579537
+Present branch_coverage:0.4901960784313725
+Reward:-0.010626373746069796
+Present mutation rate:0.4754833902877108
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 364
+Previous coverage:0.5603051901579537
+Present coverage:0.5319309645298129
+Present branch_coverage:0.4705882352941176
+Reward:-0.008351248352442893
+Present mutation rate:0.47151251040795655
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 365
+Previous coverage:0.5319309645298129
+Present coverage:0.6373644209847658
+Present branch_coverage:0.5228758169934641
+Reward:0.03385327968449353
+Present mutation rate:0.48747475529753476
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 366
+Previous coverage:0.6373644209847658
+Present coverage:0.6376650622223017
+Present branch_coverage:0.5098039215686274
+Reward:9.021044829151916e-05
+Present mutation rate:0.487518730613741
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 367
+Previous coverage:0.6376650622223017
+Present coverage:0.6501625750633379
+Present branch_coverage:0.5424836601307189
+Reward:0.0037804914177532248
+Present mutation rate:0.4875117629398031
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 368
+Previous coverage:0.6501625750633379
+Present coverage:0.6711931559267562
+Present branch_coverage:0.5751633986928104
+Reward:0.006397631325316063
+Present mutation rate:0.4906306834658468
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 369
+Previous coverage:0.6711931559267562
+Present coverage:0.5725336941500798
+Present branch_coverage:0.4803921568627451
+Reward:-0.027651100653390222
+Present mutation rate:0.477064205053691
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 370
+Previous coverage:0.5725336941500798
+Present coverage:0.6476712100487996
+Present branch_coverage:0.5228758169934641
+Reward:0.023670384028702
+Present mutation rate:0.4883564979936593
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 371
+Previous coverage:0.6476712100487996
+Present coverage:0.5529972115006396
+Present branch_coverage:0.4509803921568627
+Reward:-0.026609566364228582
+Present mutation rate:0.47536154335089476
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 372
+Previous coverage:0.5529972115006396
+Present coverage:0.5848224736223164
+Present branch_coverage:0.4934640522875817
+Reward:0.009750148098325728
+Present mutation rate:0.4799963887988147
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 373
+Previous coverage:0.5848224736223164
+Present coverage:0.5848224736223164
+Present branch_coverage:0.4934640522875817
+Reward:0.0
+Present mutation rate:0.43748650269604045
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 374
+Previous coverage:0.5848224736223164
+Present coverage:0.6483957644491418
+Present branch_coverage:0.5261437908496732
+Reward:0.01988029990935804
+Present mutation rate:0.4461838655759339
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 375
+Previous coverage:0.6483957644491418
+Present coverage:0.6483957644491418
+Present branch_coverage:0.5261437908496732
+Reward:0.0
+Present mutation rate:0.6240147484353307
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 376
+Previous coverage:0.6483957644491418
+Present coverage:0.6226519366729661
+Present branch_coverage:0.5522875816993464
+Reward:-0.007590599399138824
+Present mutation rate:0.6192781024608036
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 377
+Previous coverage:0.6226519366729661
+Present coverage:0.6226519366729661
+Present branch_coverage:0.5522875816993464
+Reward:0.0
+Present mutation rate:0.46747388357315917
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 378
+Previous coverage:0.6226519366729661
+Present coverage:0.6183124424549892
+Present branch_coverage:0.4803921568627451
+Reward:-0.0012980820233795196
+Present mutation rate:0.46686706412849344
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 379
+Previous coverage:0.6183124424549892
+Present coverage:0.6183124424549892
+Present branch_coverage:0.4803921568627451
+Reward:0.0
+Present mutation rate:0.43990201871012546
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 380
+Previous coverage:0.6183124424549892
+Present coverage:0.5713718682632349
+Present branch_coverage:0.4640522875816993
+Reward:-0.013641488756435952
+Present mutation rate:0.4339011002679578
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 381
+Previous coverage:0.5713718682632349
+Present coverage:0.5713718682632349
+Present branch_coverage:0.4640522875816993
+Reward:0.0
+Present mutation rate:0.7097613163152432
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 382
+Previous coverage:0.5713718682632349
+Present coverage:0.6671457655295231
+Present branch_coverage:0.5294117647058824
+Reward:0.030566697059401148
+Present mutation rate:0.7314563754555331
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 383
+Previous coverage:0.6671457655295231
+Present coverage:0.6671457655295231
+Present branch_coverage:0.5294117647058824
+Reward:0.0
+Present mutation rate:0.37832362105865874
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 384
+Previous coverage:0.6671457655295231
+Present coverage:0.6127054683138331
+Present branch_coverage:0.5098039215686274
+Reward:-0.01573933997252046
+Present mutation rate:0.37236905696718153
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 385
+Previous coverage:0.6127054683138331
+Present coverage:0.6127054683138331
+Present branch_coverage:0.5098039215686274
+Reward:0.0
+Present mutation rate:0.4410189828024601
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 386
+Previous coverage:0.6127054683138331
+Present coverage:0.6508094078582449
+Present branch_coverage:0.5359477124183006
+Reward:0.011721563905084385
+Present mutation rate:0.44618841499273443
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 387
+Previous coverage:0.6508094078582449
+Present coverage:0.6508094078582449
+Present branch_coverage:0.5359477124183006
+Reward:0.0
+Present mutation rate:0.44618841499273443
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 388
+Previous coverage:0.6508094078582449
+Present coverage:0.5806368575829077
+Present branch_coverage:0.4803921568627451
+Reward:-0.020066927720172212
+Present mutation rate:0.437234784319497
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 389
+Previous coverage:0.5806368575829077
+Present coverage:0.5806368575829077
+Present branch_coverage:0.4803921568627451
+Reward:0.0
+Present mutation rate:0.437234784319497
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 390
+Previous coverage:0.5806368575829077
+Present coverage:0.6425723895602694
+Present branch_coverage:0.5130718954248366
+Reward:0.019347861617472262
+Present mutation rate:0.445694342420856
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 391
+Previous coverage:0.6425723895602694
+Present coverage:0.6425723895602694
+Present branch_coverage:0.5130718954248366
+Reward:0.0
+Present mutation rate:0.445694342420856
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 392
+Previous coverage:0.6425723895602694
+Present coverage:0.6190873582669333
+Present branch_coverage:0.4901960784313725
+Reward:-0.006935200049031041
+Present mutation rate:0.442603362995446
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 393
+Previous coverage:0.6190873582669333
+Present coverage:0.6190873582669333
+Present branch_coverage:0.4901960784313725
+Reward:0.0
+Present mutation rate:0.442603362995446
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 394
+Previous coverage:0.6190873582669333
+Present coverage:0.5520353548332729
+Present branch_coverage:0.477124183006536
+Reward:-0.019216406797204585
+Present mutation rate:0.4340981167223147
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 395
+Previous coverage:0.5520353548332729
+Present coverage:0.6065972403251856
+Present branch_coverage:0.5522875816993464
+Reward:0.016963965517260312
+Present mutation rate:0.4414621422054996
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 396
+Previous coverage:0.6065972403251856
+Present coverage:0.5302458970429026
+Present branch_coverage:0.4673202614379085
+Reward:-0.021739497460483093
+Present mutation rate:0.43186497708612376
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 397
+Previous coverage:0.5302458970429026
+Present coverage:0.6371911589891783
+Present branch_coverage:0.5
+Reward:0.03437103639443423
+Present mutation rate:0.44670862393103244
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 398
+Previous coverage:0.6371911589891783
+Present coverage:0.5169332353861287
+Present branch_coverage:0.3333333333333333
+Reward:-0.033184983443051506
+Present mutation rate:0.4318846056420128
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 399
+Previous coverage:0.5169332353861287
+Present coverage:0.5651999646943583
+Present branch_coverage:0.4738562091503268
+Reward:0.014945954224091666
+Present mutation rate:0.43833953318802826
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 400
+Previous coverage:0.5651999646943583
+Present coverage:0.5622596782042145
+Present branch_coverage:0.4640522875816993
+Reward:-0.0008803568901143075
+Present mutation rate:0.43795363795977665
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 401
+Previous coverage:0.5622596782042145
+Present coverage:0.5509296434430451
+Present branch_coverage:0.4738562091503268
+Reward:-0.0033733364908129734
+Present mutation rate:0.43647627297156266
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 402
+Previous coverage:0.5509296434430451
+Present coverage:0.6728739729516915
+Present branch_coverage:0.565359477124183
+Reward:0.03955738275245659
+Present mutation rate:0.45374213196386454
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 403
+Previous coverage:0.6728739729516915
+Present coverage:0.6346783979370657
+Present branch_coverage:0.545751633986928
+Reward:-0.011166892114248154
+Present mutation rate:0.44867524252853513
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 404
+Previous coverage:0.6346783979370657
+Present coverage:0.6565492490991234
+Present branch_coverage:0.5196078431372549
+Reward:0.006656922174727877
+Present mutation rate:0.4516620386997748
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 405
+Previous coverage:0.6565492490991234
+Present coverage:0.6100231056354714
+Present branch_coverage:0.5261437908496732
+Reward:-0.013524906633975542
+Present mutation rate:0.4455533517962493
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 406
+Previous coverage:0.6100231056354714
+Present coverage:0.6705232599132511
+Present branch_coverage:0.5424836601307189
+Reward:0.018882100016860963
+Present mutation rate:0.45396633474771364
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 407
+Previous coverage:0.6705232599132511
+Present coverage:0.6546512411299741
+Present branch_coverage:0.5261437908496732
+Reward:-0.004711221438931773
+Present mutation rate:0.45182759881889695
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 408
+Previous coverage:0.6546512411299741
+Present coverage:0.5754756720977036
+Present branch_coverage:0.4705882352941176
+Reward:-0.022498916563364387
+Present mutation rate:0.4416619673720453
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 409
+Previous coverage:0.5754756720977036
+Present coverage:0.5006390346303285
+Present branch_coverage:0.4444444444444444
+Reward:-0.02133088677872784
+Present mutation rate:0.43224092595156205
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 410
+Previous coverage:0.5006390346303285
+Present coverage:0.6805354347093172
+Present branch_coverage:0.5392156862745098
+Reward:0.060441462975972506
+Present mutation rate:0.45836619987416344
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 411
+Previous coverage:0.6805354347093172
+Present coverage:0.577130177755385
+Present branch_coverage:0.4803921568627451
+Reward:-0.028883047653037914
+Present mutation rate:0.4451271870806561
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 412
+Previous coverage:0.577130177755385
+Present coverage:0.5450909131893293
+Present branch_coverage:0.4542483660130719
+Reward:-0.009406476475029955
+Present mutation rate:0.44094010866698563
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 413
+Previous coverage:0.5450909131893293
+Present coverage:0.5688075622151599
+Present branch_coverage:0.477124183006536
+Reward:0.007227490595952064
+Present mutation rate:0.4441269991557543
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 414
+Previous coverage:0.5688075622151599
+Present coverage:0.6032634249307186
+Present branch_coverage:0.5130718954248366
+Reward:0.010574200109762285
+Present mutation rate:0.44882328691897544
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 415
+Previous coverage:0.6032634249307186
+Present coverage:0.6858120868201905
+Present branch_coverage:0.5620915032679739
+Reward:0.026127454882790023
+Present mutation rate:0.4605498970982965
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 416
+Previous coverage:0.6858120868201905
+Present coverage:0.617635351897964
+Present branch_coverage:0.5130718954248366
+Reward:-0.01952340703973682
+Present mutation rate:0.45155839399513753
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 417
+Previous coverage:0.617635351897964
+Present coverage:0.6464680272699678
+Present branch_coverage:0.4901960784313725
+Reward:0.00881606724542259
+Present mutation rate:0.45553936316183363
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 418
+Previous coverage:0.6464680272699678
+Present coverage:0.6429007616015422
+Present branch_coverage:0.5261437908496732
+Reward:-0.001067634623657848
+Present mutation rate:0.455053013565283
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 419
+Previous coverage:0.6429007616015422
+Present coverage:0.5934367470525493
+Present branch_coverage:0.5065359477124183
+Reward:-0.01434986661763726
+Present mutation rate:0.4485230635166673
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 420
+Previous coverage:0.5934367470525493
+Present coverage:0.5796300212089897
+Present branch_coverage:0.5
+Reward:-0.004103892617364061
+Present mutation rate:0.44668237302758373
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 421
+Previous coverage:0.5796300212089897
+Present coverage:0.6767017710208086
+Present branch_coverage:0.5882352941176471
+Reward:0.03100610986585137
+Present mutation rate:0.4605322557608162
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 422
+Previous coverage:0.6767017710208086
+Present coverage:0.4996110737437886
+Present branch_coverage:0.4673202614379085
+Reward:-0.04685498617069378
+Present mutation rate:0.43895402328598476
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 423
+Previous coverage:0.4996110737437886
+Present coverage:0.5332262293420104
+Present branch_coverage:0.434640522875817
+Reward:0.010310542416645058
+Present mutation rate:0.44347987736203187
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 424
+Previous coverage:0.5332262293420104
+Present coverage:0.6608543513471805
+Present branch_coverage:0.5392156862745098
+Reward:0.041546224106864364
+Present mutation rate:0.4619047917337995
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 425
+Previous coverage:0.6608543513471805
+Present coverage:0.5837662229337861
+Present branch_coverage:0.5130718954248366
+Reward:-0.021937922615562322
+Present mutation rate:0.451771560156986
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 426
+Previous coverage:0.5837662229337861
+Present coverage:0.608420296725115
+Present branch_coverage:0.4640522875816993
+Reward:0.0075177868083003245
+Present mutation rate:0.45516788243229944
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 427
+Previous coverage:0.608420296725115
+Present coverage:0.6678403598706918
+Present branch_coverage:0.545751633986928
+Reward:0.018532167724517906
+Present mutation rate:0.4636031299723484
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 428
+Previous coverage:0.6678403598706918
+Present coverage:0.637372717436286
+Present branch_coverage:0.5098039215686274
+Reward:-0.008954637283219581
+Present mutation rate:0.4594517321000808
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 429
+Previous coverage:0.637372717436286
+Present coverage:0.6055044732684407
+Present branch_coverage:0.5261437908496732
+Reward:-0.009357356253085303
+Present mutation rate:0.4551524785617232
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 430
+Previous coverage:0.6055044732684407
+Present coverage:0.6115571726950647
+Present branch_coverage:0.457516339869281
+Reward:0.0018231368620570134
+Present mutation rate:0.4559822838232456
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 431
+Previous coverage:0.6115571726950647
+Present coverage:0.4732105657873876
+Present branch_coverage:0.2777777777777778
+Reward:-0.03767602534372966
+Present mutation rate:0.43880268374162934
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 432
+Previous coverage:0.4732105657873876
+Present coverage:0.6689074464274939
+Present branch_coverage:0.5359477124183006
+Reward:0.06636851801048547
+Present mutation rate:0.467925367560585
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 433
+Previous coverage:0.6689074464274939
+Present coverage:0.478378946561435
+Present branch_coverage:0.3856209150326797
+Reward:-0.04989832810757551
+Present mutation rate:0.444576674040189
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 434
+Previous coverage:0.478378946561435
+Present coverage:0.6693293632148468
+Present branch_coverage:0.545751633986928
+Reward:0.06457753732004587
+Present mutation rate:0.4732863407996412
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 435
+Previous coverage:0.6693293632148468
+Present coverage:0.6460546759340708
+Present branch_coverage:0.5163398692810458
+Reward:-0.0068740639706292095
+Present mutation rate:0.4700329402165595
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 436
+Previous coverage:0.6460546759340708
+Present coverage:0.6494705956539009
+Present branch_coverage:0.5228758169934641
+Reward:0.0010271096174554702
+Present mutation rate:0.4705157155699768
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 437
+Previous coverage:0.6494705956539009
+Present coverage:0.5852978535471549
+Present branch_coverage:0.457516339869281
+Reward:-0.018428194466124002
+Present mutation rate:0.4618449604640858
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 438
+Previous coverage:0.5852978535471549
+Present coverage:0.640109630212398
+Present branch_coverage:0.5130718954248366
+Reward:0.017044399171813013
+Present mutation rate:0.46971683032572586
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 439
+Previous coverage:0.640109630212398
+Present coverage:0.5637840929320854
+Present branch_coverage:0.477124183006536
+Reward:-0.02173254365586809
+Present mutation rate:0.4595086888047761
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 440
+Previous coverage:0.5637840929320854
+Present coverage:0.6444361722195112
+Present branch_coverage:0.5326797385620915
+Reward:0.02549657536490478
+Present mutation rate:0.4712245867197156
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 441
+Previous coverage:0.6444361722195112
+Present coverage:0.5858163373723225
+Present branch_coverage:0.4869281045751634
+Reward:-0.016898693446654272
+Present mutation rate:0.4632615068842128
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 442
+Previous coverage:0.5858163373723225
+Present coverage:0.5948969633062386
+Present branch_coverage:0.5065359477124183
+Reward:0.002740679333645178
+Present mutation rate:0.46453115812220364
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 443
+Previous coverage:0.5948969633062386
+Present coverage:0.672377295330157
+Present branch_coverage:0.5751633986928104
+Reward:0.02444473997728283
+Present mutation rate:0.475886501493847
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 444
+Previous coverage:0.672377295330157
+Present coverage:0.6536177041109462
+Present branch_coverage:0.5359477124183006
+Reward:-0.0055574929132208555
+Present mutation rate:0.4732417656342975
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 445
+Previous coverage:0.6536177041109462
+Present coverage:0.5887376933063773
+Present branch_coverage:0.5294117647058824
+Reward:-0.018622120080970486
+Present mutation rate:0.46442900064732506
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 446
+Previous coverage:0.5887376933063773
+Present coverage:0.5754475086365781
+Present branch_coverage:0.4411764705882353
+Reward:-0.0039517295992282705
+Present mutation rate:0.462593702818727
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 447
+Previous coverage:0.5754475086365781
+Present coverage:0.5913712986347829
+Present branch_coverage:0.5
+Reward:0.004827850417042814
+Present mutation rate:0.46482703601980185
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 448
+Previous coverage:0.5913712986347829
+Present coverage:0.5913712986347829
+Present branch_coverage:0.5
+Reward:0.0
+Present mutation rate:0.46482703601980185
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 449
+Previous coverage:0.5913712986347829
+Present coverage:0.5696614796091382
+Present branch_coverage:0.5
+Reward:-0.006418682459268169
+Present mutation rate:0.461843458877108
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 450
+Previous coverage:0.5696614796091382
+Present coverage:0.5696614796091382
+Present branch_coverage:0.5
+Reward:0.0
+Present mutation rate:0.461843458877108
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 451
+Previous coverage:0.5696614796091382
+Present coverage:0.6140704907349399
+Present branch_coverage:0.5261437908496732
+Reward:0.013717135391574844
+Present mutation rate:0.4681786281322385
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 452
+Previous coverage:0.6140704907349399
+Present coverage:0.6140704907349399
+Present branch_coverage:0.5261437908496732
+Reward:0.0
+Present mutation rate:0.4681786281322385
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 453
+Previous coverage:0.6140704907349399
+Present coverage:0.671538168243919
+Present branch_coverage:0.5522875816993464
+Reward:0.017900810044348927
+Present mutation rate:0.4765594048212576
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 454
+Previous coverage:0.671538168243919
+Present coverage:0.671538168243919
+Present branch_coverage:0.5522875816993464
+Reward:0.0
+Present mutation rate:0.4765594048212576
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 455
+Previous coverage:0.671538168243919
+Present coverage:0.6268663462972466
+Present branch_coverage:0.5032679738562091
+Reward:-0.013002432248794682
+Present mutation rate:0.47036297344754324
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 456
+Previous coverage:0.6268663462972466
+Present coverage:0.6268663462972466
+Present branch_coverage:0.5032679738562091
+Reward:0.0
+Present mutation rate:0.47036297344754324
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 457
+Previous coverage:0.6268663462972466
+Present coverage:0.6676026796173175
+Present branch_coverage:0.5490196078431373
+Reward:0.012552789766494044
+Present mutation rate:0.4762673409671733
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 458
+Previous coverage:0.6676026796173175
+Present coverage:0.6676026796173175
+Present branch_coverage:0.5490196078431373
+Reward:0.0
+Present mutation rate:0.4762673409671733
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 459
+Previous coverage:0.6676026796173175
+Present coverage:0.6824729462298648
+Present branch_coverage:0.5522875816993464
+Reward:0.004505304949589841
+Present mutation rate:0.4784130705757607
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 460
+Previous coverage:0.6824729462298648
+Present coverage:0.6824729462298648
+Present branch_coverage:0.5522875816993464
+Reward:0.0
+Present mutation rate:0.4784130705757607
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 461
+Previous coverage:0.6824729462298648
+Present coverage:0.6520978604752419
+Present branch_coverage:0.5228758169934641
+Reward:-0.008927996559466727
+Present mutation rate:0.4741418003276564
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 462
+Previous coverage:0.6520978604752419
+Present coverage:0.6520978604752419
+Present branch_coverage:0.5228758169934641
+Reward:0.0
+Present mutation rate:0.4741418003276564
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 463
+Previous coverage:0.6520978604752419
+Present coverage:0.6822416602510865
+Present branch_coverage:0.5784313725490197
+Reward:0.009224869665738617
+Present mutation rate:0.4785156966387577
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 464
+Previous coverage:0.6822416602510865
+Present coverage:0.6822416602510865
+Present branch_coverage:0.5784313725490197
+Reward:0.0
+Present mutation rate:0.4785156966387577
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 465
+Previous coverage:0.6822416602510865
+Present coverage:0.6346830756375853
+Present branch_coverage:0.5163398692810458
+Reward:-0.013815211589962436
+Present mutation rate:0.471904901040575
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 466
+Previous coverage:0.6346830756375853
+Present coverage:0.5983310027035463
+Present branch_coverage:0.4607843137254901
+Reward:-0.010641327238891354
+Present mutation rate:0.4668832065629656
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 467
+Previous coverage:0.5983310027035463
+Present coverage:0.5983310027035463
+Present branch_coverage:0.4607843137254901
+Reward:0.0
+Present mutation rate:0.4668832065629656
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 468
+Previous coverage:0.5983310027035463
+Present coverage:0.5921262815322181
+Present branch_coverage:0.5065359477124183
+Reward:-0.0018537166384356735
+Present mutation rate:0.4660177373947536
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 469
+Previous coverage:0.5921262815322181
+Present coverage:0.5921262815322181
+Present branch_coverage:0.5065359477124183
+Reward:0.0
+Present mutation rate:0.4660177373947536
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 470
+Previous coverage:0.5921262815322181
+Present coverage:0.5921262815322181
+Present branch_coverage:0.5065359477124183
+Reward:0.0
+Present mutation rate:0.4660177373947536
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 471
+Previous coverage:0.5921262815322181
+Present coverage:0.6239289262824304
+Present branch_coverage:0.5130718954248366
+Reward:0.009743075067685306
+Present mutation rate:0.47055818319306353
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 472
+Previous coverage:0.6239289262824304
+Present coverage:0.5702591074004856
+Present branch_coverage:0.4738562091503268
+Reward:-0.015524855772819281
+Present mutation rate:0.46325283526627137
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 473
+Previous coverage:0.5702591074004856
+Present coverage:0.5702591074004856
+Present branch_coverage:0.4738562091503268
+Reward:0.0
+Present mutation rate:0.46325283526627137
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 474
+Previous coverage:0.5702591074004856
+Present coverage:0.6467204249884132
+Present branch_coverage:0.5424836601307189
+Reward:0.024107661893834672
+Present mutation rate:0.47442077799023097
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 475
+Previous coverage:0.6467204249884132
+Present coverage:0.6467204249884132
+Present branch_coverage:0.5424836601307189
+Reward:0.0
+Present mutation rate:0.47442077799023097
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 476
+Previous coverage:0.6467204249884132
+Present coverage:0.6477740345675744
+Present branch_coverage:0.5228758169934641
+Reward:0.000316304892377429
+Present mutation rate:0.4745708396033547
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 477
+Previous coverage:0.6477740345675744
+Present coverage:0.6477740345675744
+Present branch_coverage:0.5228758169934641
+Reward:0.0
+Present mutation rate:0.4745708396033547
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 478
+Previous coverage:0.6477740345675744
+Present coverage:0.6477740345675744
+Present branch_coverage:0.5228758169934641
+Reward:0.0
+Present mutation rate:0.4745708396033547
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 479
+Previous coverage:0.6477740345675744
+Present coverage:0.6415336552553278
+Present branch_coverage:0.5163398692810458
+Reward:-0.0018643253268818473
+Present mutation rate:0.4736860851676826
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 480
+Previous coverage:0.6415336552553278
+Present coverage:0.4306416373459583
+Present branch_coverage:0.2745098039215686
+Reward:-0.05437251672923369
+Present mutation rate:0.4479305805774976
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 481
+Previous coverage:0.4306416373459583
+Present coverage:0.584236439861102
+Present branch_coverage:0.4967320261437908
+Reward:0.0507967134264763
+Present mutation rate:0.4706839819140479
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 482
+Previous coverage:0.584236439861102
+Present coverage:0.584236439861102
+Present branch_coverage:0.4967320261437908
+Reward:0.0
+Present mutation rate:0.4706839819140479
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 483
+Previous coverage:0.584236439861102
+Present coverage:0.5003202851170231
+Present branch_coverage:0.3725490196078431
+Reward:-0.023766462217817225
+Present mutation rate:0.45949748884135594
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 484
+Previous coverage:0.5003202851170231
+Present coverage:0.6053408919263514
+Present branch_coverage:0.5032679738562091
+Reward:0.03371204761371841
+Present mutation rate:0.4749880900635598
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 485
+Previous coverage:0.6053408919263514
+Present coverage:0.6053408919263514
+Present branch_coverage:0.5032679738562091
+Reward:0.0
+Present mutation rate:0.4749880900635598
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 486
+Previous coverage:0.6053408919263514
+Present coverage:0.6515214443292313
+Present branch_coverage:0.5490196078431373
+Reward:0.01428069440491099
+Present mutation rate:0.4817712498237298
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 487
+Previous coverage:0.6515214443292313
+Present coverage:0.3752435593031382
+Present branch_coverage:0.2549019607843137
+Reward:-0.06761747155692971
+Present mutation rate:0.4491950960418273
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 488
+Previous coverage:0.3752435593031382
+Present coverage:0.6038168428111909
+Present branch_coverage:0.5098039215686274
+Reward:0.07902113423914632
+Present mutation rate:0.4846910020257147
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 489
+Previous coverage:0.6038168428111909
+Present coverage:0.6038168428111909
+Present branch_coverage:0.5098039215686274
+Reward:0.0
+Present mutation rate:0.4846910020257147
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 490
+Previous coverage:0.6038168428111909
+Present coverage:0.4392194535067762
+Present branch_coverage:0.3888888888888889
+Reward:-0.04396075667815859
+Present mutation rate:0.46338361882156937
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 491
+Previous coverage:0.4392194535067762
+Present coverage:0.5729078260968955
+Present branch_coverage:0.5065359477124183
+Reward:0.0436810279701947
+Present mutation rate:0.4836246916362444
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 492
+Previous coverage:0.5729078260968955
+Present coverage:0.5729078260968955
+Present branch_coverage:0.5065359477124183
+Reward:0.0
+Present mutation rate:0.4836246916362444
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 493
+Previous coverage:0.5729078260968955
+Present coverage:0.4963401408000861
+Present branch_coverage:0.4542483660130719
+Reward:-0.021797783502700573
+Present mutation rate:0.4730827453113972
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 494
+Previous coverage:0.4963401408000861
+Present coverage:0.5714528566267991
+Present branch_coverage:0.4803921568627451
+Reward:0.023662198763786817
+Present mutation rate:0.48427692326267346
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 495
+Previous coverage:0.5714528566267991
+Present coverage:0.6460022880228071
+Present branch_coverage:0.5326797385620915
+Reward:0.023476352963096022
+Present mutation rate:0.4956459792450701
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 496
+Previous coverage:0.6460022880228071
+Present coverage:0.6460022880228071
+Present branch_coverage:0.5326797385620915
+Reward:0.0
+Present mutation rate:0.4956459792450701
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 497
+Previous coverage:0.6460022880228071
+Present coverage:0.5492966533934289
+Present branch_coverage:0.477124183006536
+Reward:-0.0271412944349993
+Present mutation rate:0.48219350578685605
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 498
+Previous coverage:0.5492966533934289
+Present coverage:0.5879237252325904
+Present branch_coverage:0.5
+Reward:0.01188653168752199
+Present mutation rate:0.48212537684215484
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 499
+Previous coverage:0.5879237252325904
+Present coverage:0.465361283745493
+Present branch_coverage:0.434640522875817
+Reward:-0.03376442203347358
+Present mutation rate:0.45011764782891356
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 500
+Previous coverage:0.465361283745493
+Present coverage:0.465361283745493
+Present branch_coverage:0.434640522875817
+Reward:0.0
+Present mutation rate:0.45011764782891356
+Present class:com.ib.client.EReader(Random seed After RL)
+-------------------------------------------------------

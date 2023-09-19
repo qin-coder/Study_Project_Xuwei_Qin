@@ -1,0 +1,4501 @@
+
+------------------------QLearning------------------------
+Episodes : 1
+Previous coverage:0.6304971988795518
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010183089487134714
+Present crossover rate:0.6960104740437122
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 2
+Previous coverage:0.6304971988795518
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010183089487134714
+Present crossover rate:0.6960104740437122
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 3
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.6905696431148767
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 4
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.6977213055454264
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 5
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.6983553953798666
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 6
+Previous coverage:0.7172692990239574
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:-0.00036333661777662317
+Present crossover rate:0.6981016572925032
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 7
+Previous coverage:0.713609139307897
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007590462366421051
+Present crossover rate:0.6928027429348883
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 8
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.6999775317455876
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 9
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.6948993798842265
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 10
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.7875414729775855
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 11
+Previous coverage:0.6202861579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0009088010204081716
+Present crossover rate:0.7882571914718413
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 12
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.7875659582841666
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 13
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3358661848780244
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 14
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.5153823363978727
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 15
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.5261123942288116
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 16
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.5689390276850932
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 17
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.5651496575921258
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 18
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.5646540703605
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 19
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.5705017286546575
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 20
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.7133499447248549
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 21
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.7085987379789248
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 22
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.7079773583458119
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 23
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.6461250589106292
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 24
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.6528164452976778
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 25
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.648080434645238
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 26
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.6547920712522582
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 27
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.6500417279560354
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 28
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.6575688601686488
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 29
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.6524285338004855
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 30
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.6660118396373962
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 31
+Previous coverage:0.708340727595386
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Reward:-0.006795242038650125
+Present crossover rate:0.6614861279864535
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 32
+Previous coverage:0.6272306023858819
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0094267830032507
+Present crossover rate:0.6677218141746423
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 33
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.6632745097185736
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 34
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.6626928755024619
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 35
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3130945792287109
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 36
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.31633704255127876
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 37
+Previous coverage:0.708340727595386
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.0014600091801698777
+Present crossover rate:0.31679889753743146
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 38
+Previous coverage:0.7225377107364684
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:-0.0005212899388565976
+Present crossover rate:0.31663375345950434
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 39
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.3141585741580682
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 40
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.31741205640195475
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 41
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.31741205640195475
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 42
+Previous coverage:0.708340727595386
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:-0.0061937484533436254
+Present crossover rate:0.3154460859685425
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 43
+Previous coverage:0.6359111579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.009459643532332652
+Present crossover rate:0.31843009349547446
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 44
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.31843009349547446
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 45
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.31594087190187337
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 46
+Previous coverage:0.6202861579414374
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.011074133906870882
+Present crossover rate:0.32297716081040845
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 47
+Previous coverage:0.713609139307897
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007590462366421051
+Present crossover rate:0.3205256148260635
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 48
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3205256148260635
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 49
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.32384503527906927
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 50
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.32384503527906927
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 51
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.32149562519930014
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 52
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.32149562519930014
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 53
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3248250912527934
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 54
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3248250912527934
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 55
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3248250912527934
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 56
+Previous coverage:0.708340727595386
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.000532392403645607
+Present crossover rate:0.32499802566388986
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 57
+Previous coverage:0.713609139307897
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00036869532543545164
+Present crossover rate:0.32511785091672785
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 58
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.3225763499986351
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 59
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.32253309770525784
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 60
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3222502641533798
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 61
+Previous coverage:0.708340727595386
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.000532392403645607
+Present crossover rate:0.32242182774608785
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 62
+Previous coverage:0.713609139307897
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0005212899388565976
+Present crossover rate:0.32225375249121607
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 63
+Previous coverage:0.708340727595386
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Reward:0.000704089506172837
+Present crossover rate:0.3224806479766699
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 64
+Previous coverage:0.7152851720398304
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0006847993827160469
+Present crossover rate:0.32225981342799764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 65
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.32225981342799764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 66
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.32225981342799764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 67
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.32225981342799764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 68
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.32225981342799764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 69
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.32225981342799764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 70
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.32225981342799764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 71
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.32255268347527755
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 72
+Previous coverage:0.7172692990239574
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.007254735518006439
+Present crossover rate:0.32021264906604113
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 73
+Previous coverage:0.6292147293700089
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010356178412783268
+Present crossover rate:0.323528828389799
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 74
+Previous coverage:0.7172692990239574
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.000532392403645607
+Present crossover rate:0.3237010726803941
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 75
+Previous coverage:0.7225377107364684
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0013793874480466065
+Present crossover rate:0.3232545634838196
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 76
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3232545634838196
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 77
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.32090943712075587
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 78
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3242328325059243
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 79
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3245274956349555
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 80
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3245274956349555
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 81
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3242429131690766
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 82
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.32189061659044704
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 83
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.3293884160015577
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 84
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.3268135313579843
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 85
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3268135313579843
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 86
+Previous coverage:0.6202861579414374
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Reward:0.0007040895061728484
+Present crossover rate:0.32704363733588876
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 87
+Previous coverage:0.6272306023858819
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0094267830032507
+Present crossover rate:0.330126606737648
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 88
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.330126606737648
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 89
+Previous coverage:0.708340727595386
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.0014600091801698777
+Present crossover rate:0.3306085946141033
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 90
+Previous coverage:0.7225377107364684
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.008134079269704102
+Present crossover rate:0.3279193980982667
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 91
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3279193980982667
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 92
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3279193980982667
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 93
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3313153898899848
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 94
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3316164896543938
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 95
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.33132569075562157
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 96
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33132569075562157
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 97
+Previous coverage:0.708340727595386
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:-0.0061937484533436254
+Present crossover rate:0.32927354277095094
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 98
+Previous coverage:0.6359111579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.001513671875
+Present crossover rate:0.32877513067007696
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 99
+Previous coverage:0.6202861579414374
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:0.0016113281250000001
+Present crossover rate:0.32930489528492624
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 100
+Previous coverage:0.6359111579414374
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.32930489528492624
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 101
+Previous coverage:0.6359111579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.009459643532332652
+Present crossover rate:0.3324200022077738
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 102
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.3298214191449821
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 103
+Previous coverage:0.6202861579414374
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:0.0016113281250000001
+Present crossover rate:0.33035286967387784
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 104
+Previous coverage:0.6359111579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.008292165477446104
+Present crossover rate:0.33309221033516284
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 105
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.33339492487580547
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 106
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3328104643843742
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 107
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.33039601248764067
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 108
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3338176525398348
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 109
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.33412102636309327
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 110
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.33382803120285776
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 111
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3314061971279842
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 112
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3348382988325436
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 113
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3348382988325436
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 114
+Previous coverage:0.708340727595386
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.000532392403645607
+Present crossover rate:0.33501656419929166
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 115
+Previous coverage:0.713609139307897
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00036869532543545164
+Present crossover rate:0.33514008324045536
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 116
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33514008324045536
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 117
+Previous coverage:0.7172692990239574
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.007254735518006439
+Present crossover rate:0.33270873057506317
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 118
+Previous coverage:0.6292147293700089
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010356178412783268
+Present crossover rate:0.33615432154838915
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 119
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.33585954336463336
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 120
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3334229712063245
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 121
+Previous coverage:0.6202861579414374
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Reward:0.011304863945772643
+Present crossover rate:0.3371922725322073
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 122
+Previous coverage:0.7152851720398304
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00019920005039052586
+Present crossover rate:0.337259441249887
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 123
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.33462302747821876
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 124
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.33808844325180887
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 125
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.33839569837402433
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 126
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.33809895469719764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 127
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33809895469719764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 128
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33809895469719764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 129
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33809895469719764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 130
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33809895469719764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 131
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3387137632897033
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 132
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3384167406975328
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 133
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3359616167489064
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 134
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3394408951918052
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 135
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.3371800779267224
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 136
+Previous coverage:0.6292147293700089
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.009164784541570192
+Present crossover rate:0.3402702606926306
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 137
+Previous coverage:0.708340727595386
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Reward:0.0016113281250000001
+Present crossover rate:0.3408185477337858
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 138
+Previous coverage:0.723965727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.001513671875
+Present crossover rate:0.34030266028360284
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 139
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.33803610330528694
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 140
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.33773967496214613
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 141
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.33773967496214613
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 142
+Previous coverage:0.6202861579414374
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Reward:0.012517847598120463
+Present crossover rate:0.34196744874116103
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 143
+Previous coverage:0.723965727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.008218066332669268
+Present crossover rate:0.33915713756379245
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 144
+Previous coverage:0.6202861579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0009088010204081716
+Present crossover rate:0.3394653639164891
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 145
+Previous coverage:0.6292147293700089
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010356178412783268
+Present crossover rate:0.3429809277901687
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 146
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.3402997881959903
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 147
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3438239935163804
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 148
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3438239935163804
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 149
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3441364611125289
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 150
+Previous coverage:0.7172692990239574
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.007254735518006439
+Present crossover rate:0.34163984210505477
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 151
+Previous coverage:0.6292147293700089
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.009164784541570192
+Present crossover rate:0.3447708976487636
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 152
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.34226967597201613
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 153
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.34226967597201613
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 154
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.34581428180166784
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 155
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.34330549064884736
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 156
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3468608235600949
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 157
+Previous coverage:0.708340727595386
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Reward:-0.006795242038650125
+Present crossover rate:0.34450382031027854
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 158
+Previous coverage:0.6272306023858819
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0094267830032507
+Present crossover rate:0.34775138306813436
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 159
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.34775138306813436
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 160
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.34775138306813436
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 161
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.34775138306813436
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 162
+Previous coverage:0.708340727595386
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:-0.0061937484533436254
+Present crossover rate:0.34559749847710797
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 163
+Previous coverage:0.6359111579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.009459643532332652
+Present crossover rate:0.3488667276183673
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 164
+Previous coverage:0.7172692990239574
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Reward:-0.00019762534643486955
+Present crossover rate:0.34879778271046213
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 165
+Previous coverage:0.7152851720398304
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0006847993827160469
+Present crossover rate:0.3485589262041693
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 166
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3435198656302437
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 167
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.34707741864704583
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 168
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.34707741864704583
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 169
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.34707741864704583
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 170
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3445594637704891
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 171
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.3485492763123127
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 172
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3485492763123127
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 173
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.3458246080012663
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 174
+Previous coverage:0.6202861579414374
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Reward:0.011304863945772643
+Present crossover rate:0.3497341081438208
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 175
+Previous coverage:0.7152851720398304
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.007125420046706348
+Present crossover rate:0.34724210571863584
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 176
+Previous coverage:0.6292147293700089
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Reward:0.010088668487257965
+Present crossover rate:0.3507453162080485
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 177
+Previous coverage:0.7152851720398304
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007694938873905969
+Present crossover rate:0.34804635243951876
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 178
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.35165078256130083
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 179
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.35165078256130083
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 180
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.35165078256130083
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 181
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.35165049212613453
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 182
+Previous coverage:0.7172692990239574
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.000532392403645607
+Present crossover rate:0.3518377081768807
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 183
+Previous coverage:0.7225377107364684
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:-0.0005212899388565976
+Present crossover rate:0.3516542987194977
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 184
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3516542987194977
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 185
+Previous coverage:0.7172692990239574
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.007254735518006439
+Present crossover rate:0.3491031397885177
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 186
+Previous coverage:0.6292147293700089
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010356178412783268
+Present crossover rate:0.3490656983262011
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 187
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3490656983262011
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 188
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.3436296185366348
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 189
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.3476086639727304
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 190
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.34489134858653225
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 191
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.34888500417532076
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 192
+Previous coverage:0.7172692990239574
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:-0.00036333661777662317
+Present crossover rate:0.3487582414779107
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 193
+Previous coverage:0.713609139307897
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0005212899388565976
+Present crossover rate:0.34857643731553495
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 194
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.3462547735477125
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 195
+Previous coverage:0.6292147293700089
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3462547735477125
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 196
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.34595113814361295
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 197
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3459140347348323
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 198
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3459140347348323
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 199
+Previous coverage:0.708340727595386
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.0014600091801698777
+Present crossover rate:0.3459132973752032
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 200
+Previous coverage:0.7225377107364684
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0013793874480466065
+Present crossover rate:0.344959658626777
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 201
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.344959658626777
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 202
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.344959658626777
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 203
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.34037981238597864
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 204
+Previous coverage:0.6292147293700089
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.009164784541570192
+Present crossover rate:0.3403512227705564
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 205
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3354308196506952
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 206
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3354308196506952
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 207
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3354308196506952
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 208
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.33890460106414394
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 209
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.33921259791141206
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 210
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33921259791141206
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 211
+Previous coverage:0.7172692990239574
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:-0.006811984684171357
+Present crossover rate:0.3369018868897616
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 212
+Previous coverage:0.6359111579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.0006606744260204005
+Present crossover rate:0.3366793044290155
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 213
+Previous coverage:0.6292147293700089
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010356178412783268
+Present crossover rate:0.34016601537357416
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 214
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.33750688042316096
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 215
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.33750688042316096
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 216
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.33750688042316096
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 217
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.337470682664663
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 218
+Previous coverage:0.708340727595386
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Reward:0.0016113281250000001
+Present crossover rate:0.33746980646309677
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 219
+Previous coverage:0.723965727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.001513671875
+Present crossover rate:0.3364489425653665
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 220
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.331584954085476
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 221
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.331584954085476
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 222
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.331549391456132
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 223
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.32675623500195766
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 224
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3335591714834365
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 225
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3335588959904809
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 226
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.328364307172907
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 227
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.328364307172907
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 228
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3352007230854257
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 229
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3352004462366809
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 230
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3346128205623895
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 231
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3346128205623895
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 232
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3297753766042385
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 233
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3297753766042385
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 234
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3297753766042385
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 235
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3297753766042385
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 236
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.33319058924049477
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 237
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33319058924049477
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 238
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33319058924049477
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 239
+Previous coverage:0.708340727595386
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Reward:0.0016113281250000001
+Present crossover rate:0.33372746860792335
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 240
+Previous coverage:0.723965727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.008218066332669268
+Present crossover rate:0.3309848741338696
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 241
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.33441261254233257
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 242
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33441261254233257
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 243
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.33471652706584837
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 244
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.3320999916820175
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 245
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.3359455302646843
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 246
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3356509351727749
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 247
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.33321587641172484
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 248
+Previous coverage:0.6202861579414374
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.011074133906870882
+Present crossover rate:0.33690595364700365
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 249
+Previous coverage:0.713609139307897
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:-0.006562402874961424
+Present crossover rate:0.3346950410481989
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 250
+Previous coverage:0.6359111579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.008292165477446104
+Present crossover rate:0.3374703877130512
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 251
+Previous coverage:0.708340727595386
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.000532392403645607
+Present crossover rate:0.337650054383925
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 252
+Previous coverage:0.713609139307897
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0005212899388565976
+Present crossover rate:0.33747404080772025
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 253
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3350257558974673
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 254
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.33849534239841905
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 255
+Previous coverage:0.708340727595386
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.0014600091801698777
+Present crossover rate:0.33898954870576553
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 256
+Previous coverage:0.7225377107364684
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:-0.0005212899388565976
+Present crossover rate:0.3388128368646477
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 257
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3385157273935451
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 258
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.33626107213003903
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 259
+Previous coverage:0.6292147293700089
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.009164784541570192
+Present crossover rate:0.3393428324058282
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 260
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.33965122751818677
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 261
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.33935338285119854
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 262
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.33966178755181264
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 263
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3393639336245909
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 264
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3393639336245909
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 265
+Previous coverage:0.708340727595386
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.0014600091801698777
+Present crossover rate:0.3398594080831014
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 266
+Previous coverage:0.7225377107364684
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:-0.0005212899388565976
+Present crossover rate:0.3395051698574657
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 267
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.33685120084759124
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 268
+Previous coverage:0.6202861579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0009088010204081716
+Present crossover rate:0.33685092263568506
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 269
+Previous coverage:0.6292147293700089
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.009164784541570192
+Present crossover rate:0.33993808876427023
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 270
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33993808876427023
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 271
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3402470248462148
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 272
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3399486577166462
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 273
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3399486577166462
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 274
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.33748242011521057
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 275
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.34097744826910154
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 276
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.34097744826910154
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 277
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.34097744826910154
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 278
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3412873289220247
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 279
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.34098804953601203
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 280
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.341608111739352
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 281
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.341608111739352
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 282
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.341608111739352
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 283
+Previous coverage:0.7172692990239574
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.007254735518006439
+Present crossover rate:0.33666953797696153
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 284
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.33637430799308504
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 285
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.33637430799308504
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 286
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.33985786034013793
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 287
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.33739228144965466
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 288
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.33739228144965466
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 289
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.3412991018902012
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 290
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3409998121803166
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 291
+Previous coverage:0.708340727595386
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.0014600091801698777
+Present crossover rate:0.3414976750365361
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 292
+Previous coverage:0.7225377107364684
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0013793874480466065
+Present crossover rate:0.34102661743005364
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 293
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.33649898808908474
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 294
+Previous coverage:0.6292147293700089
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010356178412783268
+Present crossover rate:0.3399838316454563
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 295
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.33732612085588504
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 296
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.34081953034676066
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 297
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3383469747947237
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 298
+Previous coverage:0.6202861579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0009088010204081716
+Present crossover rate:0.33865446487066914
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 299
+Previous coverage:0.6292147293700089
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010356178412783268
+Present crossover rate:0.3421616309291554
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 300
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.34186158485611484
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 301
+Previous coverage:0.708340727595386
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Reward:0.000704089506172837
+Present crossover rate:0.34210228601057563
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 302
+Previous coverage:0.7152851720398304
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.0007357737331730465
+Present crossover rate:0.34235399588668064
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 303
+Previous coverage:0.7225377107364684
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.008134079269704102
+Present crossover rate:0.3368071780564965
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 304
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.3407072233156832
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 305
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3407072233156832
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 306
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3407072233156832
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 307
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.34040845263197206
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 308
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.34040845263197206
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 309
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3354872221491698
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 310
+Previous coverage:0.6202861579414374
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.011074133906870882
+Present crossover rate:0.3392024525712939
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 311
+Previous coverage:0.713609139307897
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007590462366421051
+Present crossover rate:0.3366277491204538
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 312
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3366277491204538
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 313
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.3405257166894457
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 314
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.34022710517130283
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 315
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.340536303911653
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 316
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3402376831094346
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 317
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.33776934870521635
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 318
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.34126734834277717
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 319
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3387915439896189
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 320
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.34271456713483117
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 321
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.34241403618469696
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 322
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3399299129145239
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 323
+Previous coverage:0.6202861579414374
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:0.0016113281250000001
+Present crossover rate:0.3404776515437319
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 324
+Previous coverage:0.6359111579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.009459643532332652
+Present crossover rate:0.3436984487580614
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 325
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.338345954371022
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 326
+Previous coverage:0.6202861579414374
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Reward:0.0007040895061728484
+Present crossover rate:0.3385841802069507
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 327
+Previous coverage:0.6272306023858819
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0094267830032507
+Present crossover rate:0.34177593980209514
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 328
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.33929644575241286
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 329
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.34281026027944805
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 330
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3431218065937964
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 331
+Previous coverage:0.7172692990239574
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Reward:0.0006786112882653095
+Present crossover rate:0.3433546529250009
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 332
+Previous coverage:0.723965727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.00767954948959663
+Present crossover rate:0.33810128433135045
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 333
+Previous coverage:0.6292147293700089
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.011074133906870868
+Present crossover rate:0.34184546322812087
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 334
+Previous coverage:0.7225377107364684
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0013793874480466065
+Present crossover rate:0.34137392588697235
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 335
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.34168416685915914
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 336
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.34138453948069525
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 337
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.34138453948069525
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 338
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.34138453948069525
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 339
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3389078849368264
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 340
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.3388624428476366
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 341
+Previous coverage:0.7172692990239574
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.007254735518006439
+Present crossover rate:0.33396356278069084
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 342
+Previous coverage:0.6292147293700089
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.009164784541570192
+Present crossover rate:0.3339355120870906
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 343
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.333935236283308
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 344
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3333498285948825
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 345
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3333498285948825
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 346
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3333498285948825
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 347
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3336527772592624
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 348
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.33336019271287753
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 349
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33336019271287753
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 350
+Previous coverage:0.708340727595386
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.000532392403645607
+Present crossover rate:0.3335376711471557
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 351
+Previous coverage:0.713609139307897
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0005212899388565976
+Present crossover rate:0.333363801314957
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 352
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.333363801314957
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 353
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.33094533510513974
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 354
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.33094533510513974
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 355
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.3309009606656439
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 356
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.3257477644815216
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 357
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.3257040869525385
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 358
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3257040869525385
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 359
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.3206318228688666
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 360
+Previous coverage:0.6202861579414374
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.011074133906870882
+Present crossover rate:0.3241825426101206
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 361
+Previous coverage:0.713609139307897
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00036869532543545164
+Present crossover rate:0.3243020671981687
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 362
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3240176824134764
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 363
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.324312150013884
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 364
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3240277563874369
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 365
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.321677020714353
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 366
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.321677020714353
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 367
+Previous coverage:0.6202861579414374
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Reward:0.012517847598120463
+Present crossover rate:0.3257037246354727
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 368
+Previous coverage:0.723965727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:-0.0006606744260204113
+Present crossover rate:0.3254885405141465
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 369
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.3254885405141465
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 370
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3252031152952645
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 371
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.32303712755444497
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 372
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.3227538520121061
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 373
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3260963484869565
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 374
+Previous coverage:0.708340727595386
+Present coverage:0.6272306023858819
+Present branch_coverage:0.5
+Reward:-0.006795242038650125
+Present crossover rate:0.32388044487106765
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 375
+Previous coverage:0.6272306023858819
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:0.000883125964506164
+Present crossover rate:0.3241664721013291
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 376
+Previous coverage:0.6359111579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.001513671875
+Present crossover rate:0.32367579042969136
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 377
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.32367579042969136
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 378
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.32367579042969136
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 379
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.32367579042969136
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 380
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.3270278346632799
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 381
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3273250378931237
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 382
+Previous coverage:0.7172692990239574
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:-0.006811984684171357
+Present crossover rate:0.32509530474825
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 383
+Previous coverage:0.6359111579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.008292165477446104
+Present crossover rate:0.3277910488111633
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 384
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.32541301144686835
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 385
+Previous coverage:0.6202861579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0009088010204081716
+Present crossover rate:0.32570874712372533
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 386
+Previous coverage:0.6292147293700089
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.009164784541570192
+Present crossover rate:0.33170620544970564
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 387
+Previous coverage:0.708340727595386
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:-0.0061937484533436254
+Present crossover rate:0.329651700652737
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 388
+Previous coverage:0.6359111579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.009459643532332652
+Present crossover rate:0.33591797464362483
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 389
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.3332920473420221
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 390
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.3332920473420221
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 391
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.33715138928556837
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 392
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.33685573675988745
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 393
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33685573675988745
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 394
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.33685573675988745
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 395
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.33441193748197123
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 396
+Previous coverage:0.6202861579414374
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.011074133906870882
+Present crossover rate:0.3343709263918673
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 397
+Previous coverage:0.713609139307897
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0005212899388565976
+Present crossover rate:0.33402240885534445
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 398
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.3340221329797921
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 399
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.3334365729564564
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 400
+Previous coverage:0.708340727595386
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.0014600091801698777
+Present crossover rate:0.33343586219411936
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 401
+Previous coverage:0.7225377107364684
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.007590462366421045
+Present crossover rate:0.32839320841377795
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 402
+Previous coverage:0.6292147293700089
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.00986392427954168
+Present crossover rate:0.3283612567390589
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 403
+Previous coverage:0.713609139307897
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0005212899388565976
+Present crossover rate:0.3280190031301009
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 404
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.32327688493455925
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 405
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.32323353871072935
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 406
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.31819974903869647
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 407
+Previous coverage:0.6202861579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0009088010204081716
+Present crossover rate:0.3187783723592488
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 408
+Previous coverage:0.6292147293700089
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010356178412783268
+Present crossover rate:0.3187441832413186
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 409
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.31818540634317755
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 410
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3135854508815199
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 411
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.31354340412291404
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 412
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.311092382601969
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 413
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.311092382601969
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 414
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.31105901780975537
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 415
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.3065620874058242
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 416
+Previous coverage:0.6202861579414374
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Reward:0.011304863945772643
+Present crossover rate:0.30652290878673977
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 417
+Previous coverage:0.7152851720398304
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007694938873905969
+Present crossover rate:0.3018237085539149
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 418
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.3017832388555299
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 419
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.2970834995988833
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 420
+Previous coverage:0.6202861579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0009088010204081716
+Present crossover rate:0.29708325423188886
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 421
+Previous coverage:0.6292147293700089
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.009164784541570192
+Present crossover rate:0.29705830123621224
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 422
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.29276377694955
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 423
+Previous coverage:0.6202861579414374
+Present coverage:0.723965727595386
+Present branch_coverage:0.6
+Reward:0.012517847598120463
+Present crossover rate:0.29271790188788976
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 424
+Previous coverage:0.723965727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.00767954948959663
+Present crossover rate:0.2882392818386867
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 425
+Previous coverage:0.6292147293700089
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010356178412783268
+Present crossover rate:0.28820836805138683
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 426
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.28372003335605417
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 427
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.28368960426010337
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 428
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.28368960426010337
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 429
+Previous coverage:0.708340727595386
+Present coverage:0.713609139307897
+Present branch_coverage:0.6
+Reward:0.000532392403645607
+Present crossover rate:0.2836895238506478
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 430
+Previous coverage:0.713609139307897
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007590462366421051
+Present crossover rate:0.27939919934723284
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 431
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.27939919934723284
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 432
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.27939919934723284
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 433
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.27939919934723284
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 434
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.27939919934723284
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 435
+Previous coverage:0.6202861579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0009088010204081716
+Present crossover rate:0.2796531176247008
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 436
+Previous coverage:0.6292147293700089
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.010356178412783268
+Present crossover rate:0.28254925520451324
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 437
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.28230148401452204
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 438
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.28230148401452204
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 439
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.28025346141165597
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 440
+Previous coverage:0.6202861579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0009088010204081716
+Present crossover rate:0.28050815604335977
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 441
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.2802621747202988
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 442
+Previous coverage:0.6202861579414374
+Present coverage:0.6359111579414374
+Present branch_coverage:0.5
+Reward:0.0016113281250000001
+Present crossover rate:0.2807137690447993
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 443
+Previous coverage:0.6359111579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.009459643532332652
+Present crossover rate:0.28336922123458064
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 444
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.28115407637588946
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 445
+Previous coverage:0.6202861579414374
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.011579460039098401
+Present crossover rate:0.2844096887681137
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 446
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.2841602861392513
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 447
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.2841602861392513
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 448
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.2841602861392513
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 449
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.2800522263912104
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 450
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.2800522263912104
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 451
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.2800522263912104
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 452
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.2800522263912104
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 453
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.2800221906691386
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 454
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.2800221906691386
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 455
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.2800221906691386
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 456
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.2781571266410892
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 457
+Previous coverage:0.6292147293700089
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.2781571266410892
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 458
+Previous coverage:0.6292147293700089
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.009164784541570192
+Present crossover rate:0.2781337633128651
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 459
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.27813353359682347
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 460
+Previous coverage:0.7172692990239574
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007817168177405607
+Present crossover rate:0.2738020965978966
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 461
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.2738020965978966
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 462
+Previous coverage:0.6202861579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0009088010204081716
+Present crossover rate:0.2738018704594621
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 463
+Previous coverage:0.6292147293700089
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.2738018704594621
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 464
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.2733218800222257
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 465
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.2732925661327048
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 466
+Previous coverage:0.708340727595386
+Present coverage:0.7225377107364684
+Present branch_coverage:0.6
+Reward:0.0014600091801698777
+Present crossover rate:0.27329198357494494
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 467
+Previous coverage:0.7225377107364684
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0013793874480466065
+Present crossover rate:0.2725385525066717
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 468
+Previous coverage:0.708340727595386
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Reward:0.000704089506172837
+Present crossover rate:0.27273044404151914
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 469
+Previous coverage:0.7152851720398304
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00019920005039052586
+Present crossover rate:0.2727304332193951
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 470
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.27225232107330577
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 471
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.27225232107330577
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 472
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.2722520962148608
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 473
+Previous coverage:0.7172692990239574
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.007254735518006439
+Present crossover rate:0.26831619126144324
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 474
+Previous coverage:0.6292147293700089
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.009164784541570192
+Present crossover rate:0.2682936545056176
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 475
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.2682936545056176
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 476
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.2682936545056176
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 477
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.2682936545056176
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 478
+Previous coverage:0.708340727595386
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.007254735518006446
+Present crossover rate:0.2644149761100405
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 479
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.2643866174898059
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 480
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.2643866174898059
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 481
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.26438639912779727
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 482
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.26438639912779727
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 483
+Previous coverage:0.7172692990239574
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.007254735518006439
+Present crossover rate:0.2605642072974648
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 484
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.2601074232456284
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 485
+Previous coverage:0.6202861579414374
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0009088010204081716
+Present crossover rate:0.26010720841788887
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 486
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.2596512255113903
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 487
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.2596512255113903
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 488
+Previous coverage:0.6202861579414374
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.2596512255113903
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 489
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.2623402199278841
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 490
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.2623402199278841
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 491
+Previous coverage:0.708340727595386
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:-0.006660415103505237
+Present crossover rate:0.2605929251648195
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 492
+Previous coverage:0.6292147293700089
+Present coverage:0.6292147293700089
+Present branch_coverage:0.5
+Reward:0.0
+Present crossover rate:0.2605929251648195
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 493
+Previous coverage:0.6292147293700089
+Present coverage:0.6202861579414374
+Present branch_coverage:0.5
+Reward:-0.0008769132653061301
+Present crossover rate:0.26036440777189757
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 494
+Previous coverage:0.6202861579414374
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.010356178412783284
+Present crossover rate:0.263060788031122
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 495
+Previous coverage:0.708340727595386
+Present coverage:0.7152851720398304
+Present branch_coverage:0.6
+Reward:0.000704089506172837
+Present crossover rate:0.26324600637146023
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 496
+Previous coverage:0.7152851720398304
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00019920005039052586
+Present crossover rate:0.2632984449891945
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 497
+Previous coverage:0.7172692990239574
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:-0.0008769132653061194
+Present crossover rate:0.26306755509004903
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 498
+Previous coverage:0.708340727595386
+Present coverage:0.708340727595386
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.26306755509004903
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 499
+Previous coverage:0.708340727595386
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.00090880102040816
+Present crossover rate:0.26330663115255115
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 500
+Previous coverage:0.7172692990239574
+Present coverage:0.7172692990239574
+Present branch_coverage:0.6
+Reward:0.0
+Present crossover rate:0.26330663115255115
+Present class:com.imsmart.main.MMigrater(Fixed seed After RL)
+-------------------------------------------------------

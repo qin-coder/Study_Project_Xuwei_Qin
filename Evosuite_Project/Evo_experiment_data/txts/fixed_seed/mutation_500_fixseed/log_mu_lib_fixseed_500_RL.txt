@@ -1,0 +1,4501 @@
+
+------------------------QLearning------------------------
+Episodes : 1
+Previous coverage:0.6096638655462184
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0021530612244898216
+Present mutation rate:0.5505266095434392
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 2
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.5297617935593578
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 3
+Previous coverage:0.4782881334351923
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0063368055555555495
+Present mutation rate:0.5331187910359058
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 4
+Previous coverage:0.4991214667685256
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.03807554066838209
+Present mutation rate:0.5534175772450721
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 5
+Previous coverage:0.6168067226890757
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.01782951809795382
+Present mutation rate:0.5435504085358553
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 6
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.5317085083041032
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 7
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5745582380904819
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 8
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.653159143344566
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 9
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.46545060296785956
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 10
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5379763793214887
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 11
+Previous coverage:0.4782881334351923
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.052884183822613444
+Present mutation rate:0.5664268210577503
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 12
+Previous coverage:0.6376400560224089
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.042726969729716534
+Present mutation rate:0.5422251194203163
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 13
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.5668383750048734
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 14
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.445080602139263
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 15
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.42829300887620436
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 16
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.4857142857142857
+Reward:0.04539305668994222
+Present mutation rate:0.44773453770802785
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 17
+Previous coverage:0.6168067226890757
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.006336805555555533
+Present mutation rate:0.45057174441399017
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 18
+Previous coverage:0.6376400560224089
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.023476096805194274
+Present mutation rate:0.4399940785244421
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 19
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.019366814980732214
+Present mutation rate:0.4485153624358427
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 20
+Previous coverage:0.6168067226890757
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.01782951809795382
+Present mutation rate:0.44051854966408255
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 21
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.4309213225560946
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 22
+Previous coverage:0.4782881334351923
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.031103127598470927
+Present mutation rate:0.4443243234364587
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 23
+Previous coverage:0.5756461675579323
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.006163194444444455
+Present mutation rate:0.4415858662347236
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 24
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.4319653863499063
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 25
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.6685138625534854
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 26
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.6988597502143881
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 27
+Previous coverage:0.6168067226890757
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.01782951809795382
+Present mutation rate:0.6863994176500091
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 28
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.4857142857142857
+Reward:0.019366814980732214
+Present mutation rate:0.6996927881745192
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 29
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.6733017078162384
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 30
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.7038649304085759
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 31
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.6773164847853874
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 32
+Previous coverage:0.4782881334351923
+Present coverage:0.6304971988795518
+Present branch_coverage:0.4857142857142857
+Reward:0.05029623955399692
+Present mutation rate:0.7113829569580244
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 33
+Previous coverage:0.6304971988795518
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:-0.004069657029478443
+Present mutation rate:0.708487872306589
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 34
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.6817650581131021
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 35
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.6982151055409316
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 36
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.019366814980732214
+Present mutation rate:0.7117373083066952
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 37
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.6848919315714082
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 38
+Previous coverage:0.4782881334351923
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.031103127598470927
+Present mutation rate:0.706194212710237
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 39
+Previous coverage:0.5756461675579323
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.01936681498073218
+Present mutation rate:0.71987094536826
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 40
+Previous coverage:0.6376400560224089
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.023476096805194274
+Present mutation rate:0.7029711853675481
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 41
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.6876561115267565
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 42
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.37634549910720616
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 43
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.37634549910720616
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 44
+Previous coverage:0.4782881334351923
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.04286463623084946
+Present mutation rate:0.3924774120235541
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 45
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.3783636091137878
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 46
+Previous coverage:0.4782881334351923
+Present coverage:0.6988668194550548
+Present branch_coverage:0.6571428571428571
+Reward:0.07590459715120858
+Present mutation rate:0.40708314644024723
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 47
+Previous coverage:0.6988668194550548
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.033929529758346386
+Present mutation rate:0.3932710067089816
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 48
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.3720825648838453
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 49
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.3810604022877568
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 50
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.3727585425240633
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 51
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.3896791921765184
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 52
+Previous coverage:0.6168067226890757
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.01782951809795382
+Present mutation rate:0.38273139996721117
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 53
+Previous coverage:0.5548128342245989
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.006336805555555567
+Present mutation rate:0.38515669442880895
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 54
+Previous coverage:0.5756461675579323
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.010436750151770289
+Present mutation rate:0.3891764786178442
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 55
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.3751813799241148
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 56
+Previous coverage:0.4782881334351923
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0063368055555555495
+Present mutation rate:0.37755883137675894
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 57
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.37755883137675894
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 58
+Previous coverage:0.4991214667685256
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.017327715918647478
+Present mutation rate:0.38410106354943196
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 59
+Previous coverage:0.5548128342245989
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.016087104554996526
+Present mutation rate:0.3779219895804269
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 60
+Previous coverage:0.4991214667685256
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.035606644018813145
+Present mutation rate:0.39137852333029877
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 61
+Previous coverage:0.6096638655462184
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.008549390589569165
+Present mutation rate:0.39472457119461835
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 62
+Previous coverage:0.6376400560224089
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.017829518097953793
+Present mutation rate:0.38768682230879686
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 63
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.3667992421395815
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 64
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.3667992421395815
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 65
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.3834493809318514
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 66
+Previous coverage:0.6168067226890757
+Present coverage:0.6376400560224089
+Present branch_coverage:0.4857142857142857
+Reward:0.006336805555555533
+Present mutation rate:0.38587922509921463
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 67
+Previous coverage:0.6376400560224089
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:-0.0061631944444444225
+Present mutation rate:0.38350097640285663
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 68
+Previous coverage:0.6168067226890757
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.01782951809795382
+Present mutation rate:0.37666333880349895
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 69
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.019366814980732214
+Present mutation rate:0.38395810799613117
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 70
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.3694759388876339
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 71
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.37839088201329807
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 72
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.3701471809636086
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 73
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.3701471809636086
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 74
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.3701471809636086
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 75
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.386949292932712
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 76
+Previous coverage:0.6168067226890757
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.006336805555555533
+Present mutation rate:0.3894013153618863
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 77
+Previous coverage:0.6376400560224089
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.037718096862387786
+Present mutation rate:0.37471383883072545
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 78
+Previous coverage:0.4991214667685256
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.03807554066838209
+Present mutation rate:0.38898127084013034
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 79
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.38898127084013034
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 80
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.3743096375889276
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 81
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.3743096375889276
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 82
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.3833412111753962
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 83
+Previous coverage:0.5548128342245989
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.017057036523894904
+Present mutation rate:0.38987987621552905
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 84
+Previous coverage:0.6096638655462184
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.38987987621552905
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 85
+Previous coverage:0.6096638655462184
+Present coverage:0.6304971988795518
+Present branch_coverage:0.4857142857142857
+Reward:0.006336805555555567
+Present mutation rate:0.3923504691811309
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 86
+Previous coverage:0.6304971988795518
+Present coverage:0.6304971988795518
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.3923504691811309
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 87
+Previous coverage:0.6304971988795518
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.04102919971261879
+Present mutation rate:0.37625264342375864
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 88
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.37625264342375864
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 89
+Previous coverage:0.4782881334351923
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0063368055555555495
+Present mutation rate:0.37863688326489875
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 90
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.37630327052949875
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 91
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.37630327052949875
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 92
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.38538294772004006
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 93
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.019366814980732214
+Present mutation rate:0.3928465879652633
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 94
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.37802916230833095
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 95
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.37802916230833095
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 96
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.38715048287921167
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 97
+Previous coverage:0.5548128342245989
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.017057036523894904
+Present mutation rate:0.3937541228059259
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 98
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.37959440835118113
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 99
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.37959440835118113
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 100
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.3968253588486514
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 101
+Previous coverage:0.6168067226890757
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.006336805555555533
+Present mutation rate:0.4018705036895382
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 102
+Previous coverage:0.6376400560224089
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.042726969729716534
+Present mutation rate:0.38469979484312933
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 103
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.38469979484312933
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 104
+Previous coverage:0.4782881334351923
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.031103127598470927
+Present mutation rate:0.3966651616492408
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 105
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.38583156457999584
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 106
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.40334563866374473
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 107
+Previous coverage:0.6168067226890757
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.01200932827960223
+Present mutation rate:0.398501728478886
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 108
+Previous coverage:0.5756461675579323
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.006163194444444455
+Present mutation rate:0.3960456848398234
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 109
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.38741735264939736
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 110
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.3866190677283925
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 111
+Previous coverage:0.6168067226890757
+Present coverage:0.7060096765979119
+Present branch_coverage:0.6857142857142857
+Reward:0.028352319569863272
+Present mutation rate:0.3863082824346605
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 112
+Previous coverage:0.7060096765979119
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:-0.025169452775438483
+Present mutation rate:0.3671066731112639
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 113
+Previous coverage:0.6168067226890757
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.01200932827960223
+Present mutation rate:0.3626979685602381
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 114
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.3527920730364717
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 115
+Previous coverage:0.4782881334351923
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.052884183822613444
+Present mutation rate:0.37144919387809333
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 116
+Previous coverage:0.6376400560224089
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.042726969729716534
+Present mutation rate:0.3555782954151364
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 117
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.3555782954151364
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 118
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.37171908113662877
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 119
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.3576985448287196
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 120
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.3576985448287196
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 121
+Previous coverage:0.4782881334351923
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.04286463623084946
+Present mutation rate:0.3730311628331069
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 122
+Previous coverage:0.6096638655462184
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0021530612244898216
+Present mutation rate:0.37383432176532916
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 123
+Previous coverage:0.6168067226890757
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.01782951809795382
+Present mutation rate:0.3671690359597779
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 124
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.3591698163405041
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 125
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.3591698163405041
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 126
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.3591698163405041
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 127
+Previous coverage:0.4782881334351923
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.04286463623084946
+Present mutation rate:0.3745654998630409
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 128
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.36109582369847276
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 129
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.36109582369847276
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 130
+Previous coverage:0.4782881334351923
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0063368055555555495
+Present mutation rate:0.36338401772017315
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 131
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.36114441136096026
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 132
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.36114441136096026
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 133
+Previous coverage:0.4782881334351923
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.04286463623084946
+Present mutation rate:0.3766247351807521
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 134
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.3630810072605195
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 135
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.37956236400613763
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 136
+Previous coverage:0.6168067226890757
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.03253561288394795
+Present mutation rate:0.3672130698655178
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 137
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.36494986431339527
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 138
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.38151605419316
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 139
+Previous coverage:0.6168067226890757
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.006336805555555533
+Present mutation rate:0.3839336472449048
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 140
+Previous coverage:0.6376400560224089
+Present coverage:0.7197001527883881
+Present branch_coverage:0.6571428571428571
+Reward:0.02596480092604211
+Present mutation rate:0.383674810357343
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 141
+Previous coverage:0.7197001527883881
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:-0.0287506174382733
+Present mutation rate:0.372643922664057
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 142
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.35858850309383394
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 143
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.35858850309383394
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 144
+Previous coverage:0.4782881334351923
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.052884183822613444
+Present mutation rate:0.3775521634081241
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 145
+Previous coverage:0.6376400560224089
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.023476096805194274
+Present mutation rate:0.36868871227094446
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 146
+Previous coverage:0.5548128342245989
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.016087104554996526
+Present mutation rate:0.36275757840839473
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 147
+Previous coverage:0.4991214667685256
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.017327715918647478
+Present mutation rate:0.36904333867439193
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 148
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.36100328511331253
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 149
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.36100328511331253
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 150
+Previous coverage:0.4782881334351923
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0063368055555555495
+Present mutation rate:0.36329089273599235
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 151
+Previous coverage:0.4991214667685256
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.017327715918647478
+Present mutation rate:0.3695858941211535
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 152
+Previous coverage:0.5548128342245989
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.026220236273491716
+Present mutation rate:0.3792765235883599
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 153
+Previous coverage:0.6376400560224089
+Present coverage:0.7060096765979119
+Present branch_coverage:0.6857142857142857
+Reward:0.02144576717617855
+Present mutation rate:0.3874103996086262
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 154
+Previous coverage:0.7060096765979119
+Present coverage:0.6304971988795518
+Present branch_coverage:0.4857142857142857
+Reward:-0.02151331645727487
+Present mutation rate:0.37907591708300653
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 155
+Previous coverage:0.6304971988795518
+Present coverage:0.7268430099312453
+Present branch_coverage:0.6857142857142857
+Reward:0.03076024637694977
+Present mutation rate:0.390736385688048
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 156
+Previous coverage:0.7268430099312453
+Present coverage:0.6376400560224089
+Present branch_coverage:0.4857142857142857
+Reward:-0.02516945277543851
+Present mutation rate:0.3809017646808272
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 157
+Previous coverage:0.6376400560224089
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:-0.0061631944444444225
+Present mutation rate:0.37855419304086724
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 158
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.3505360575508051
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 159
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.3589940075487625
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 160
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.35117289076836933
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 161
+Previous coverage:0.4782881334351923
+Present coverage:0.7268430099312453
+Present branch_coverage:0.6857142857142857
+Reward:0.08692236827480954
+Present mutation rate:0.41487573555861973
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 162
+Previous coverage:0.7268430099312453
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.062210557622822266
+Present mutation rate:0.38906608470533943
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 163
+Previous coverage:0.4782881334351923
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.031103127598470927
+Present mutation rate:0.40116725678216714
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 164
+Previous coverage:0.5756461675579323
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.012687004799083787
+Present mutation rate:0.4062568676941977
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 165
+Previous coverage:0.6168067226890757
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.01782951809795382
+Present mutation rate:0.399013503519226
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 166
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.39032051382481225
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 167
+Previous coverage:0.4782881334351923
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.031103127598470927
+Present mutation rate:0.4024607025706062
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 168
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.39146881946767137
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 169
+Previous coverage:0.4782881334351923
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.04286463623084946
+Present mutation rate:0.40824898800987325
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 170
+Previous coverage:0.6096638655462184
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.030718795247802556
+Present mutation rate:0.3957080709370754
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 171
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.39326924515265416
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 172
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.4027582878333875
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 173
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.39398371350295597
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 174
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.4034899953163029
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 175
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.39469947985718223
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 176
+Previous coverage:0.4782881334351923
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.052884183822613444
+Present mutation rate:0.4155728397046394
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 177
+Previous coverage:0.6376400560224089
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.042726969729716534
+Present mutation rate:0.3978166715620869
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 178
+Previous coverage:0.4782881334351923
+Present coverage:0.7060096765979119
+Present branch_coverage:0.6857142857142857
+Reward:0.07868788319289798
+Present mutation rate:0.4628865696189474
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 179
+Previous coverage:0.7060096765979119
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.057945042704733815
+Present mutation rate:0.4360645875749298
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 180
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.4558588921191949
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 181
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.4386647622706623
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 182
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.4386647622706623
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 183
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.44924913596127297
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 184
+Previous coverage:0.5548128342245989
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.017057036523894904
+Present mutation rate:0.45691199488169265
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 185
+Previous coverage:0.6096638655462184
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.015853582269076794
+Present mutation rate:0.4496683029811077
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 186
+Previous coverage:0.5548128342245989
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.016087104554996526
+Present mutation rate:0.4424344419759828
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 187
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.43970763248116557
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 188
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.450317169186835
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 189
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.019366814980732214
+Present mutation rate:0.4590383784851235
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 190
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.4590383784851235
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 191
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.4417243244618682
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 192
+Previous coverage:0.4782881334351923
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0063368055555555495
+Present mutation rate:0.4445234456151422
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 193
+Previous coverage:0.4991214667685256
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994221
+Present mutation rate:0.4647017235819588
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 194
+Previous coverage:0.6376400560224089
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.023476096805194274
+Present mutation rate:0.45379234093360815
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 195
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.44390592829757647
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 196
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.45461676407170676
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 197
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.44471239038478305
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 198
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.44471239038478305
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 199
+Previous coverage:0.4782881334351923
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.04286463623084946
+Present mutation rate:0.443895286049641
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 200
+Previous coverage:0.6096638655462184
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.008549390589569165
+Present mutation rate:0.44769032023094796
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 201
+Previous coverage:0.6376400560224089
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:-0.0061631944444444225
+Present mutation rate:0.44493111773646904
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 202
+Previous coverage:0.6168067226890757
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.01200932827960223
+Present mutation rate:0.43958779388176145
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 203
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.4275819070635879
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 204
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.4378988667944736
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 205
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.4378988667944736
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 206
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.019366814980732214
+Present mutation rate:0.44637957312795445
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 207
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.44637957312795445
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 208
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.44637957312795445
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 209
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.44637957312795445
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 210
+Previous coverage:0.6168067226890757
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.03253561288394795
+Present mutation rate:0.4318563401373614
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 211
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.4291947255410287
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 212
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.4291947255410287
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 213
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.4291947255410287
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 214
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.4690440149903219
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 215
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.45135256740019364
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 216
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.45135256740019364
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 217
+Previous coverage:0.4782881334351923
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0063368055555555495
+Present mutation rate:0.4542127008568094
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 218
+Previous coverage:0.4991214667685256
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.017327715918647478
+Present mutation rate:0.4620831695038979
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 219
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.4620831695038979
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 220
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.452016131183061
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 221
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.4725345250506221
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 222
+Previous coverage:0.6168067226890757
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.006336805555555533
+Present mutation rate:0.47552888445415464
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 223
+Previous coverage:0.6376400560224089
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.042726969729716534
+Present mutation rate:0.4552109762024761
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 224
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.47587439385111907
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 225
+Previous coverage:0.6168067226890757
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.01200932827960223
+Present mutation rate:0.47015946203550424
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 226
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.45731861120603395
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 227
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.45731861120603395
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 228
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.47807770084987516
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 229
+Previous coverage:0.6168067226890757
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.006336805555555533
+Present mutation rate:0.48110718628060783
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 230
+Previous coverage:0.6376400560224089
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.042726969729716534
+Present mutation rate:0.4605509340956472
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 231
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.4716633908263759
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 232
+Previous coverage:0.5548128342245989
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.017057036523894904
+Present mutation rate:0.4797085705106855
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 233
+Previous coverage:0.6096638655462184
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.030718795247802556
+Present mutation rate:0.4649725011545517
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 234
+Previous coverage:0.4991214667685256
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.03807554066838209
+Present mutation rate:0.4826765805319412
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 235
+Previous coverage:0.6168067226890757
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.01200932827960223
+Present mutation rate:0.47687995902345726
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 236
+Previous coverage:0.5756461675579323
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.01936681498073218
+Present mutation rate:0.4861156049578837
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 237
+Previous coverage:0.6376400560224089
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:-0.008236323696145128
+Present mutation rate:0.48211179948170313
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 238
+Previous coverage:0.6096638655462184
+Present coverage:0.6988668194550548
+Present branch_coverage:0.6571428571428571
+Reward:0.028352319569863307
+Present mutation rate:0.49578078728901026
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 239
+Previous coverage:0.6988668194550548
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.033929529758346386
+Present mutation rate:0.4789591783130714
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 240
+Previous coverage:0.5756461675579323
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.012687004799083787
+Present mutation rate:0.4850357357068945
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 241
+Previous coverage:0.6168067226890757
+Present coverage:0.6376400560224089
+Present branch_coverage:0.4857142857142857
+Reward:0.006336805555555533
+Present mutation rate:0.4881093128515649
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 242
+Previous coverage:0.6376400560224089
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.023476096805194274
+Present mutation rate:0.47665041137154474
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 243
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.47665041137154474
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 244
+Previous coverage:0.5548128342245989
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.016087104554996526
+Present mutation rate:0.46898248636762857
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 245
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.46898248636762857
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 246
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.46609205611310583
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 247
+Previous coverage:0.4782881334351923
+Present coverage:0.7060096765979119
+Present branch_coverage:0.6857142857142857
+Reward:0.07868788319289798
+Present mutation rate:0.5027678533816715
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 248
+Previous coverage:0.7060096765979119
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.057945042704733815
+Present mutation rate:0.47363494864690325
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 249
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.49513468672117006
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 250
+Previous coverage:0.6168067226890757
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.01782951809795382
+Present mutation rate:0.48630667386335025
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 251
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.4757118973283876
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 252
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.4973059144518951
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 253
+Previous coverage:0.6168067226890757
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.03253561288394795
+Present mutation rate:0.48112576173439053
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 254
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.4752134940363753
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 255
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.4752134940363753
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 256
+Previous coverage:0.4782881334351923
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0063368055555555495
+Present mutation rate:0.4782248295454599
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 257
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.47527743693280994
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 258
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.47527743693280994
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 259
+Previous coverage:0.4782881334351923
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.052884183822613444
+Present mutation rate:0.5004120962743053
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 260
+Previous coverage:0.6376400560224089
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.023476096805194274
+Present mutation rate:0.4886643734596795
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 261
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.4886643734596795
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 262
+Previous coverage:0.5548128342245989
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.026220236273491716
+Present mutation rate:0.5014772687902301
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 263
+Previous coverage:0.6376400560224089
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.042726969729716534
+Present mutation rate:0.48005066470648905
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 264
+Previous coverage:0.4782881334351923
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0063368055555555495
+Present mutation rate:0.4830926524255492
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 265
+Previous coverage:0.4991214667685256
+Present coverage:0.7060096765979119
+Present branch_coverage:0.6857142857142857
+Reward:0.07062700922209754
+Present mutation rate:0.5172120416435361
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 266
+Previous coverage:0.7060096765979119
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.057945042704733815
+Present mutation rate:0.4872421678030988
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 267
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.4872421678030988
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 268
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.4872421678030988
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 269
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.4989986470679393
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 270
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.019366814980732214
+Present mutation rate:0.5086626615413398
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 271
+Previous coverage:0.6168067226890757
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:-0.0021326530612245155
+Present mutation rate:0.507577860559073
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 272
+Previous coverage:0.6096638655462184
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.015853582269076794
+Present mutation rate:0.49953093318873765
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 273
+Previous coverage:0.5548128342245989
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.017057036523894904
+Present mutation rate:0.5080514505609532
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 274
+Previous coverage:0.6096638655462184
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.030718795247802556
+Present mutation rate:0.49244472207582224
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 275
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.49244472207582224
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 276
+Previous coverage:0.4991214667685256
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.017327715918647478
+Present mutation rate:0.5009776643255894
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 277
+Previous coverage:0.5548128342245989
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.026220236273491716
+Present mutation rate:0.5141134170519485
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 278
+Previous coverage:0.6376400560224089
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.5141134170519485
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 279
+Previous coverage:0.6376400560224089
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.017829518097953793
+Present mutation rate:0.5049470225782199
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 280
+Previous coverage:0.5756461675579323
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.012687004799083787
+Present mutation rate:0.5113532878769528
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 281
+Previous coverage:0.6168067226890757
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.01200932827960223
+Present mutation rate:0.5052122783759845
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 282
+Previous coverage:0.5756461675579323
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.021786204270640368
+Present mutation rate:0.49420562047924965
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 283
+Previous coverage:0.4991214667685256
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.03807554066838209
+Present mutation rate:0.5130227666803504
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 284
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.49367252427409075
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 285
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.5160818291547314
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 286
+Previous coverage:0.6168067226890757
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.01200932827960223
+Present mutation rate:0.5098840330492747
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 287
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.49595823693667823
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 288
+Previous coverage:0.4782881334351923
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.04286463623084946
+Present mutation rate:0.5172173063486625
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 289
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.49861775666836866
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 290
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.49861775666836866
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 291
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.49861775666836866
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 292
+Previous coverage:0.4782881334351923
+Present coverage:0.7060096765979119
+Present branch_coverage:0.6857142857142857
+Reward:0.07868788319289798
+Present mutation rate:0.537852932462994
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 293
+Previous coverage:0.7060096765979119
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.057945042704733815
+Present mutation rate:0.5066870213225596
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 294
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5066870213225596
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 295
+Previous coverage:0.4782881334351923
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.04286463623084946
+Present mutation rate:0.5284059761744438
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 296
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.5094040729423129
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 297
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5094040729423129
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 298
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5094040729423129
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 299
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.5216952883105849
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 300
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.5216952883105849
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 301
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.5103295281924198
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 302
+Previous coverage:0.4782881334351923
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0063368055555555495
+Present mutation rate:0.5135633871818336
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 303
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5135633871818336
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 304
+Previous coverage:0.4991214667685256
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.035606644018813145
+Present mutation rate:0.5318496558903131
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 305
+Previous coverage:0.6096638655462184
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.5318496558903131
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 306
+Previous coverage:0.6096638655462184
+Present coverage:0.6168067226890757
+Present branch_coverage:0.4857142857142857
+Reward:0.0021530612244898216
+Present mutation rate:0.5329947607616687
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 307
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.5329947607616687
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 308
+Previous coverage:0.6168067226890757
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.01782951809795382
+Present mutation rate:0.523491721028554
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 309
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.523491721028554
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 310
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.523491721028554
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 311
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.523491721028554
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 312
+Previous coverage:0.5548128342245989
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.016087104554996526
+Present mutation rate:0.5150702549786926
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 313
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5150702549786926
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 314
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.5118957768447093
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 315
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5118957768447093
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 316
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5118957768447093
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 317
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5118957768447093
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 318
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.5242471135801338
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 319
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.5242471135801338
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 320
+Previous coverage:0.5548128342245989
+Present coverage:0.7268430099312453
+Present branch_coverage:0.6857142857142857
+Reward:0.05752792898272583
+Present mutation rate:0.5544059642995707
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 321
+Previous coverage:0.7268430099312453
+Present coverage:0.7268430099312453
+Present branch_coverage:0.6857142857142857
+Reward:0.0
+Present mutation rate:0.5544059642995707
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 322
+Previous coverage:0.7268430099312453
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.062210557622822266
+Present mutation rate:0.5199160601110759
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 323
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5199160601110759
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 324
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.5324609151832739
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 325
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.5324609151832739
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 326
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.019366814980732214
+Present mutation rate:0.5427729872120997
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 327
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.5427729872120997
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 328
+Previous coverage:0.6168067226890757
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.01200932827960223
+Present mutation rate:0.5362546482273692
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 329
+Previous coverage:0.5756461675579323
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.5362546482273692
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 330
+Previous coverage:0.5756461675579323
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.021786204270640368
+Present mutation rate:0.5245716949200073
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 331
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5245716949200073
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 332
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.5213386575641635
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 333
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5213386575641635
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 334
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5213386575641635
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 335
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.5213386575641635
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 336
+Previous coverage:0.4782881334351923
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.04286463623084946
+Present mutation rate:0.5203807618851063
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 337
+Previous coverage:0.6096638655462184
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.5203807618851063
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 338
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.48362708737959886
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 339
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.48362708737959886
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 340
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.48362708737959886
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 341
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.48362708737959886
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 342
+Previous coverage:0.4782881334351923
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.04286463623084946
+Present mutation rate:0.48273848207371095
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 343
+Previous coverage:0.6096638655462184
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.48273848207371095
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 344
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.4486434225693067
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 345
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.4486434225693067
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 346
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.4483822268013414
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 347
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.4483822268013414
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 348
+Previous coverage:0.5548128342245989
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.006336805555555567
+Present mutation rate:0.4483642219661014
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 349
+Previous coverage:0.5756461675579323
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.4483642219661014
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 350
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.42420749779489575
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 351
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.42420749779489575
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 352
+Previous coverage:0.4782881334351923
+Present coverage:0.7060096765979119
+Present branch_coverage:0.6857142857142857
+Reward:0.07868788319289798
+Present mutation rate:0.457587487830932
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 353
+Previous coverage:0.7060096765979119
+Present coverage:0.7060096765979119
+Present branch_coverage:0.6857142857142857
+Reward:0.0
+Present mutation rate:0.457587487830932
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 354
+Previous coverage:0.7060096765979119
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.04078695568326181
+Present mutation rate:0.4389238872435567
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 355
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.4389238872435567
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 356
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.4200072465717671
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 357
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.4200072465717671
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 358
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.4200072465717671
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 359
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.4200072465717671
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 360
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.41976272250253843
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 361
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.41976272250253843
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 362
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.41976272250253843
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 363
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.41976272250253843
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 364
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.410617686084898
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 365
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.410617686084898
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 366
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.40977159619022024
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 367
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.40977159619022024
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 368
+Previous coverage:0.6168067226890757
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.03253561288394795
+Present mutation rate:0.3835410264640749
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 369
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.3835410264640749
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 370
+Previous coverage:0.4991214667685256
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.006163194444444439
+Present mutation rate:0.3788279194097929
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 371
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.3788279194097929
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 372
+Previous coverage:0.4782881334351923
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.052884183822613444
+Present mutation rate:0.3777684373893657
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 373
+Previous coverage:0.6376400560224089
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.3777684373893657
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 374
+Previous coverage:0.6376400560224089
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.017829518097953793
+Present mutation rate:0.36441766846349016
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 375
+Previous coverage:0.5756461675579323
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.36441766846349016
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 376
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.34478377113425157
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 377
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.34478377113425157
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 378
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.34478377113425157
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 379
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.34478377113425157
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 380
+Previous coverage:0.4782881334351923
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.052884183822613444
+Present mutation rate:0.36301737946596924
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 381
+Previous coverage:0.6376400560224089
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.36301737946596924
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 382
+Previous coverage:0.6376400560224089
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:-0.0061631944444444225
+Present mutation rate:0.3607800327696078
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 383
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.3607800327696078
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 384
+Previous coverage:0.6168067226890757
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:-0.0021326530612245155
+Present mutation rate:0.360010614128293
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 385
+Previous coverage:0.6096638655462184
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.360010614128293
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 386
+Previous coverage:0.6096638655462184
+Present coverage:0.6304971988795518
+Present branch_coverage:0.4857142857142857
+Reward:0.006336805555555567
+Present mutation rate:0.3622919313879601
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 387
+Previous coverage:0.6304971988795518
+Present coverage:0.6304971988795518
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.3622919313879601
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 388
+Previous coverage:0.6304971988795518
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.04102919971261879
+Present mutation rate:0.3474273833807731
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 389
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.3474273833807731
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 390
+Previous coverage:0.4782881334351923
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.031103127598470927
+Present mutation rate:0.3470912805505444
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 391
+Previous coverage:0.5756461675579323
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.3470912805505444
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 392
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.32839088494421526
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 393
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.32839088494421526
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 394
+Previous coverage:0.4782881334351923
+Present coverage:0.6988668194550548
+Present branch_coverage:0.6571428571428571
+Reward:0.07590459715120858
+Present mutation rate:0.326498858276604
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 395
+Previous coverage:0.6988668194550548
+Present coverage:0.6988668194550548
+Present branch_coverage:0.6571428571428571
+Reward:0.0
+Present mutation rate:0.326498858276604
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 396
+Previous coverage:0.6988668194550548
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.05644261446070893
+Present mutation rate:0.2906821097696191
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 397
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.2906821097696191
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 398
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.2906821097696191
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 399
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.2906821097696191
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 400
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.2906821097696191
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 401
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.2906821097696191
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 402
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.290083150679511
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 403
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.290083150679511
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 404
+Previous coverage:0.6168067226890757
+Present coverage:0.6988668194550548
+Present branch_coverage:0.6571428571428571
+Reward:0.02596480092604211
+Present mutation rate:0.2898875850644762
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 405
+Previous coverage:0.6988668194550548
+Present coverage:0.6988668194550548
+Present branch_coverage:0.6571428571428571
+Reward:0.0
+Present mutation rate:0.2898875850644762
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 406
+Previous coverage:0.6988668194550548
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:-0.033929529758346386
+Present mutation rate:0.2800518356204559
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 407
+Previous coverage:0.5756461675579323
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.2800518356204559
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 408
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.2649633548378955
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 409
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.2649633548378955
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 410
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.2649633548378955
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 411
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.2649633548378955
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 412
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.2648090957905808
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 413
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.2648090957905808
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 414
+Previous coverage:0.5548128342245989
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.017057036523894904
+Present mutation rate:0.26473205157155877
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 415
+Previous coverage:0.6096638655462184
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.26473205157155877
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 416
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.2460344432676136
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 417
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.2460344432676136
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 418
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.245891204445595
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 419
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.245891204445595
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 420
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.23529384190954825
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 421
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.23529384190954825
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 422
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.23529384190954825
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 423
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.23529384190954825
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 424
+Previous coverage:0.4782881334351923
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.04286463623084946
+Present mutation rate:0.2348615184069578
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 425
+Previous coverage:0.6096638655462184
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.2348615184069578
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 426
+Previous coverage:0.6096638655462184
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.2348615184069578
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 427
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.21827361886561308
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 428
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.21827361886561308
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 429
+Previous coverage:0.4782881334351923
+Present coverage:0.6988668194550548
+Present branch_coverage:0.6571428571428571
+Reward:0.07590459715120858
+Present mutation rate:0.21701603369299205
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 430
+Previous coverage:0.6988668194550548
+Present coverage:0.6988668194550548
+Present branch_coverage:0.6571428571428571
+Reward:0.0
+Present mutation rate:0.21701603369299205
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 431
+Previous coverage:0.6988668194550548
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.051943964621985576
+Present mutation rate:0.19505623467656527
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 432
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.19505623467656527
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 433
+Previous coverage:0.4991214667685256
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.017327715918647478
+Present mutation rate:0.19499766909302163
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 434
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.19499766909302163
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 435
+Previous coverage:0.5548128342245989
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.016087104554996526
+Present mutation rate:0.19186072120234157
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 436
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.19186072120234157
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 437
+Previous coverage:0.4991214667685256
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.035606644018813145
+Present mutation rate:0.1916174738297409
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 438
+Previous coverage:0.6096638655462184
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.1916174738297409
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 439
+Previous coverage:0.6096638655462184
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.015853582269076794
+Present mutation rate:0.18558998744159771
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 440
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.18558998744159771
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 441
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.019366814980732214
+Present mutation rate:0.18552037755126766
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 442
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.18552037755126766
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 443
+Previous coverage:0.6168067226890757
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.0377180968623878
+Present mutation rate:0.17178935787177424
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 444
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.17178935787177424
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 445
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.17178935787177424
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 446
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.17178935787177424
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 447
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.17178935787177424
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 448
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.17178935787177424
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 449
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.17178935787177424
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 450
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.17178935787177424
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 451
+Previous coverage:0.4782881334351923
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0063368055555555495
+Present mutation rate:0.17178245965213132
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 452
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.17178245965213132
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 453
+Previous coverage:0.4991214667685256
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.017327715918647478
+Present mutation rate:0.17173088201346332
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 454
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.17173088201346332
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 455
+Previous coverage:0.5548128342245989
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.02178620427064035
+Present mutation rate:0.16432966398520968
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 456
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.16432966398520968
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 457
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.16432966398520968
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 458
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.16432966398520968
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 459
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.16432966398520968
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 460
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.16432966398520968
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 461
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.16829471137827737
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 462
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.16829471137827737
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 463
+Previous coverage:0.5548128342245989
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:-0.016087104554996526
+Present mutation rate:0.16558733676028206
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 464
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.16558733676028206
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 465
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.16558733676028206
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 466
+Previous coverage:0.4991214667685256
+Present coverage:0.4991214667685256
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.16558733676028206
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 467
+Previous coverage:0.4991214667685256
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.017327715918647478
+Present mutation rate:0.16845658709138966
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 468
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.16845658709138966
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 469
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.019366814980732214
+Present mutation rate:0.17171905464587423
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 470
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.17171905464587423
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 471
+Previous coverage:0.6168067226890757
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.006336805555555533
+Present mutation rate:0.17280720490534893
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 472
+Previous coverage:0.6376400560224089
+Present coverage:0.6376400560224089
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.17280720490534893
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 473
+Previous coverage:0.6376400560224089
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.023476096805194274
+Present mutation rate:0.1687503662343559
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 474
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.1687503662343559
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 475
+Previous coverage:0.5548128342245989
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.019366814980732214
+Present mutation rate:0.17201852335514747
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 476
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.17201852335514747
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 477
+Previous coverage:0.6168067226890757
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:-0.01782951809795382
+Present mutation rate:0.16895151597980357
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 478
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.16895151597980357
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 479
+Previous coverage:0.5548128342245989
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.006336805555555567
+Present mutation rate:0.1700221288848839
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 480
+Previous coverage:0.5756461675579323
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.1700221288848839
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 481
+Previous coverage:0.5756461675579323
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.027311692875173085
+Present mutation rate:0.16537853671879688
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 482
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.16537853671879688
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 483
+Previous coverage:0.4782881334351923
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.024128616203003637
+Present mutation rate:0.16936889195949908
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 484
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.16936889195949908
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 485
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.16936889195949908
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 486
+Previous coverage:0.5548128342245989
+Present coverage:0.5548128342245989
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.16936889195949908
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 487
+Previous coverage:0.5548128342245989
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.006336805555555567
+Present mutation rate:0.17044214969500632
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 488
+Previous coverage:0.5756461675579323
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.17044214969500632
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 489
+Previous coverage:0.5756461675579323
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.17044214969500632
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 490
+Previous coverage:0.5756461675579323
+Present coverage:0.5756461675579323
+Present branch_coverage:0.4
+Reward:0.0
+Present mutation rate:0.17044214969500632
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 491
+Previous coverage:0.5756461675579323
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.010436750151770289
+Present mutation rate:0.17222101182670374
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 492
+Previous coverage:0.6096638655462184
+Present coverage:0.6096638655462184
+Present branch_coverage:0.4857142857142857
+Reward:0.0
+Present mutation rate:0.17222101182670374
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 493
+Previous coverage:0.6096638655462184
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:-0.03596080303576622
+Present mutation rate:0.1660278059417833
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 494
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.1660278059417833
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 495
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.1660278059417833
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 496
+Previous coverage:0.4782881334351923
+Present coverage:0.4782881334351923
+Present branch_coverage:0.2285714285714285
+Reward:0.0
+Present mutation rate:0.1660278059417833
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 497
+Previous coverage:0.4782881334351923
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.04539305668994222
+Present mutation rate:0.1735643155490054
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 498
+Previous coverage:0.6168067226890757
+Present coverage:0.6168067226890757
+Present branch_coverage:0.5142857142857142
+Reward:0.0
+Present mutation rate:0.1735643155490054
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 499
+Previous coverage:0.6168067226890757
+Present coverage:0.7268430099312453
+Present branch_coverage:0.6857142857142857
+Reward:0.03543248307465914
+Present mutation rate:0.17971413022206031
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------
+------------------------QLearning------------------------
+Episodes : 500
+Previous coverage:0.7268430099312453
+Present coverage:0.7268430099312453
+Present branch_coverage:0.6857142857142857
+Reward:0.0
+Present mutation rate:0.17971413022206031
+Present class:org.fixsuite.message.Library(Fixed seed After RL)
+-------------------------------------------------------

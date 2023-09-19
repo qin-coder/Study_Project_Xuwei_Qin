@@ -1,0 +1,3500 @@
+
+-------------------------------------------------------
+Episodes : 1
+Present coverage:0.4234928071133439
+Present branch_coverage:0.2745098039215686
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 2
+Present coverage:0.4234928071133439
+Present branch_coverage:0.2745098039215686
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 3
+Present coverage:0.398737132219945
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 4
+Present coverage:0.5014168929806881
+Present branch_coverage:0.3464052287581699
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 5
+Present coverage:0.5171828622397139
+Present branch_coverage:0.3758169934640523
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 6
+Present coverage:0.5400347808808794
+Present branch_coverage:0.434640522875817
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 7
+Present coverage:0.4663954868674902
+Present branch_coverage:0.3235294117647059
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 8
+Present coverage:0.5309122235383607
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 9
+Present coverage:0.6133898582065532
+Present branch_coverage:0.4705882352941176
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 10
+Present coverage:0.5339494761097532
+Present branch_coverage:0.4084967320261438
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 11
+Present coverage:0.5619443153067659
+Present branch_coverage:0.4542483660130719
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 12
+Present coverage:0.5198614460787472
+Present branch_coverage:0.3300653594771242
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 13
+Present coverage:0.3444098582913556
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 14
+Present coverage:0.5601617615616401
+Present branch_coverage:0.4607843137254901
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 15
+Present coverage:0.4028030728904281
+Present branch_coverage:0.2973856209150327
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 16
+Present coverage:0.5696225276317909
+Present branch_coverage:0.4640522875816993
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 17
+Present coverage:0.4209973503228199
+Present branch_coverage:0.2679738562091503
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 18
+Present coverage:0.5313778902721572
+Present branch_coverage:0.4215686274509804
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 19
+Present coverage:0.5868200444328434
+Present branch_coverage:0.5032679738562091
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 20
+Present coverage:0.3565254429218323
+Present branch_coverage:0.2418300653594771
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 21
+Present coverage:0.3515772852467324
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 22
+Present coverage:0.3700102260079309
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 23
+Present coverage:0.5546462053512218
+Present branch_coverage:0.434640522875817
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 24
+Present coverage:0.4057417066294215
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 25
+Present coverage:0.3884551138827146
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 26
+Present coverage:0.4451976014618013
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 27
+Present coverage:0.3887154168965513
+Present branch_coverage:0.3006535947712418
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 28
+Present coverage:0.5596587753895126
+Present branch_coverage:0.4444444444444444
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 29
+Present coverage:0.6086585783912624
+Present branch_coverage:0.4836601307189542
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 30
+Present coverage:0.5372891976610662
+Present branch_coverage:0.457516339869281
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 31
+Present coverage:0.6013915549954806
+Present branch_coverage:0.4444444444444444
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 32
+Present coverage:0.3548292303261906
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 33
+Present coverage:0.4045449681748398
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 34
+Present coverage:0.3523755445658654
+Present branch_coverage:0.238562091503268
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 35
+Present coverage:0.5479011832257419
+Present branch_coverage:0.4673202614379085
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 36
+Present coverage:0.3790846685148257
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 37
+Present coverage:0.5090726560754248
+Present branch_coverage:0.3137254901960784
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 38
+Present coverage:0.4679454816466499
+Present branch_coverage:0.3235294117647059
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 39
+Present coverage:0.5880350978973756
+Present branch_coverage:0.4803921568627451
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 40
+Present coverage:0.5337202772414001
+Present branch_coverage:0.4542483660130719
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 41
+Present coverage:0.5435542284953702
+Present branch_coverage:0.4183006535947712
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 42
+Present coverage:0.6034836077833702
+Present branch_coverage:0.4803921568627451
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 43
+Present coverage:0.5693234290751014
+Present branch_coverage:0.4444444444444444
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 44
+Present coverage:0.3865718343348718
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 45
+Present coverage:0.574414251985886
+Present branch_coverage:0.4640522875816993
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 46
+Present coverage:0.4689725512311393
+Present branch_coverage:0.3202614379084967
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 47
+Present coverage:0.525923255678705
+Present branch_coverage:0.3431372549019608
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 48
+Present coverage:0.5128857818393455
+Present branch_coverage:0.4313725490196078
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 49
+Present coverage:0.4330604006358561
+Present branch_coverage:0.2712418300653594
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 50
+Present coverage:0.6404078759234061
+Present branch_coverage:0.5196078431372549
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 51
+Present coverage:0.5492738411997602
+Present branch_coverage:0.4281045751633986
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 52
+Present coverage:0.5326832812303633
+Present branch_coverage:0.3954248366013072
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 53
+Present coverage:0.642739307847317
+Present branch_coverage:0.5032679738562091
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 54
+Present coverage:0.3720205971733405
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 55
+Present coverage:0.3519856158671132
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 56
+Present coverage:0.4561732053387063
+Present branch_coverage:0.2647058823529412
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 57
+Present coverage:0.5816885380723599
+Present branch_coverage:0.457516339869281
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 58
+Present coverage:0.5586008697902944
+Present branch_coverage:0.457516339869281
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 59
+Present coverage:0.5586008697902944
+Present branch_coverage:0.457516339869281
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 60
+Present coverage:0.5579266090660056
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 61
+Present coverage:0.5404313143549326
+Present branch_coverage:0.4117647058823529
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 62
+Present coverage:0.5243285946442825
+Present branch_coverage:0.3333333333333333
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 63
+Present coverage:0.3741565615950706
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 64
+Present coverage:0.4899121679607506
+Present branch_coverage:0.3594771241830065
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 65
+Present coverage:0.3782681635007902
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 66
+Present coverage:0.5596475328134792
+Present branch_coverage:0.4379084967320261
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 67
+Present coverage:0.535213064201761
+Present branch_coverage:0.3954248366013072
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 68
+Present coverage:0.3866025269916813
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 69
+Present coverage:0.5552596053278873
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 70
+Present coverage:0.5477735067291803
+Present branch_coverage:0.4477124183006536
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 71
+Present coverage:0.3529018907677392
+Present branch_coverage:0.2712418300653594
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 72
+Present coverage:0.3769355634917994
+Present branch_coverage:0.2418300653594771
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 73
+Present coverage:0.3595693271421871
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 74
+Present coverage:0.5578087398200497
+Present branch_coverage:0.4738562091503268
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 75
+Present coverage:0.5158141972904088
+Present branch_coverage:0.3529411764705882
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 76
+Present coverage:0.5720998437618598
+Present branch_coverage:0.457516339869281
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 77
+Present coverage:0.5130543080215589
+Present branch_coverage:0.3660130718954248
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 78
+Present coverage:0.4070574550246216
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 79
+Present coverage:0.3821235945621036
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 80
+Present coverage:0.5157633164274528
+Present branch_coverage:0.4248366013071895
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 81
+Present coverage:0.3669102515812192
+Present branch_coverage:0.2352941176470588
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 82
+Present coverage:0.6137725729199459
+Present branch_coverage:0.4248366013071895
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 83
+Present coverage:0.5691735808957294
+Present branch_coverage:0.477124183006536
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 84
+Present coverage:0.3760803161531761
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 85
+Present coverage:0.5683543676900494
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 86
+Present coverage:0.5867246929810136
+Present branch_coverage:0.5130718954248366
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 87
+Present coverage:0.4987695490726133
+Present branch_coverage:0.3366013071895425
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 88
+Present coverage:0.4695729702128824
+Present branch_coverage:0.3300653594771242
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 89
+Present coverage:0.5193116352072187
+Present branch_coverage:0.3954248366013072
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 90
+Present coverage:0.524329811990322
+Present branch_coverage:0.4019607843137255
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 91
+Present coverage:0.5497837903269301
+Present branch_coverage:0.4215686274509804
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 92
+Present coverage:0.551036664671353
+Present branch_coverage:0.4705882352941176
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 93
+Present coverage:0.5968912507781488
+Present branch_coverage:0.4379084967320261
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 94
+Present coverage:0.5426183964159893
+Present branch_coverage:0.4019607843137255
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 95
+Present coverage:0.5728699676448716
+Present branch_coverage:0.4836601307189542
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 96
+Present coverage:0.5729640224633682
+Present branch_coverage:0.4673202614379085
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 97
+Present coverage:0.3515772852467324
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 98
+Present coverage:0.4062876613910378
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 99
+Present coverage:0.4986753731995121
+Present branch_coverage:0.369281045751634
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 100
+Present coverage:0.4025863707481983
+Present branch_coverage:0.2647058823529412
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 101
+Present coverage:0.3349067311270308
+Present branch_coverage:0.2745098039215686
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 102
+Present coverage:0.3735097208981306
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 103
+Present coverage:0.3591192496961731
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 104
+Present coverage:0.4111982710711184
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 105
+Present coverage:0.3813117186852364
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 106
+Present coverage:0.5568235656115184
+Present branch_coverage:0.4379084967320261
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 107
+Present coverage:0.3626623491611213
+Present branch_coverage:0.2418300653594771
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 108
+Present coverage:0.3594425380299177
+Present branch_coverage:0.238562091503268
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 109
+Present coverage:0.4240111629326643
+Present branch_coverage:0.2712418300653594
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 110
+Present coverage:0.4118794308488392
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 111
+Present coverage:0.3647128802763893
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 112
+Present coverage:0.5501305657783466
+Present branch_coverage:0.4117647058823529
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 113
+Present coverage:0.4160371467836269
+Present branch_coverage:0.326797385620915
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 114
+Present coverage:0.3914905591411183
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 115
+Present coverage:0.4646725532877942
+Present branch_coverage:0.4052287581699346
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 116
+Present coverage:0.4022206030624889
+Present branch_coverage:0.2875816993464052
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 117
+Present coverage:0.5060855844175168
+Present branch_coverage:0.3888888888888889
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 118
+Present coverage:0.5239847314662763
+Present branch_coverage:0.4117647058823529
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 119
+Present coverage:0.4928152042211995
+Present branch_coverage:0.3071895424836601
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 120
+Present coverage:0.3778174673798711
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 121
+Present coverage:0.391777266157324
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 122
+Present coverage:0.5288828334625381
+Present branch_coverage:0.3790849673202614
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 123
+Present coverage:0.5440893656111597
+Present branch_coverage:0.4215686274509804
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 124
+Present coverage:0.5476085023965038
+Present branch_coverage:0.4313725490196078
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 125
+Present coverage:0.5308145120731017
+Present branch_coverage:0.3562091503267974
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 126
+Present coverage:0.4026640839504833
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 127
+Present coverage:0.4403235748418343
+Present branch_coverage:0.2973856209150327
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 128
+Present coverage:0.5708794983088399
+Present branch_coverage:0.4640522875816993
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 129
+Present coverage:0.4599503390486645
+Present branch_coverage:0.2679738562091503
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 130
+Present coverage:0.3520997616152253
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 131
+Present coverage:0.4900341590820716
+Present branch_coverage:0.3202614379084967
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 132
+Present coverage:0.5330040802358268
+Present branch_coverage:0.3823529411764705
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 133
+Present coverage:0.553948410585494
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 134
+Present coverage:0.5633361294301631
+Present branch_coverage:0.4313725490196078
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 135
+Present coverage:0.529945117814144
+Present branch_coverage:0.369281045751634
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 136
+Present coverage:0.5391074862529528
+Present branch_coverage:0.434640522875817
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 137
+Present coverage:0.3680037040642162
+Present branch_coverage:0.2647058823529412
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 138
+Present coverage:0.5467202559418773
+Present branch_coverage:0.4084967320261438
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 139
+Present coverage:0.5434943070576932
+Present branch_coverage:0.4248366013071895
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 140
+Present coverage:0.64590156444364
+Present branch_coverage:0.5065359477124183
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 141
+Present coverage:0.5209600514268958
+Present branch_coverage:0.369281045751634
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 142
+Present coverage:0.6080650187350359
+Present branch_coverage:0.4673202614379085
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 143
+Present coverage:0.5675005080978807
+Present branch_coverage:0.4673202614379085
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 144
+Present coverage:0.3900437431320003
+Present branch_coverage:0.2679738562091503
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 145
+Present coverage:0.4426288290151043
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 146
+Present coverage:0.5220642883146868
+Present branch_coverage:0.3562091503267974
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 147
+Present coverage:0.5532105400972519
+Present branch_coverage:0.4313725490196078
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 148
+Present coverage:0.4033628454549535
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 149
+Present coverage:0.5333514604159794
+Present branch_coverage:0.4281045751633986
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 150
+Present coverage:0.3638656517326293
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 151
+Present coverage:0.6053856259028046
+Present branch_coverage:0.4150326797385621
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 152
+Present coverage:0.4056105776075876
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 153
+Present coverage:0.3700310834191209
+Present branch_coverage:0.238562091503268
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 154
+Present coverage:0.3620247146924299
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 155
+Present coverage:0.3536844670874775
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 156
+Present coverage:0.3598773528124366
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 157
+Present coverage:0.5301446729888674
+Present branch_coverage:0.4084967320261438
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 158
+Present coverage:0.371426865056838
+Present branch_coverage:0.238562091503268
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 159
+Present coverage:0.4182267810560446
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 160
+Present coverage:0.3658462853211185
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 161
+Present coverage:0.3796854813088128
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 162
+Present coverage:0.5071870053259367
+Present branch_coverage:0.3398692810457516
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 163
+Present coverage:0.4479401743056042
+Present branch_coverage:0.326797385620915
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 164
+Present coverage:0.555539568945403
+Present branch_coverage:0.3169934640522875
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 165
+Present coverage:0.5591308882018509
+Present branch_coverage:0.4379084967320261
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 166
+Present coverage:0.5534222101842405
+Present branch_coverage:0.4313725490196078
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 167
+Present coverage:0.5914084278687439
+Present branch_coverage:0.4313725490196078
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 168
+Present coverage:0.3803274132525572
+Present branch_coverage:0.3758169934640523
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 169
+Present coverage:0.3815210640267485
+Present branch_coverage:0.2418300653594771
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 170
+Present coverage:0.476960415814805
+Present branch_coverage:0.2941176470588235
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 171
+Present coverage:0.4018321768346751
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 172
+Present coverage:0.5883423082275703
+Present branch_coverage:0.4934640522875817
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 173
+Present coverage:0.543886248686257
+Present branch_coverage:0.4117647058823529
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 174
+Present coverage:0.4794198677411084
+Present branch_coverage:0.3398692810457516
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 175
+Present coverage:0.4200459907397865
+Present branch_coverage:0.2679738562091503
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 176
+Present coverage:0.4833430653777281
+Present branch_coverage:0.349673202614379
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 177
+Present coverage:0.5495255435683111
+Present branch_coverage:0.4313725490196078
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 178
+Present coverage:0.55787543599733
+Present branch_coverage:0.4248366013071895
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 179
+Present coverage:0.529037974396453
+Present branch_coverage:0.4117647058823529
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 180
+Present coverage:0.4102876653646302
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 181
+Present coverage:0.564224420690392
+Present branch_coverage:0.4640522875816993
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 182
+Present coverage:0.5233840052981653
+Present branch_coverage:0.3627450980392157
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 183
+Present coverage:0.5318911393968829
+Present branch_coverage:0.4640522875816993
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 184
+Present coverage:0.5500632340922387
+Present branch_coverage:0.4411764705882353
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 185
+Present coverage:0.3660397787194425
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 186
+Present coverage:0.4834064201558251
+Present branch_coverage:0.3366013071895425
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 187
+Present coverage:0.5435903623754228
+Present branch_coverage:0.4052287581699346
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 188
+Present coverage:0.507670115213264
+Present branch_coverage:0.3986928104575163
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 189
+Present coverage:0.4915831482429533
+Present branch_coverage:0.3235294117647059
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 190
+Present coverage:0.4178437692015138
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 191
+Present coverage:0.6282087198837406
+Present branch_coverage:0.477124183006536
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 192
+Present coverage:0.3711356828799871
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 193
+Present coverage:0.4555867370677878
+Present branch_coverage:0.2712418300653594
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 194
+Present coverage:0.3658034114255578
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 195
+Present coverage:0.3791276724292741
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 196
+Present coverage:0.3635738866336304
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 197
+Present coverage:0.5413510309687419
+Present branch_coverage:0.3888888888888889
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 198
+Present coverage:0.6047751054586032
+Present branch_coverage:0.4477124183006536
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 199
+Present coverage:0.5580097664443943
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 200
+Present coverage:0.4580025413024177
+Present branch_coverage:0.2679738562091503
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 201
+Present coverage:0.6244424683598585
+Present branch_coverage:0.5098039215686274
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 202
+Present coverage:0.6244424683598585
+Present branch_coverage:0.5098039215686274
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 203
+Present coverage:0.5345730694690325
+Present branch_coverage:0.4183006535947712
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 204
+Present coverage:0.3763316987574999
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 205
+Present coverage:0.4559353997396076
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 206
+Present coverage:0.36282141018222
+Present branch_coverage:0.2418300653594771
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 207
+Present coverage:0.3915085035748731
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 208
+Present coverage:0.5429742310601855
+Present branch_coverage:0.4215686274509804
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 209
+Present coverage:0.3969126536456526
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 210
+Present coverage:0.5486569584140466
+Present branch_coverage:0.4411764705882353
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 211
+Present coverage:0.3385982308301129
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 212
+Present coverage:0.5364196905827977
+Present branch_coverage:0.4607843137254901
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 213
+Present coverage:0.5619360846524684
+Present branch_coverage:0.4640522875816993
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 214
+Present coverage:0.5572090817474933
+Present branch_coverage:0.4607843137254901
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 215
+Present coverage:0.3537928937123409
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 216
+Present coverage:0.4539699373806855
+Present branch_coverage:0.2810457516339869
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 217
+Present coverage:0.5627633665221934
+Present branch_coverage:0.434640522875817
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 218
+Present coverage:0.3626135010015384
+Present branch_coverage:0.238562091503268
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 219
+Present coverage:0.5440132735775719
+Present branch_coverage:0.4052287581699346
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 220
+Present coverage:0.544078810347408
+Present branch_coverage:0.4183006535947712
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 221
+Present coverage:0.401880242934401
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 222
+Present coverage:0.5149059547401583
+Present branch_coverage:0.3888888888888889
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 223
+Present coverage:0.4007228355269936
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 224
+Present coverage:0.3596832571740496
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 225
+Present coverage:0.5546547306358101
+Present branch_coverage:0.4215686274509804
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 226
+Present coverage:0.5113847727223892
+Present branch_coverage:0.3986928104575163
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 227
+Present coverage:0.5496753552710792
+Present branch_coverage:0.434640522875817
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 228
+Present coverage:0.6742704054296107
+Present branch_coverage:0.5751633986928104
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 229
+Present coverage:0.5778439711069469
+Present branch_coverage:0.3954248366013072
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 230
+Present coverage:0.5441696287967344
+Present branch_coverage:0.434640522875817
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 231
+Present coverage:0.5298312561721118
+Present branch_coverage:0.434640522875817
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 232
+Present coverage:0.349618191624689
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 233
+Present coverage:0.5671361144586538
+Present branch_coverage:0.4117647058823529
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 234
+Present coverage:0.3621650532949562
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 235
+Present coverage:0.3915085035748731
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 236
+Present coverage:0.3885625726133055
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 237
+Present coverage:0.5142485125736815
+Present branch_coverage:0.3562091503267974
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 238
+Present coverage:0.3515772852467324
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 239
+Present coverage:0.5366354748445579
+Present branch_coverage:0.3758169934640523
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 240
+Present coverage:0.5506810026412439
+Present branch_coverage:0.3856209150326797
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 241
+Present coverage:0.4694218716146711
+Present branch_coverage:0.3169934640522875
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 242
+Present coverage:0.3723824085645636
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 243
+Present coverage:0.35400953149397
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 244
+Present coverage:0.4499748760190443
+Present branch_coverage:0.3104575163398693
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 245
+Present coverage:0.4003644673541926
+Present branch_coverage:0.2647058823529412
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 246
+Present coverage:0.3856147805596436
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 247
+Present coverage:0.4989933471961408
+Present branch_coverage:0.3366013071895425
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 248
+Present coverage:0.3662336957513435
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 249
+Present coverage:0.5630088500633245
+Present branch_coverage:0.4640522875816993
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 250
+Present coverage:0.3429967948713024
+Present branch_coverage:0.284313725490196
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 251
+Present coverage:0.396252651468202
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 252
+Present coverage:0.5082087714765497
+Present branch_coverage:0.3202614379084967
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 253
+Present coverage:0.4161637130511354
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 254
+Present coverage:0.5139577219121312
+Present branch_coverage:0.4084967320261438
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 255
+Present coverage:0.516889384255556
+Present branch_coverage:0.369281045751634
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 256
+Present coverage:0.5085455159627632
+Present branch_coverage:0.3202614379084967
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 257
+Present coverage:0.3651811741340168
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 258
+Present coverage:0.5153260153564454
+Present branch_coverage:0.3235294117647059
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 259
+Present coverage:0.5801886679541468
+Present branch_coverage:0.4901960784313725
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 260
+Present coverage:0.409448525950137
+Present branch_coverage:0.2777777777777778
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 261
+Present coverage:0.35702362890911
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 262
+Present coverage:0.6485582759656653
+Present branch_coverage:0.5130718954248366
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 263
+Present coverage:0.6342502531793563
+Present branch_coverage:0.5
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 264
+Present coverage:0.4335554119532181
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 265
+Present coverage:0.4224650347521954
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 266
+Present coverage:0.5216633213378323
+Present branch_coverage:0.3300653594771242
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 267
+Present coverage:0.5293406278614363
+Present branch_coverage:0.392156862745098
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 268
+Present coverage:0.4825471864736212
+Present branch_coverage:0.3562091503267974
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 269
+Present coverage:0.352434198060167
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 270
+Present coverage:0.5022256231681411
+Present branch_coverage:0.3562091503267974
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 271
+Present coverage:0.5448502791351968
+Present branch_coverage:0.4019607843137255
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 272
+Present coverage:0.5821353058404475
+Present branch_coverage:0.4869281045751634
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 273
+Present coverage:0.5063439758064366
+Present branch_coverage:0.3235294117647059
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 274
+Present coverage:0.6376045513050521
+Present branch_coverage:0.5849673202614379
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 275
+Present coverage:0.4359527500998753
+Present branch_coverage:0.2745098039215686
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 276
+Present coverage:0.5099406884936253
+Present branch_coverage:0.3986928104575163
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 277
+Present coverage:0.3947178117449284
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 278
+Present coverage:0.4872303101020657
+Present branch_coverage:0.2712418300653594
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 279
+Present coverage:0.4901563369048159
+Present branch_coverage:0.3398692810457516
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 280
+Present coverage:0.4778011321280762
+Present branch_coverage:0.3235294117647059
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 281
+Present coverage:0.3769641257112721
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 282
+Present coverage:0.5455123567390524
+Present branch_coverage:0.457516339869281
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 283
+Present coverage:0.417913694619826
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 284
+Present coverage:0.3872962327440244
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 285
+Present coverage:0.534031728244245
+Present branch_coverage:0.349673202614379
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 286
+Present coverage:0.3922813874527185
+Present branch_coverage:0.2679738562091503
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 287
+Present coverage:0.5053792039381172
+Present branch_coverage:0.4052287581699346
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 288
+Present coverage:0.6053967020472927
+Present branch_coverage:0.4607843137254901
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 289
+Present coverage:0.5701519062365883
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 290
+Present coverage:0.5189323875943058
+Present branch_coverage:0.3627450980392157
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 291
+Present coverage:0.4278907544113807
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 292
+Present coverage:0.5045060273056939
+Present branch_coverage:0.4248366013071895
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 293
+Present coverage:0.5531775162653616
+Present branch_coverage:0.4281045751633986
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 294
+Present coverage:0.3697451358622996
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 295
+Present coverage:0.5321578373577893
+Present branch_coverage:0.4052287581699346
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 296
+Present coverage:0.4380694719120519
+Present branch_coverage:0.3660130718954248
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 297
+Present coverage:0.5029391852674538
+Present branch_coverage:0.3725490196078431
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 298
+Present coverage:0.5524209434046016
+Present branch_coverage:0.4281045751633986
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 299
+Present coverage:0.4298911584932995
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 300
+Present coverage:0.3675607229999766
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 301
+Present coverage:0.6172305325467689
+Present branch_coverage:0.4444444444444444
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 302
+Present coverage:0.4004111114716235
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 303
+Present coverage:0.5189909979896346
+Present branch_coverage:0.3790849673202614
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 304
+Present coverage:0.5178500155665597
+Present branch_coverage:0.326797385620915
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 305
+Present coverage:0.5459724985501775
+Present branch_coverage:0.4117647058823529
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 306
+Present coverage:0.3972642298625057
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 307
+Present coverage:0.5084073841784083
+Present branch_coverage:0.3725490196078431
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 308
+Present coverage:0.3874049682213377
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 309
+Present coverage:0.5783354587082268
+Present branch_coverage:0.3954248366013072
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 310
+Present coverage:0.4025708276200591
+Present branch_coverage:0.2777777777777778
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 311
+Present coverage:0.4037360264546918
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 312
+Present coverage:0.5661487009326954
+Present branch_coverage:0.477124183006536
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 313
+Present coverage:0.5097505540146534
+Present branch_coverage:0.3758169934640523
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 314
+Present coverage:0.5097505540146534
+Present branch_coverage:0.3758169934640523
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 315
+Present coverage:0.3782924830712254
+Present branch_coverage:0.238562091503268
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 316
+Present coverage:0.6172885562160205
+Present branch_coverage:0.4673202614379085
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 317
+Present coverage:0.5566267662854534
+Present branch_coverage:0.4444444444444444
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 318
+Present coverage:0.5156610011261303
+Present branch_coverage:0.369281045751634
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 319
+Present coverage:0.3381826430848205
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 320
+Present coverage:0.5556922470591323
+Present branch_coverage:0.4084967320261438
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 321
+Present coverage:0.5253371445893913
+Present branch_coverage:0.4313725490196078
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 322
+Present coverage:0.4989079592597263
+Present branch_coverage:0.2941176470588235
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 323
+Present coverage:0.484612512218633
+Present branch_coverage:0.3464052287581699
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 324
+Present coverage:0.3501462970605892
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 325
+Present coverage:0.3444998269779115
+Present branch_coverage:0.2352941176470588
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 326
+Present coverage:0.49697688638048
+Present branch_coverage:0.2810457516339869
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 327
+Present coverage:0.5495691152099308
+Present branch_coverage:0.434640522875817
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 328
+Present coverage:0.3543698775351426
+Present branch_coverage:0.2352941176470588
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 329
+Present coverage:0.6158184436115905
+Present branch_coverage:0.4313725490196078
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 330
+Present coverage:0.4046871434722416
+Present branch_coverage:0.2941176470588235
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 331
+Present coverage:0.5668994292903232
+Present branch_coverage:0.4411764705882353
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 332
+Present coverage:0.3622626222534147
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 333
+Present coverage:0.6050526371059652
+Present branch_coverage:0.5196078431372549
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 334
+Present coverage:0.3866075827438083
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 335
+Present coverage:0.4062606544493496
+Present branch_coverage:0.2418300653594771
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 336
+Present coverage:0.3988180154400936
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 337
+Present coverage:0.5135302442497195
+Present branch_coverage:0.3529411764705882
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 338
+Present coverage:0.7022604936935615
+Present branch_coverage:0.6241830065359477
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 339
+Present coverage:0.4991524386179199
+Present branch_coverage:0.3464052287581699
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 340
+Present coverage:0.5060458635259968
+Present branch_coverage:0.3823529411764705
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 341
+Present coverage:0.571739835063581
+Present branch_coverage:0.4607843137254901
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 342
+Present coverage:0.4384720862875128
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 343
+Present coverage:0.4144726467218885
+Present branch_coverage:0.284313725490196
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 344
+Present coverage:0.3917368529839994
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 345
+Present coverage:0.4017751923400604
+Present branch_coverage:0.2745098039215686
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 346
+Present coverage:0.3735469181786017
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 347
+Present coverage:0.5552515583261908
+Present branch_coverage:0.4248366013071895
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 348
+Present coverage:0.5676552947923789
+Present branch_coverage:0.4869281045751634
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 349
+Present coverage:0.4806559693536468
+Present branch_coverage:0.326797385620915
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 350
+Present coverage:0.6400975753011069
+Present branch_coverage:0.5163398692810458
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 351
+Present coverage:0.565085777722874
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 352
+Present coverage:0.565085777722874
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 353
+Present coverage:0.3728594765352777
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 354
+Present coverage:0.3939294399122527
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 355
+Present coverage:0.3695354739228181
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 356
+Present coverage:0.5268951062644306
+Present branch_coverage:0.4117647058823529
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 357
+Present coverage:0.3783238568738452
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 358
+Present coverage:0.4168320238537173
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 359
+Present coverage:0.5207976925276396
+Present branch_coverage:0.4150326797385621
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 360
+Present coverage:0.3662148053796982
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 361
+Present coverage:0.5599368487641786
+Present branch_coverage:0.4411764705882353
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 362
+Present coverage:0.5485353280450838
+Present branch_coverage:0.434640522875817
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 363
+Present coverage:0.4049387488755259
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 364
+Present coverage:0.3520490369748381
+Present branch_coverage:0.2418300653594771
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 365
+Present coverage:0.3534332777857357
+Present branch_coverage:0.2352941176470588
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 366
+Present coverage:0.3972696389151472
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 367
+Present coverage:0.5652189380170272
+Present branch_coverage:0.4379084967320261
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 368
+Present coverage:0.581448774323698
+Present branch_coverage:0.4542483660130719
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 369
+Present coverage:0.581448774323698
+Present branch_coverage:0.4542483660130719
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 370
+Present coverage:0.5656267073861013
+Present branch_coverage:0.4607843137254901
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 371
+Present coverage:0.5651668318571679
+Present branch_coverage:0.4313725490196078
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 372
+Present coverage:0.5342411556533565
+Present branch_coverage:0.3954248366013072
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 373
+Present coverage:0.381321643453327
+Present branch_coverage:0.238562091503268
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 374
+Present coverage:0.572538186869483
+Present branch_coverage:0.4248366013071895
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 375
+Present coverage:0.4464929547241419
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 376
+Present coverage:0.3682701772559188
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 377
+Present coverage:0.5516523316487159
+Present branch_coverage:0.4183006535947712
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 378
+Present coverage:0.6111996449015474
+Present branch_coverage:0.4836601307189542
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 379
+Present coverage:0.3690076415539685
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 380
+Present coverage:0.3678787093379059
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 381
+Present coverage:0.5337345086920683
+Present branch_coverage:0.3594771241830065
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 382
+Present coverage:0.3582951069772621
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 383
+Present coverage:0.4790847244509826
+Present branch_coverage:0.2908496732026144
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 384
+Present coverage:0.489058156686552
+Present branch_coverage:0.3627450980392157
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 385
+Present coverage:0.3581492152872527
+Present branch_coverage:0.2418300653594771
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 386
+Present coverage:0.3776375823640412
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 387
+Present coverage:0.3754039695511139
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 388
+Present coverage:0.528043629864468
+Present branch_coverage:0.3986928104575163
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 389
+Present coverage:0.4803468853369584
+Present branch_coverage:0.2777777777777778
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 390
+Present coverage:0.4049561908867203
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 391
+Present coverage:0.5721206903371371
+Present branch_coverage:0.4673202614379085
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 392
+Present coverage:0.6065590355660506
+Present branch_coverage:0.4542483660130719
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 393
+Present coverage:0.5897250916528937
+Present branch_coverage:0.5
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 394
+Present coverage:0.427411682636702
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 395
+Present coverage:0.5386385128596493
+Present branch_coverage:0.3594771241830065
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 396
+Present coverage:0.5046016565214492
+Present branch_coverage:0.349673202614379
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 397
+Present coverage:0.5779986188710908
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 398
+Present coverage:0.4167038814036892
+Present branch_coverage:0.2810457516339869
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 399
+Present coverage:0.5368681279280252
+Present branch_coverage:0.3856209150326797
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 400
+Present coverage:0.4030241369532268
+Present branch_coverage:0.261437908496732
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 401
+Present coverage:0.4045302521434998
+Present branch_coverage:0.2516339869281045
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 402
+Present coverage:0.5795069791623962
+Present branch_coverage:0.4803921568627451
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 403
+Present coverage:0.5482741427866074
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 404
+Present coverage:0.5467978589983697
+Present branch_coverage:0.392156862745098
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 405
+Present coverage:0.3801035058615606
+Present branch_coverage:0.238562091503268
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 406
+Present coverage:0.6604612847600942
+Present branch_coverage:0.5490196078431373
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 407
+Present coverage:0.5052071456009295
+Present branch_coverage:0.3627450980392157
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 408
+Present coverage:0.5183873812891575
+Present branch_coverage:0.3300653594771242
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 409
+Present coverage:0.5634260326401208
+Present branch_coverage:0.4477124183006536
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 410
+Present coverage:0.4990942303920569
+Present branch_coverage:0.326797385620915
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 411
+Present coverage:0.5372780028845693
+Present branch_coverage:0.392156862745098
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 412
+Present coverage:0.4700934680302149
+Present branch_coverage:0.2712418300653594
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 413
+Present coverage:0.4968344279444441
+Present branch_coverage:0.3627450980392157
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 414
+Present coverage:0.3505141699421311
+Present branch_coverage:0.238562091503268
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 415
+Present coverage:0.5550064474101234
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 416
+Present coverage:0.5353925228930028
+Present branch_coverage:0.4477124183006536
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 417
+Present coverage:0.3631578666038691
+Present branch_coverage:0.2352941176470588
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 418
+Present coverage:0.4520740332570733
+Present branch_coverage:0.2712418300653594
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 419
+Present coverage:0.3739821777254584
+Present branch_coverage:0.2352941176470588
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 420
+Present coverage:0.5521022118570418
+Present branch_coverage:0.4052287581699346
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 421
+Present coverage:0.5232480992585736
+Present branch_coverage:0.392156862745098
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 422
+Present coverage:0.604132937341267
+Present branch_coverage:0.4084967320261438
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 423
+Present coverage:0.4354815327726917
+Present branch_coverage:0.2647058823529412
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 424
+Present coverage:0.6169682775449502
+Present branch_coverage:0.4869281045751634
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 425
+Present coverage:0.4530087022541054
+Present branch_coverage:0.3954248366013072
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 426
+Present coverage:0.4008314896684938
+Present branch_coverage:0.3562091503267974
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 427
+Present coverage:0.5105927208716348
+Present branch_coverage:0.3856209150326797
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 428
+Present coverage:0.3838144813936953
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 429
+Present coverage:0.6159848201959021
+Present branch_coverage:0.4803921568627451
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 430
+Present coverage:0.4340610190503597
+Present branch_coverage:0.2777777777777778
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 431
+Present coverage:0.4538140478313608
+Present branch_coverage:0.3071895424836601
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 432
+Present coverage:0.4853075816109056
+Present branch_coverage:0.3104575163398693
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 433
+Present coverage:0.5483069939494255
+Present branch_coverage:0.4215686274509804
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 434
+Present coverage:0.511349808517693
+Present branch_coverage:0.3562091503267974
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 435
+Present coverage:0.5499785215989883
+Present branch_coverage:0.4379084967320261
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 436
+Present coverage:0.4860869138529734
+Present branch_coverage:0.3006535947712418
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 437
+Present coverage:0.4543863678429192
+Present branch_coverage:0.3039215686274509
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 438
+Present coverage:0.4560946890837194
+Present branch_coverage:0.2647058823529412
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 439
+Present coverage:0.5174507779298996
+Present branch_coverage:0.4117647058823529
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 440
+Present coverage:0.4920748835406454
+Present branch_coverage:0.3137254901960784
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 441
+Present coverage:0.5327002997102047
+Present branch_coverage:0.3888888888888889
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 442
+Present coverage:0.5382368425986296
+Present branch_coverage:0.3235294117647059
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 443
+Present coverage:0.4165314216264583
+Present branch_coverage:0.2483660130718954
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 444
+Present coverage:0.5311880858238037
+Present branch_coverage:0.3954248366013072
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 445
+Present coverage:0.3585523862552289
+Present branch_coverage:0.2549019607843137
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 446
+Present coverage:0.4922161761755841
+Present branch_coverage:0.3104575163398693
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 447
+Present coverage:0.5185447149117998
+Present branch_coverage:0.4183006535947712
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 448
+Present coverage:0.5267448163020215
+Present branch_coverage:0.3790849673202614
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 449
+Present coverage:0.5267448163020215
+Present branch_coverage:0.3790849673202614
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 450
+Present coverage:0.5385101394286078
+Present branch_coverage:0.4281045751633986
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 451
+Present coverage:0.5385101394286078
+Present branch_coverage:0.4281045751633986
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 452
+Present coverage:0.4104048543243547
+Present branch_coverage:0.2810457516339869
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 453
+Present coverage:0.5504906047359056
+Present branch_coverage:0.3986928104575163
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 454
+Present coverage:0.5504906047359056
+Present branch_coverage:0.3986928104575163
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 455
+Present coverage:0.401880242934401
+Present branch_coverage:0.2581699346405229
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 456
+Present coverage:0.4887667191238206
+Present branch_coverage:0.3169934640522875
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 457
+Present coverage:0.4887667191238206
+Present branch_coverage:0.3169934640522875
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 458
+Present coverage:0.4583317219673524
+Present branch_coverage:0.3104575163398693
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 459
+Present coverage:0.3776375823640412
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 460
+Present coverage:0.3776375823640412
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 461
+Present coverage:0.5007460424589876
+Present branch_coverage:0.4117647058823529
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 462
+Present coverage:0.5007460424589876
+Present branch_coverage:0.4117647058823529
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 463
+Present coverage:0.5425350545181218
+Present branch_coverage:0.3888888888888889
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 464
+Present coverage:0.5425350545181218
+Present branch_coverage:0.3888888888888889
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 465
+Present coverage:0.5618299796130821
+Present branch_coverage:0.4411764705882353
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 466
+Present coverage:0.5618299796130821
+Present branch_coverage:0.4411764705882353
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 467
+Present coverage:0.5542018678552167
+Present branch_coverage:0.4379084967320261
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 468
+Present coverage:0.5542018678552167
+Present branch_coverage:0.4379084967320261
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 469
+Present coverage:0.519937216906814
+Present branch_coverage:0.3986928104575163
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 470
+Present coverage:0.519937216906814
+Present branch_coverage:0.3986928104575163
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 471
+Present coverage:0.4978405384146347
+Present branch_coverage:0.2810457516339869
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 472
+Present coverage:0.4715891289482475
+Present branch_coverage:0.2908496732026144
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 473
+Present coverage:0.4715891289482475
+Present branch_coverage:0.2908496732026144
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 474
+Present coverage:0.5573757263886356
+Present branch_coverage:0.4183006535947712
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 475
+Present coverage:0.5573757263886356
+Present branch_coverage:0.4183006535947712
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 476
+Present coverage:0.5400919852200681
+Present branch_coverage:0.4281045751633986
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 477
+Present coverage:0.5400919852200681
+Present branch_coverage:0.4281045751633986
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 478
+Present coverage:0.3633037632775583
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 479
+Present coverage:0.4893887019191328
+Present branch_coverage:0.3954248366013072
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 480
+Present coverage:0.4893887019191328
+Present branch_coverage:0.3954248366013072
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 481
+Present coverage:0.4869858572071451
+Present branch_coverage:0.4019607843137255
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 482
+Present coverage:0.4869858572071451
+Present branch_coverage:0.4019607843137255
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 483
+Present coverage:0.5036958399400828
+Present branch_coverage:0.3006535947712418
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 484
+Present coverage:0.482315390013145
+Present branch_coverage:0.3398692810457516
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 485
+Present coverage:0.482315390013145
+Present branch_coverage:0.3398692810457516
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 486
+Present coverage:0.4657326808247083
+Present branch_coverage:0.284313725490196
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 487
+Present coverage:0.555002849354354
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 488
+Present coverage:0.555002849354354
+Present branch_coverage:0.4509803921568627
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 489
+Present coverage:0.5618407125627309
+Present branch_coverage:0.4607843137254901
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 490
+Present coverage:0.3515772852467324
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 491
+Present coverage:0.3515772852467324
+Present branch_coverage:0.2450980392156862
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 492
+Present coverage:0.5403808798221919
+Present branch_coverage:0.4150326797385621
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 493
+Present coverage:0.5403808798221919
+Present branch_coverage:0.4150326797385621
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 494
+Present coverage:0.4803378937443978
+Present branch_coverage:0.3594771241830065
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 495
+Present coverage:0.4803378937443978
+Present branch_coverage:0.3594771241830065
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 496
+Present coverage:0.5269192927081252
+Present branch_coverage:0.3790849673202614
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 497
+Present coverage:0.5269192927081252
+Present branch_coverage:0.3790849673202614
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 498
+Present coverage:0.5627088029085081
+Present branch_coverage:0.4607843137254901
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 499
+Present coverage:0.5627088029085081
+Present branch_coverage:0.4607843137254901
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Episodes : 500
+Present coverage:0.4801147119525787
+Present branch_coverage:0.3039215686274509
+Present class:com.ib.client.EReader(Fixed_seed)
+-------------------------------------------------------
