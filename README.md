@@ -6,9 +6,6 @@ The Evo_experiment_data folder stores experimental data, including all reinforce
 # experiment_script
 The experiment_script folder stores the code for reinforcement learning, including changing the crossover rate or mutation rate under random seeds and fixed random seeds. The image generation code is also stored.
 
-# experiment_script
-The experiment_script folder stores the code for reinforcement learning, including changing the crossover rate or mutation rate under random seeds and fixed random seeds. The image generation code is also stored.
-
 # Evosuite_modified
 The modified Evosuite code is stored in the Evosuite_modified folder. Run the package.bat file to complete the project packaging. The new Evosuite.jar package can be found in the evosuite-landscape\shaded\target path.
 
