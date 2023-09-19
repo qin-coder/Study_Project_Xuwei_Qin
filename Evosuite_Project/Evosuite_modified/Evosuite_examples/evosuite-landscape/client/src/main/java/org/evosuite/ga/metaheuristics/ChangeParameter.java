@@ -18,7 +18,7 @@ public class ChangeParameter {
     double lsip_test_insert = Properties.P_TEST_INSERT;
 
 
-    public int execThom(){
+    public int execFunc(){
 
         try {
             BufferedReader reader = new BufferedReader(new FileReader("swap.txt"));
