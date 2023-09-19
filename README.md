@@ -3,7 +3,7 @@
 # Evo_experiment_data
 The Evo_experiment_data folder stores experimental data, including all reinforcement learning running data, images used in reports, data running under the default configuration of Evosuite, and data sets.
 
-# experiment_script
+# Experiment_script
 The experiment_script folder stores the code for reinforcement learning, including changing the crossover rate or mutation rate under random seeds and fixed random seeds. The image generation code is also stored.
 
 # Evosuite_modified
